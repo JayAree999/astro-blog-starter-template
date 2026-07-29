@@ -27,6 +27,8 @@ The catalog images in `public/images/` are byte-for-byte matches for images in `
 | `tc110-desk.png` | `D:\Furniture pics raw\TC110\main_images\7.png` |
 | `tc150-desk.png` | `D:\Furniture pics raw\TC150\main_images\3.png` |
 
+For page-speed delivery, each of these preserved PNG source images has a matching `.webp` derivative in `public/images/`. The catalog and product templates serve WebP; PNG remains the auditable raw-source copy and the social-preview fallback.
+
 ## Product copy and pricing reference
 
 - Product names, features, specifications, and image references: `src/data/products.ts`.

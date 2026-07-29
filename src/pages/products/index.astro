@@ -7,6 +7,7 @@ import { products } from '../../data/products';
 const title = 'แคตตาล็อกเฟอร์นิเจอร์ | Sunny Furniture';
 const description = 'เลือกดูตู้เสื้อผ้า เตียง โต๊ะเครื่องแป้ง ตู้วางทีวี ตู้เก็บของ ตู้รองเท้า และโต๊ะทำงานจาก Sunny Furniture พร้อมรายละเอียดสินค้าแต่ละรุ่น';
 const categories = [...new Set(products.map((product) => product.category))];
+const imagePath = (path: string) => path.replace(/\.png$/, '.webp');
 const itemListSchema = {
 	'@context': 'https://schema.org',
 	'@type': 'ItemList',
@@ -45,7 +46,7 @@ const itemListSchema = {
 					<div class="product-grid catalog-grid">
 						{products.filter((product) => product.category === category).map((product) => (
 							<article class="product-card">
-								<img src={product.image} width="800" height="800" loading="lazy" alt={product.gallery[0].alt} />
+								<img src={imagePath(product.image)} width="800" height="800" loading="lazy" alt={product.gallery[0].alt} />
 								<div>
 									<p class="card-label">รุ่น {product.model}</p>
 									<h3>{product.shortName}</h3>

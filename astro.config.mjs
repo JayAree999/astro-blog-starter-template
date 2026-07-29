@@ -1,17 +1,21 @@
 // @ts-check
-import { defineConfig } from "astro/config";
-import mdx from "@astrojs/mdx";
-import sitemap from "@astrojs/sitemap";
+import { defineConfig } from 'astro/config';
+import mdx from '@astrojs/mdx';
+import sitemap from '@astrojs/sitemap';
+import cloudflare from '@astrojs/cloudflare';
 
-import cloudflare from "@astrojs/cloudflare";
-
-// https://astro.build/config
 export default defineConfig({
-	site: "https://v2.sunny.co.th",
-	integrations: [mdx(), sitemap({ filter: (page) => !page.startsWith('/blog') && page !== '/about' })],
+	site: 'https://v2.sunny.co.th',
+	integrations: [
+		mdx(),
+		sitemap({
+			filter: (page) => {
+				const path = new URL(page).pathname;
+				return !path.startsWith('/blog/') && path !== '/about/';
+			},
+		}),
+	],
 	adapter: cloudflare({
-		platformProxy: {
-			enabled: true,
-		},
+		platformProxy: { enabled: true },
 	}),
 });
