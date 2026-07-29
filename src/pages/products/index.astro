@@ -1,0 +1,71 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { products } from '../../data/products';
+
+const title = 'แคตตาล็อกเฟอร์นิเจอร์ | Sunny Furniture';
+const description = 'เลือกดูตู้เสื้อผ้า เตียง โต๊ะเครื่องแป้ง ตู้วางทีวี ตู้เก็บของ ตู้รองเท้า และโต๊ะทำงานจาก Sunny Furniture พร้อมรายละเอียดสินค้าแต่ละรุ่น';
+const categories = [...new Set(products.map((product) => product.category))];
+const itemListSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'ItemList',
+	name: 'Sunny Furniture Product Catalog',
+	numberOfItems: products.length,
+	itemListElement: products.map((product, position) => ({
+		'@type': 'ListItem',
+		position: position + 1,
+		url: new URL(`/products/${product.slug}`, Astro.site).toString(),
+		name: product.name,
+	})),
+};
+---
+
+<!doctype html>
+<html lang="th">
+	<head>
+		<BaseHead title={title} description={description} />
+		<script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="catalog-hero wrap">
+				<p class="eyebrow">SUNNY FURNITURE CATALOG</p>
+				<h1>เลือกเฟอร์นิเจอร์ให้เหมาะกับพื้นที่ของคุณ</h1>
+				<p class="lead">รวมสินค้ารุ่นที่มีภาพและรายละเอียดสำหรับบ้าน หอพัก อพาร์ตเมนต์ ร้านค้า และโครงการ เลือกดูแต่ละรุ่นเพื่อเช็กคุณสมบัติและสอบถามราคาได้โดยตรง</p>
+				<nav class="category-links" aria-label="หมวดหมู่สินค้า">
+					{categories.map((category) => <a href={`#${category}`}>{category}</a>)}
+				</nav>
+			</section>
+
+			{categories.map((category) => (
+				<section id={category} class="catalog-section wrap">
+					<h2>{category}</h2>
+					<div class="product-grid catalog-grid">
+						{products.filter((product) => product.category === category).map((product) => (
+							<article class="product-card">
+								<img src={product.image} width="800" height="800" loading="lazy" alt={product.gallery[0].alt} />
+								<div>
+									<p class="card-label">รุ่น {product.model}</p>
+									<h3>{product.shortName}</h3>
+									<p>{product.description}</p>
+									<a href={`/products/${product.slug}`}>ดูรายละเอียดสินค้า →</a>
+								</div>
+							</article>
+						))}
+					</div>
+				</section>
+			))}
+
+			<section class="catalog-contact">
+				<div class="wrap"><h2>ต้องการสินค้าหลายรายการหรือสั่งผลิตตามโครงการ?</h2><p>ส่งรุ่นสินค้า จำนวน และพื้นที่จัดส่งให้ทีมขาย เพื่อรับคำแนะนำและใบเสนอราคา</p><a class="button button-light" href="/#contact">ขอใบเสนอราคา</a></div>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.catalog-hero{padding:5.5rem 0 2.5rem}.catalog-hero .lead{max-width:72ch}.category-links{display:flex;flex-wrap:wrap;gap:.65rem;margin-top:2rem}.category-links a{border:1px solid var(--line);background:var(--surface);padding:.55rem .8rem;border-radius:999px;text-decoration:none;font-weight:700;font-size:.9rem}.category-links a:hover{border-color:var(--brand);background:#edf6f0}.catalog-section{padding:2.5rem 0}.catalog-section h2{padding-bottom:.8rem;border-bottom:1px solid var(--line)}.catalog-grid{margin-top:1.5rem}.catalog-contact{margin-top:3rem;padding:4.5rem 0;background:var(--brand-dark);color:#fff}.catalog-contact h2{max-width:28ch}.catalog-contact p{max-width:60ch;color:#d4e0d8}
+</style>
