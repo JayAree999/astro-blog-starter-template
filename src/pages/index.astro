@@ -3,47 +3,83 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+const organizationSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'Organization',
+	name: 'Sunny Furniture by Deelert Woodline',
+	url: 'https://v2.sunny.co.th',
+	logo: 'https://v2.sunny.co.th/images/d4901-wardrobe-black-oak.png',
+	email: 'deelert@sunny.co.th',
+	telephone: '+66-34-852-188',
+	address: {
+		'@type': 'PostalAddress',
+		streetAddress: '51/7 Moo 3, Ekkachai Road, Bang Nam Chuet',
+		addressLocality: 'Mueang Samut Sakhon',
+		postalCode: '74000',
+		addressCountry: 'TH',
+	},
+};
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="th">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This
-				template serves as a lightweight, minimally-styled starting point for anyone looking to build
-				a personal website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to <a href="https://docs.astro.build/"
-					>read the docs
-				</a> or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out <a
-					href="https://github.com/Charca/astro-blog-template"
-					>astro-blog-template
-				</a> by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
+			<section class="hero wrap">
+				<div class="hero-copy">
+					<p class="eyebrow">DEELERT WOODLINE · SINCE 1990</p>
+					<h1>โรงงานผลิตและขายส่ง<wbr />เฟอร์นิเจอร์น็อคดาวน์</h1>
+					<p class="lead">Sunny Furniture รับผลิตเฟอร์นิเจอร์ไม้ปาร์ติเกิลและ MDF สำหรับร้านค้า หอพัก อพาร์ตเมนต์ คอนโด และโครงการธุรกิจ พร้อมบริการ OEM และส่งออก</p>
+					<div class="actions">
+						<a class="button" href="#contact">ขอใบเสนอราคา</a>
+						<a class="text-link" href="#products">ดูประเภทสินค้า <span aria-hidden="true">→</span></a>
+					</div>
+					<ul class="trust-list" aria-label="จุดเด่นของ Sunny Furniture">
+						<li>ผลิตตามแบบสำหรับคำสั่งซื้อ 60+ ชิ้นต่อแบบ</li>
+						<li>ประสบการณ์ผลิตเฟอร์นิเจอร์กว่า 30 ปี</li>
+						<li>บริการลูกค้าในไทยและตลาดส่งออก</li>
+					</ul>
+				</div>
+				<div class="hero-image">
+					<img src="/images/d4901-wardrobe-black-oak.png" width="800" height="800" alt="ตู้เสื้อผ้าบานเปิด Sunny Furniture รุ่น D4901 สีเข้ม" fetchpriority="high" />
+				</div>
+			</section>
+
+			<section id="products" class="section wrap">
+				<p class="eyebrow">PRODUCT RANGE</p>
+				<h2>เฟอร์นิเจอร์สำหรับบ้านและโครงการ</h2>
+				<p class="section-intro">เลือกผลิตภัณฑ์มาตรฐานสำหรับขายส่ง หรือให้ทีมโรงงานออกแบบชุดเฟอร์นิเจอร์ตามพื้นที่และกลุ่มลูกค้าของคุณ</p>
+				<div class="product-grid">
+					<article class="product-card featured">
+						<img src="/images/d4901-wardrobe-black-oak.png" width="800" height="800" loading="lazy" alt="ตู้เสื้อผ้า 2 บาน Sunny Furniture รุ่น D4901" />
+						<div><p class="card-label">WARDROBE</p><h3>ตู้เสื้อผ้าและตู้เก็บของ</h3><p>ตอบโจทย์ร้านเฟอร์นิเจอร์ หอพัก และโครงการที่ต้องการพื้นที่จัดเก็บอย่างเป็นระเบียบ</p><a href="/products/d4901">ดูรุ่น D4901 →</a></div>
+					</article>
+					<article class="product-card"><img src="/images/b5012-bed-detail.png" width="1024" height="1024" loading="lazy" alt="รายละเอียดหัวเตียงไม้ของ Sunny Furniture รุ่น B5012" /><div><p class="card-label">BEDROOM</p><h3>เตียงและชุดห้องนอน</h3><p>ชุดเฟอร์นิเจอร์ที่ออกแบบเพื่อการใช้งานจริงในบ้าน คอนโด และธุรกิจที่พัก</p></div></article>
+					<article class="product-card detail"><img src="/images/d4901-wardrobe-detail.png" width="800" height="800" loading="lazy" alt="รายละเอียดลิ้นชักภายในตู้เสื้อผ้า Sunny Furniture" /><div><p class="card-label">PROJECT FURNITURE</p><h3>ผลิตตามแบบสำหรับโครงการ</h3><p>จัดชุด ตีแบบ และวางแผนการผลิตสำหรับอพาร์ตเมนต์ หอพัก และพื้นที่เชิงพาณิชย์</p></div></article>
+				</div>
+			</section>
+
+			<section id="oem" class="oem-section">
+				<div class="wrap oem-grid">
+					<div><p class="eyebrow">OEM & WHOLESALE</p><h2>มีแบบอยู่แล้ว? ให้โรงงานช่วยผลิต</h2></div>
+					<div><p>ส่งแบบ ขนาด จำนวน และปลายทางจัดส่งให้เรา ทีม Sunny Furniture จะช่วยประเมินแนวทางผลิตที่เหมาะกับงานของคุณ ตั้งแต่การเลือกวัสดุไปจนถึงแผนส่งมอบ</p><p>เหมาะสำหรับผู้ค้าส่ง โครงการที่พัก ผู้รับเหมา และแบรนด์ที่ต้องการสินค้าภายใต้ชื่อของตนเอง</p><a class="button button-light" href="#contact">เริ่มขอราคา OEM</a></div>
+				</div>
+			</section>
+
+			<section class="section wrap proof-section">
+				<p class="eyebrow">WHY SUNNY</p><h2>ทำงานกับโรงงานโดยตรง</h2>
+				<div class="proof-grid"><div><strong>30+ ปี</strong><span>ประสบการณ์ในการผลิต</span></div><div><strong>60+ ชิ้น</strong><span>ขั้นต่ำโดยทั่วไปสำหรับงาน OEM ต่อแบบ</span></div><div><strong>TH + EXPORT</strong><span>รองรับลูกค้าในประเทศและต่างประเทศ</span></div></div>
+			</section>
+
+			<section id="contact" class="contact-section">
+				<div class="wrap contact-grid"><div><p class="eyebrow">REQUEST A QUOTE</p><h2>คุยกับทีมขายส่งของเรา</h2><p>บอกประเภทสินค้า จำนวนที่ต้องการ และสถานที่จัดส่ง เพื่อให้เราเตรียมคำแนะนำและใบเสนอราคาได้ตรงความต้องการ</p></div><address><p><strong>โทรศัพท์</strong><br /><a href="tel:+6634852188">034-852-188</a> · <a href="tel:+66958688777">095-868-8777</a></p><p><strong>อีเมล</strong><br /><a href="mailto:deelert@sunny.co.th">deelert@sunny.co.th</a></p><p><strong>โรงงาน</strong><br />51/7 หมู่ 3 ถนนเอกชัย<br />ตำบลบางน้ำจืด อำเภอเมืองสมุทรสาคร 74000</p></address></div>
+			</section>
 		</main>
 		<Footer />
 	</body>
