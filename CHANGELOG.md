@@ -2,6 +2,7 @@
 
 ## 2026-08-04
 
+- Replaced the Why Sunny block with Thai wholesale search content covering factory pricing, furniture wholesale, wardrobes, beds, shops, and projects. Removed export wording and updated the stated typical OEM minimum to 60–70+ pieces per design.
 - Replaced the mismatched homepage product cards with six direct catalog previews: D6122, D6123, D6124, B5058, B5111, and B5112.
 - Renamed the primary catalog link to “แคตตาล็อกและสินค้า” and added catalog PDF previews plus a direct download above the product filters.
 - Removed the Project Furniture card from the homepage product range.
