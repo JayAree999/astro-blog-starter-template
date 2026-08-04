@@ -7,6 +7,12 @@ import { products } from '../../data/products';
 const title = 'แคตตาล็อกเฟอร์นิเจอร์ | Sunny Furniture';
 const description = 'เลือกดูตู้เสื้อผ้า เตียง โต๊ะเครื่องแป้ง ตู้วางทีวี ตู้เก็บของ ตู้รองเท้า และโต๊ะทำงานจาก Sunny Furniture พร้อมรายละเอียดสินค้าแต่ละรุ่น';
 const categories = [...new Set(products.map((product) => product.category))];
+const categoryLinks = [
+	{ href: '/categories/wardrobes', label: 'ตู้เสื้อผ้าและตู้เก็บของ' },
+	{ href: '/categories/beds', label: 'เตียงและชุดห้องนอน' },
+	{ href: '/categories/tv-stands', label: 'ตู้วางทีวีและชั้นวางทีวี' },
+	{ href: '/categories/storage-and-shoe-cabinets', label: 'ตู้เก็บของและตู้รองเท้า' },
+];
 const imagePath = (path: string) => path.replace(/\.png$/, '.webp');
 const itemListSchema = {
 	'@context': 'https://schema.org',
@@ -36,7 +42,7 @@ const itemListSchema = {
 				<h1>เลือกเฟอร์นิเจอร์ให้เหมาะกับพื้นที่ของคุณ</h1>
 				<p class="lead">รวมสินค้ารุ่นที่มีภาพและรายละเอียดสำหรับบ้าน หอพัก อพาร์ตเมนต์ ร้านค้า และโครงการ เลือกดูแต่ละรุ่นเพื่อเช็กคุณสมบัติและสอบถามราคาได้โดยตรง</p>
 				<nav class="category-links" aria-label="หมวดหมู่สินค้า">
-					{categories.map((category) => <a href={`#${category}`}>{category}</a>)}
+					{categoryLinks.map((category) => <a href={category.href}>{category.label}</a>)}
 				</nav>
 			</section>
 
