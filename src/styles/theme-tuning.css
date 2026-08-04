@@ -1,0 +1,8 @@
+/* Final responsive visual tuning: a slightly larger reading scale and cooler modern palette. */
+:root{--ink:#17212b;--muted:#62717d;--paper:#f4f7f8;--surface:#fff;--brand:#087e8b;--brand-dark:#123b4a;--line:#d9e2e8;--warm:#e9e2d6;font-size:17px}
+body{background:radial-gradient(circle at 85% 0,#dff3f4 0,transparent 25rem),var(--paper)}
+.site-header{background:rgba(244,247,248,.82);border-color:rgba(217,226,232,.86)}
+.nav-links a{font-size:.94rem}.nav-cta,.button{background:var(--brand);box-shadow:0 10px 24px rgba(8,126,139,.18)}.button:hover{background:var(--brand-dark)}
+.hero-image{background:linear-gradient(145deg,#dff3f4,#e9e2d6)}.product-card{border-color:var(--line);box-shadow:0 8px 24px rgba(23,33,43,.06)}.product-card:hover{box-shadow:0 18px 40px rgba(23,33,43,.12)}
+.oem-section,.contact-section{background:linear-gradient(135deg,#123b4a,#087e8b)}.site-footer{background:#14232c}
+@media(max-width:760px){:root{font-size:17px}.nav{min-height:72px}.nav-cta{min-height:44px;display:inline-flex;align-items:center}.hero h1{font-size:clamp(2.35rem,12vw,3.2rem)}.lead{font-size:1.06rem}.product-card div{padding:1.2rem}.filter-button{min-height:44px;padding:.65rem 1rem}.catalog-trust span{font-size:.86rem}}
