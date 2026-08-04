@@ -8,6 +8,7 @@
 - Updated the sitemap and `robots.txt`, deployed the new hostname configuration, and submitted the sitemap to Google Search Console.
 - Added four indexable buying-guide category pages: wardrobes, beds, TV stands, and storage/shoe cabinets.
 - Added the public-but-noindex `/updates/` page so website and SEO work can be tracked without diluting search results.
+- Replaced guide-style catalog links with real D-model wardrobe and B-model bed filters, refreshed navigation and homepage search intent, and removed noindex products from the sitemap after a full crawl.
 
 ## Content status
 
