@@ -48,8 +48,7 @@ const relatedProducts = catalogProducts.filter((item) => item.slug !== product.s
 			<nav class="breadcrumbs" aria-label="เส้นทางนำทาง"><a href="/">หน้าหลัก</a><span>/</span><a href="/products/">แคตตาล็อกสินค้า</a><span>/</span><span aria-current="page">{product.shortName}</span></nav>
 			<article class="product-layout">
 				<div class="product-gallery">
-					<img class="product-hero" src={imagePath(product.image)} width="800" height="800" alt={product.gallery[0].alt} fetchpriority="high" />
-					{product.gallery[1] && <img class="product-detail" src={imagePath(product.gallery[1].src)} width="800" height="800" alt={product.gallery[1].alt} loading="lazy" />}
+					{product.gallery.map((item, index) => <img class={index === 0 ? 'product-hero' : 'product-detail'} src={imagePath(item.src)} width="800" height="800" alt={item.alt} loading={index === 0 ? undefined : 'lazy'} fetchpriority={index === 0 ? 'high' : undefined} />)}
 				</div>
 				<div class="product-copy">
 					<p class="eyebrow">{product.category} · รุ่น {product.model}</p>

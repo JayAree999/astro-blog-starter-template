@@ -6,7 +6,15 @@ export type CatalogProduct = Product & {
 	raw: boolean;
 };
 
-const rawByModel = new Map(rawProducts.map((product) => [product.model, product]));
+const removeNarn = (text: string) => text.replace(/NARN[-\s]?NARN\s*/gi, '').trim();
+const cleanedRawProducts = rawProducts.map((product) => ({
+	...product,
+	name: removeNarn(product.name),
+	shortName: removeNarn(product.shortName),
+	description: removeNarn(product.description),
+	gallery: product.gallery.map((item) => ({ ...item, alt: removeNarn(item.alt) })),
+}));
+const rawByModel = new Map(cleanedRawProducts.map((product) => [product.model, product]));
 const existingProducts: CatalogProduct[] = products.map((product) => {
 	const raw = rawByModel.get(product.model);
 	return raw ? { ...product, image: raw.image, gallery: raw.gallery, indexable: true, raw: true } : { ...product, indexable: true, raw: false };
@@ -14,7 +22,7 @@ const existingProducts: CatalogProduct[] = products.map((product) => {
 const existingModels = new Set(products.map((product) => product.model));
 const wardrobeCategory = products.find((product) => product.model === 'D4901')?.category;
 const bedCategory = products.find((product) => product.model === 'B5012')?.category;
-const importedProducts: CatalogProduct[] = rawProducts
+const importedProducts: CatalogProduct[] = cleanedRawProducts
 	.filter((product) => !existingModels.has(product.model))
 	.map((product) => ({
 		...product,

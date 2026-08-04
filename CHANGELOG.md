@@ -2,6 +2,7 @@
 
 ## 2026-08-04
 
+- Updated the homepage gallery with the supplied solid-oak wardrobe image plus B5058, B5111, and B5112 beds. Product pages now render every available local image for their model, and the NARN-NARN label is removed from catalog page content.
 - Replaced the single D4901 homepage image with four locally sourced product images: D6122 and D6123 wardrobes plus B5009 and B5009-2 beds, all shown in solid-oak finishes. Removed the former D4901 black-oak image asset and updated the site's fallback/social image.
 - Imported the local Furniture pics raw catalog, including optimized product images and all available model records. Models with verified product information are indexable; image-only models remain noindex until their details are confirmed.
 - Prioritized D-model wardrobes, then B-model beds, in the catalog and improved the catalog's Thai search title and description.
