@@ -2,10 +2,10 @@
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
-import { products } from '../../data/products';
+import { catalogProducts } from '../../data/catalog';
 
 export function getStaticPaths() {
-	return products.map((product) => ({ params: { slug: product.slug }, props: { product } }));
+	return catalogProducts.map((product) => ({ params: { slug: product.slug }, props: { product } }));
 }
 
 const { product } = Astro.props;
@@ -32,13 +32,13 @@ const breadcrumbSchema = {
 		{ '@type': 'ListItem', position: 3, name: product.shortName, item: productUrl },
 	],
 };
-const relatedProducts = products.filter((item) => item.slug !== product.slug && item.category === product.category).slice(0, 3);
+const relatedProducts = catalogProducts.filter((item) => item.slug !== product.slug && item.category === product.category).slice(0, 3);
 ---
 
 <!doctype html>
 <html lang="th">
 	<head>
-		<BaseHead title={title} description={product.description} image={product.image} type="product" />
+		<BaseHead title={title} description={product.description} image={product.image} type="product" robots={product.indexable ? 'index,follow' : 'noindex,follow'} />
 		<script type="application/ld+json" set:html={JSON.stringify(productSchema)} />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 	</head>

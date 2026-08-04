@@ -2,11 +2,11 @@
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
-import { products } from '../../data/products';
+import { catalogProducts } from '../../data/catalog';
 
 const title = 'แคตตาล็อกเฟอร์นิเจอร์ | Sunny Furniture';
 const description = 'เลือกดูตู้เสื้อผ้า เตียง โต๊ะเครื่องแป้ง ตู้วางทีวี ตู้เก็บของ ตู้รองเท้า และโต๊ะทำงานจาก Sunny Furniture พร้อมรายละเอียดสินค้าแต่ละรุ่น';
-const categories = [...new Set(products.map((product) => product.category))];
+const categories = [...new Set(catalogProducts.map((product) => product.category))];
 const categoryLinks = [
 	{ href: '/categories/wardrobes', label: 'ตู้เสื้อผ้าและตู้เก็บของ' },
 	{ href: '/categories/beds', label: 'เตียงและชุดห้องนอน' },
@@ -18,8 +18,8 @@ const itemListSchema = {
 	'@context': 'https://schema.org',
 	'@type': 'ItemList',
 	name: 'Sunny Furniture Product Catalog',
-	numberOfItems: products.length,
-	itemListElement: products.map((product, position) => ({
+	numberOfItems: catalogProducts.length,
+	itemListElement: catalogProducts.map((product, position) => ({
 		'@type': 'ListItem',
 		position: position + 1,
 		url: new URL(`/products/${product.slug}`, Astro.site).toString(),
@@ -50,7 +50,7 @@ const itemListSchema = {
 				<section id={category} class="catalog-section wrap">
 					<h2>{category}</h2>
 					<div class="product-grid catalog-grid">
-						{products.filter((product) => product.category === category).map((product) => (
+						{catalogProducts.filter((product) => product.category === category).map((product) => (
 							<article class="product-card">
 								<img src={imagePath(product.image)} width="800" height="800" loading="lazy" alt={product.gallery[0].alt} />
 								<div>
