@@ -3,6 +3,10 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { catalogProducts } from '../data/catalog';
+
+const featuredModels = ['D6122', 'D6123', 'D6124', 'B5058', 'B5111', 'B5112'];
+const featuredProducts = featuredModels.flatMap((model) => catalogProducts.filter((product) => product.model === model));
 
 const organizationSchema = {
 	'@context': 'https://schema.org',
@@ -64,13 +68,10 @@ const organizationSchema = {
 				<p class="eyebrow">PRODUCT RANGE</p>
 				<h2>เฟอร์นิเจอร์สำหรับบ้านและโครงการ</h2>
 				<p class="section-intro">เลือกผลิตภัณฑ์มาตรฐานสำหรับขายส่ง หรือให้ทีมโรงงานออกแบบชุดเฟอร์นิเจอร์ตามพื้นที่และกลุ่มลูกค้าของคุณ</p>
-				<div class="product-grid">
-					<article class="product-card featured">
-						<img src="/images/hero/wardrobe-solid-oak.jpg" width="1000" height="1000" loading="lazy" alt="ตู้เสื้อผ้า D6122 Sunny Furniture" />
-						<div><p class="card-label">WARDROBE</p><h3>ตู้เสื้อผ้าและตู้เก็บของ</h3><p>ตอบโจทย์ร้านเฟอร์นิเจอร์ หอพัก และโครงการที่ต้องการพื้นที่จัดเก็บอย่างเป็นระเบียบ</p><a href="/products/d4901">ดูรุ่น D4901 →</a></div>
-					</article>
-					<article class="product-card"><img src="/images/b5012-bed-detail.png" width="1024" height="1024" loading="lazy" alt="รายละเอียดหัวเตียงไม้ของ Sunny Furniture รุ่น B5012" /><div><p class="card-label">BEDROOM</p><h3>เตียงและชุดห้องนอน</h3><p>ชุดเฟอร์นิเจอร์ที่ออกแบบเพื่อการใช้งานจริงในบ้าน คอนโด และธุรกิจที่พัก</p></div></article>
+				<div class="product-grid featured-product-grid">
+					{featuredProducts.map((product) => <article class="product-card"><img src={product.image} width="800" height="800" loading="lazy" alt={product.gallery[0].alt} /><div><p class="card-label">{product.model.startsWith('D') ? 'WARDROBE' : 'BEDROOM'} · รุ่น {product.model}</p><h3>{product.shortName}</h3><a href={`/products/${product.slug}`}>ดูรายละเอียดสินค้า <span aria-hidden="true">→</span></a></div></article>)}
 				</div>
+				<p class="featured-products-action"><a class="button" href="/products">ดูแคตตาล็อกและสินค้าทั้งหมด</a></p>
 			</section>
 
 			<section id="oem" class="oem-section">

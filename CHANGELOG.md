@@ -2,6 +2,7 @@
 
 ## 2026-08-04
 
+- Replaced the mismatched homepage product cards with six direct catalog previews: D6122, D6123, D6124, B5058, B5111, and B5112.
 - Renamed the primary catalog link to “แคตตาล็อกและสินค้า” and added catalog PDF previews plus a direct download above the product filters.
 - Removed the Project Furniture card from the homepage product range.
 - Updated the homepage gallery with the supplied solid-oak wardrobe image plus B5058, B5111, and B5112 beds. Product pages now render every available local image for their model, and unwanted supplier labels are removed from catalog page content.
