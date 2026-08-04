@@ -24,21 +24,21 @@ function listImages(folder) {
 
 function readProductInfo(folder, model) {
   const file = path.join(folder, 'info_product.txt');
-  if (!fs.existsSync(file)) return { name: `สินค้าเฟอร์นิเจอร์ รุ่น ${model}`, sourceLink: null, verified: false };
+  if (!fs.existsSync(file)) return { name: `Sunny Furniture model ${model}`, sourceLink: null, verified: false };
   const text = fs.readFileSync(file, 'utf8');
-  const name = text.match(/### Product name\s+([\s\S]*?)\s+### Link/i)?.[1]?.trim().replace(/\s+/g, ' ') || `สินค้าเฟอร์นิเจอร์ รุ่น ${model}`;
+  const name = text.match(/### Product name\s+([\s\S]*?)\s+### Link/i)?.[1]?.trim().replace(/\s+/g, ' ') || `Sunny Furniture model ${model}`;
   const sourceLink = text.match(/### Link\s+(https?:\/\/\S+)/i)?.[1] || null;
   return { name, sourceLink, verified: true };
 }
 
 function categoryFor(name) {
-  if (/ตู้เสื้อผ้า|wardrobe/i.test(name)) return 'ตู้เสื้อผ้าและตู้เก็บของ';
-  if (/เตียง|bed/i.test(name)) return 'เตียงและชุดห้องนอน';
-  if (/ทีวี|tv/i.test(name)) return 'ตู้วางทีวีและชั้นวางทีวี';
-  if (/รองเท้า|shoe/i.test(name)) return 'ตู้รองเท้า';
-  if (/โต๊ะ|table|desk/i.test(name)) return 'โต๊ะและโต๊ะเครื่องแป้ง';
-  if (/ชั้น|ตู้เก็บ|storage|bookshelf/i.test(name)) return 'ชั้นวางและตู้เก็บของ';
-  return 'เฟอร์นิเจอร์ Sunny Furniture';
+  if (/wardrobe/i.test(name)) return 'Wardrobes';
+  if (/bed/i.test(name)) return 'Beds';
+  if (/tv/i.test(name)) return 'TV stands';
+  if (/shoe/i.test(name)) return 'Shoe cabinets';
+  if (/table|desk/i.test(name)) return 'Tables and desks';
+  if (/storage|bookshelf/i.test(name)) return 'Storage furniture';
+  return 'Sunny Furniture';
 }
 
 async function main() {
@@ -60,19 +60,19 @@ async function main() {
     for (let index = 0; index < sourceImages.length; index += 1) {
       const outputName = `${index + 1}.webp`;
       await sharp(sourceImages[index]).rotate().resize({ width: 1200, height: 1200, fit: 'inside', withoutEnlargement: true }).webp({ quality: 78 }).toFile(path.join(outputFolder, outputName));
-      gallery.push({ src: `/images/catalog/${safeModel}/${outputName}`, alt: `${info.name} รุ่น ${model} - ภาพ ${index + 1}` });
+      gallery.push({ src: `/images/catalog/${safeModel}/${outputName}`, alt: `${info.name} - image ${index + 1}` });
     }
     products.push({
       slug: safeModel,
       model,
       name: info.name,
       shortName: info.name,
-      description: info.verified ? `${info.name} รุ่น ${model} พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture` : `เฟอร์นิเจอร์ Sunny Furniture รุ่น ${model} พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด`,
+      description: info.verified ? `${info.name}. Product images and available details from Sunny Furniture.` : `Sunny Furniture model ${model}. Please contact the sales team to confirm specifications and availability.`,
       image: gallery[0].src,
       gallery,
       category: categoryFor(info.name),
-      material: 'สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ',
-      features: [`รุ่น ${model}`, 'มีภาพสินค้าจากแคตตาล็อก', 'ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ'],
+      material: 'Please contact the sales team to confirm materials, colour, and dimensions before ordering.',
+      features: [`Model ${model}`, 'Product photos from the local catalogue', 'Contact sales to confirm details before ordering'],
       availability: 'https://schema.org/InStock',
       indexable: info.verified,
       sourceLink: info.sourceLink,

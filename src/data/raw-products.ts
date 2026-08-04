@@ -3,22 +3,22 @@ export const rawProducts = [
   {
     "slug": "a14",
     "model": "A14",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น A14",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น A14",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น A14 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model A14",
+    "shortName": "Sunny Furniture model A14",
+    "description": "Sunny Furniture model A14. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/a14/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/a14/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น A14 รุ่น A14 - ภาพ 1"
+        "alt": "Sunny Furniture model A14 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น A14",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model A14",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -27,26 +27,26 @@ export const rawProducts = [
   {
     "slug": "a59",
     "model": "A59",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น A59",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น A59",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น A59 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model A59",
+    "shortName": "Sunny Furniture model A59",
+    "description": "Sunny Furniture model A59. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/a59/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/a59/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น A59 รุ่น A59 - ภาพ 1"
+        "alt": "Sunny Furniture model A59 - image 1"
       },
       {
         "src": "/images/catalog/a59/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น A59 รุ่น A59 - ภาพ 2"
+        "alt": "Sunny Furniture model A59 - image 2"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น A59",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model A59",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -55,22 +55,22 @@ export const rawProducts = [
   {
     "slug": "a60",
     "model": "A60",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น A60",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น A60",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น A60 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model A60",
+    "shortName": "Sunny Furniture model A60",
+    "description": "Sunny Furniture model A60. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/a60/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/a60/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น A60 รุ่น A60 - ภาพ 1"
+        "alt": "Sunny Furniture model A60 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น A60",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model A60",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -79,22 +79,22 @@ export const rawProducts = [
   {
     "slug": "a61",
     "model": "A61",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น A61",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น A61",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น A61 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model A61",
+    "shortName": "Sunny Furniture model A61",
+    "description": "Sunny Furniture model A61. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/a61/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/a61/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น A61 รุ่น A61 - ภาพ 1"
+        "alt": "Sunny Furniture model A61 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น A61",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model A61",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -103,30 +103,30 @@ export const rawProducts = [
   {
     "slug": "a79",
     "model": "A79",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น A79",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น A79",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น A79 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model A79",
+    "shortName": "Sunny Furniture model A79",
+    "description": "Sunny Furniture model A79. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/a79/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/a79/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น A79 รุ่น A79 - ภาพ 1"
+        "alt": "Sunny Furniture model A79 - image 1"
       },
       {
         "src": "/images/catalog/a79/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น A79 รุ่น A79 - ภาพ 2"
+        "alt": "Sunny Furniture model A79 - image 2"
       },
       {
         "src": "/images/catalog/a79/3.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น A79 รุ่น A79 - ภาพ 3"
+        "alt": "Sunny Furniture model A79 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น A79",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model A79",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -135,22 +135,22 @@ export const rawProducts = [
   {
     "slug": "a380",
     "model": "A380",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น A380",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น A380",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น A380 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model A380",
+    "shortName": "Sunny Furniture model A380",
+    "description": "Sunny Furniture model A380. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/a380/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/a380/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น A380 รุ่น A380 - ภาพ 1"
+        "alt": "Sunny Furniture model A380 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น A380",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model A380",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -159,26 +159,26 @@ export const rawProducts = [
   {
     "slug": "a381",
     "model": "A381",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น A381",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น A381",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น A381 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model A381",
+    "shortName": "Sunny Furniture model A381",
+    "description": "Sunny Furniture model A381. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/a381/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/a381/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น A381 รุ่น A381 - ภาพ 1"
+        "alt": "Sunny Furniture model A381 - image 1"
       },
       {
         "src": "/images/catalog/a381/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น A381 รุ่น A381 - ภาพ 2"
+        "alt": "Sunny Furniture model A381 - image 2"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น A381",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model A381",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -187,30 +187,30 @@ export const rawProducts = [
   {
     "slug": "at801",
     "model": "AT801",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น AT801",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น AT801",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น AT801 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model AT801",
+    "shortName": "Sunny Furniture model AT801",
+    "description": "Sunny Furniture model AT801. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/at801/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/at801/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น AT801 รุ่น AT801 - ภาพ 1"
+        "alt": "Sunny Furniture model AT801 - image 1"
       },
       {
         "src": "/images/catalog/at801/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น AT801 รุ่น AT801 - ภาพ 2"
+        "alt": "Sunny Furniture model AT801 - image 2"
       },
       {
         "src": "/images/catalog/at801/3.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น AT801 รุ่น AT801 - ภาพ 3"
+        "alt": "Sunny Furniture model AT801 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น AT801",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model AT801",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -221,28 +221,28 @@ export const rawProducts = [
     "model": "AT802",
     "name": "ตู้วางทีวีขนาดเล็ก มี 4 ลิ้นชัก วางทีวีขนาด 32 นิ้ว ได้ รุ่น AT802",
     "shortName": "ตู้วางทีวีขนาดเล็ก มี 4 ลิ้นชัก วางทีวีขนาด 32 นิ้ว ได้ รุ่น AT802",
-    "description": "ตู้วางทีวีขนาดเล็ก มี 4 ลิ้นชัก วางทีวีขนาด 32 นิ้ว ได้ รุ่น AT802 รุ่น AT802 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้วางทีวีขนาดเล็ก มี 4 ลิ้นชัก วางทีวีขนาด 32 นิ้ว ได้ รุ่น AT802. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/at802/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/at802/1.webp",
-        "alt": "ตู้วางทีวีขนาดเล็ก มี 4 ลิ้นชัก วางทีวีขนาด 32 นิ้ว ได้ รุ่น AT802 รุ่น AT802 - ภาพ 1"
+        "alt": "ตู้วางทีวีขนาดเล็ก มี 4 ลิ้นชัก วางทีวีขนาด 32 นิ้ว ได้ รุ่น AT802 - image 1"
       },
       {
         "src": "/images/catalog/at802/2.webp",
-        "alt": "ตู้วางทีวีขนาดเล็ก มี 4 ลิ้นชัก วางทีวีขนาด 32 นิ้ว ได้ รุ่น AT802 รุ่น AT802 - ภาพ 2"
+        "alt": "ตู้วางทีวีขนาดเล็ก มี 4 ลิ้นชัก วางทีวีขนาด 32 นิ้ว ได้ รุ่น AT802 - image 2"
       },
       {
         "src": "/images/catalog/at802/3.webp",
-        "alt": "ตู้วางทีวีขนาดเล็ก มี 4 ลิ้นชัก วางทีวีขนาด 32 นิ้ว ได้ รุ่น AT802 รุ่น AT802 - ภาพ 3"
+        "alt": "ตู้วางทีวีขนาดเล็ก มี 4 ลิ้นชัก วางทีวีขนาด 32 นิ้ว ได้ รุ่น AT802 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น AT802",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model AT802",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -253,28 +253,28 @@ export const rawProducts = [
     "model": "B624",
     "name": "NARN-NARN เตียง เตียงนอน 6 ฟุต รุ่น B624 มีไฟเปิด-ปิดที่หัวเตียง (กรุณาอ่านรายละเอียดสินค้า ก่อนสั่งซื้อ)",
     "shortName": "NARN-NARN เตียง เตียงนอน 6 ฟุต รุ่น B624 มีไฟเปิด-ปิดที่หัวเตียง (กรุณาอ่านรายละเอียดสินค้า ก่อนสั่งซื้อ)",
-    "description": "NARN-NARN เตียง เตียงนอน 6 ฟุต รุ่น B624 มีไฟเปิด-ปิดที่หัวเตียง (กรุณาอ่านรายละเอียดสินค้า ก่อนสั่งซื้อ) รุ่น B624 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN เตียง เตียงนอน 6 ฟุต รุ่น B624 มีไฟเปิด-ปิดที่หัวเตียง (กรุณาอ่านรายละเอียดสินค้า ก่อนสั่งซื้อ). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b624/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b624/1.webp",
-        "alt": "NARN-NARN เตียง เตียงนอน 6 ฟุต รุ่น B624 มีไฟเปิด-ปิดที่หัวเตียง (กรุณาอ่านรายละเอียดสินค้า ก่อนสั่งซื้อ) รุ่น B624 - ภาพ 1"
+        "alt": "NARN-NARN เตียง เตียงนอน 6 ฟุต รุ่น B624 มีไฟเปิด-ปิดที่หัวเตียง (กรุณาอ่านรายละเอียดสินค้า ก่อนสั่งซื้อ) - image 1"
       },
       {
         "src": "/images/catalog/b624/2.webp",
-        "alt": "NARN-NARN เตียง เตียงนอน 6 ฟุต รุ่น B624 มีไฟเปิด-ปิดที่หัวเตียง (กรุณาอ่านรายละเอียดสินค้า ก่อนสั่งซื้อ) รุ่น B624 - ภาพ 2"
+        "alt": "NARN-NARN เตียง เตียงนอน 6 ฟุต รุ่น B624 มีไฟเปิด-ปิดที่หัวเตียง (กรุณาอ่านรายละเอียดสินค้า ก่อนสั่งซื้อ) - image 2"
       },
       {
         "src": "/images/catalog/b624/3.webp",
-        "alt": "NARN-NARN เตียง เตียงนอน 6 ฟุต รุ่น B624 มีไฟเปิด-ปิดที่หัวเตียง (กรุณาอ่านรายละเอียดสินค้า ก่อนสั่งซื้อ) รุ่น B624 - ภาพ 3"
+        "alt": "NARN-NARN เตียง เตียงนอน 6 ฟุต รุ่น B624 มีไฟเปิด-ปิดที่หัวเตียง (กรุณาอ่านรายละเอียดสินค้า ก่อนสั่งซื้อ) - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B624",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B624",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -285,28 +285,28 @@ export const rawProducts = [
     "model": "B3057",
     "name": "NARN-NARN เตียง 3.5 ฟุต สไตล์วินเทจ มีที่วางของตรงหัวเตียง รุ่น B305",
     "shortName": "NARN-NARN เตียง 3.5 ฟุต สไตล์วินเทจ มีที่วางของตรงหัวเตียง รุ่น B305",
-    "description": "NARN-NARN เตียง 3.5 ฟุต สไตล์วินเทจ มีที่วางของตรงหัวเตียง รุ่น B305 รุ่น B3057 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN เตียง 3.5 ฟุต สไตล์วินเทจ มีที่วางของตรงหัวเตียง รุ่น B305. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b3057/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b3057/1.webp",
-        "alt": "NARN-NARN เตียง 3.5 ฟุต สไตล์วินเทจ มีที่วางของตรงหัวเตียง รุ่น B305 รุ่น B3057 - ภาพ 1"
+        "alt": "NARN-NARN เตียง 3.5 ฟุต สไตล์วินเทจ มีที่วางของตรงหัวเตียง รุ่น B305 - image 1"
       },
       {
         "src": "/images/catalog/b3057/2.webp",
-        "alt": "NARN-NARN เตียง 3.5 ฟุต สไตล์วินเทจ มีที่วางของตรงหัวเตียง รุ่น B305 รุ่น B3057 - ภาพ 2"
+        "alt": "NARN-NARN เตียง 3.5 ฟุต สไตล์วินเทจ มีที่วางของตรงหัวเตียง รุ่น B305 - image 2"
       },
       {
         "src": "/images/catalog/b3057/3.webp",
-        "alt": "NARN-NARN เตียง 3.5 ฟุต สไตล์วินเทจ มีที่วางของตรงหัวเตียง รุ่น B305 รุ่น B3057 - ภาพ 3"
+        "alt": "NARN-NARN เตียง 3.5 ฟุต สไตล์วินเทจ มีที่วางของตรงหัวเตียง รุ่น B305 - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B3057",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B3057",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -315,22 +315,22 @@ export const rawProducts = [
   {
     "slug": "b3058",
     "model": "B3058",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น B3058",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น B3058",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น B3058 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model B3058",
+    "shortName": "Sunny Furniture model B3058",
+    "description": "Sunny Furniture model B3058. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/b3058/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b3058/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น B3058 รุ่น B3058 - ภาพ 1"
+        "alt": "Sunny Furniture model B3058 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B3058",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B3058",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -341,28 +341,28 @@ export const rawProducts = [
     "model": "B3511",
     "name": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3511",
     "shortName": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3511",
-    "description": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3511 รุ่น B3511 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3511. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b3511/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b3511/1.webp",
-        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3511 รุ่น B3511 - ภาพ 1"
+        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3511 - image 1"
       },
       {
         "src": "/images/catalog/b3511/2.webp",
-        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3511 รุ่น B3511 - ภาพ 2"
+        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3511 - image 2"
       },
       {
         "src": "/images/catalog/b3511/3.webp",
-        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3511 รุ่น B3511 - ภาพ 3"
+        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3511 - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B3511",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B3511",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -373,28 +373,28 @@ export const rawProducts = [
     "model": "B3512",
     "name": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3512",
     "shortName": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3512",
-    "description": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3512 รุ่น B3512 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3512. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b3512/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b3512/1.webp",
-        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3512 รุ่น B3512 - ภาพ 1"
+        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3512 - image 1"
       },
       {
         "src": "/images/catalog/b3512/2.webp",
-        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3512 รุ่น B3512 - ภาพ 2"
+        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3512 - image 2"
       },
       {
         "src": "/images/catalog/b3512/3.webp",
-        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3512 รุ่น B3512 - ภาพ 3"
+        "alt": "เตียง 3.5 ฟุต ข้างลอย ขาเหล็ก รุ่น B3512 - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B3512",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B3512",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -405,28 +405,28 @@ export const rawProducts = [
     "model": "B5009",
     "name": "NARN-NARN ส่งฟรี!! เตียงนอน 5 ฟุต ข้างทึบ เบาะพิงหัวเตียง รุ่น B5009 (กรุณาอ่านรายละเอียดสินค้า)",
     "shortName": "NARN-NARN ส่งฟรี!! เตียงนอน 5 ฟุต ข้างทึบ เบาะพิงหัวเตียง รุ่น B5009 (กรุณาอ่านรายละเอียดสินค้า)",
-    "description": "NARN-NARN ส่งฟรี!! เตียงนอน 5 ฟุต ข้างทึบ เบาะพิงหัวเตียง รุ่น B5009 (กรุณาอ่านรายละเอียดสินค้า) รุ่น B5009 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ส่งฟรี!! เตียงนอน 5 ฟุต ข้างทึบ เบาะพิงหัวเตียง รุ่น B5009 (กรุณาอ่านรายละเอียดสินค้า). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b5009/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b5009/1.webp",
-        "alt": "NARN-NARN ส่งฟรี!! เตียงนอน 5 ฟุต ข้างทึบ เบาะพิงหัวเตียง รุ่น B5009 (กรุณาอ่านรายละเอียดสินค้า) รุ่น B5009 - ภาพ 1"
+        "alt": "NARN-NARN ส่งฟรี!! เตียงนอน 5 ฟุต ข้างทึบ เบาะพิงหัวเตียง รุ่น B5009 (กรุณาอ่านรายละเอียดสินค้า) - image 1"
       },
       {
         "src": "/images/catalog/b5009/2.webp",
-        "alt": "NARN-NARN ส่งฟรี!! เตียงนอน 5 ฟุต ข้างทึบ เบาะพิงหัวเตียง รุ่น B5009 (กรุณาอ่านรายละเอียดสินค้า) รุ่น B5009 - ภาพ 2"
+        "alt": "NARN-NARN ส่งฟรี!! เตียงนอน 5 ฟุต ข้างทึบ เบาะพิงหัวเตียง รุ่น B5009 (กรุณาอ่านรายละเอียดสินค้า) - image 2"
       },
       {
         "src": "/images/catalog/b5009/3.webp",
-        "alt": "NARN-NARN ส่งฟรี!! เตียงนอน 5 ฟุต ข้างทึบ เบาะพิงหัวเตียง รุ่น B5009 (กรุณาอ่านรายละเอียดสินค้า) รุ่น B5009 - ภาพ 3"
+        "alt": "NARN-NARN ส่งฟรี!! เตียงนอน 5 ฟุต ข้างทึบ เบาะพิงหัวเตียง รุ่น B5009 (กรุณาอ่านรายละเอียดสินค้า) - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B5009",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B5009",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -437,28 +437,28 @@ export const rawProducts = [
     "model": "B5009-2",
     "name": "เตียงนอน 5 ฟุต ข้างลอย ขาเหล็ก เบาะพิงหัวเตียง รุ่น B5009-2 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
     "shortName": "เตียงนอน 5 ฟุต ข้างลอย ขาเหล็ก เบาะพิงหัวเตียง รุ่น B5009-2 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
-    "description": "เตียงนอน 5 ฟุต ข้างลอย ขาเหล็ก เบาะพิงหัวเตียง รุ่น B5009-2 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B5009-2 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "เตียงนอน 5 ฟุต ข้างลอย ขาเหล็ก เบาะพิงหัวเตียง รุ่น B5009-2 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b5009-2/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b5009-2/1.webp",
-        "alt": "เตียงนอน 5 ฟุต ข้างลอย ขาเหล็ก เบาะพิงหัวเตียง รุ่น B5009-2 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B5009-2 - ภาพ 1"
+        "alt": "เตียงนอน 5 ฟุต ข้างลอย ขาเหล็ก เบาะพิงหัวเตียง รุ่น B5009-2 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 1"
       },
       {
         "src": "/images/catalog/b5009-2/2.webp",
-        "alt": "เตียงนอน 5 ฟุต ข้างลอย ขาเหล็ก เบาะพิงหัวเตียง รุ่น B5009-2 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B5009-2 - ภาพ 2"
+        "alt": "เตียงนอน 5 ฟุต ข้างลอย ขาเหล็ก เบาะพิงหัวเตียง รุ่น B5009-2 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 2"
       },
       {
         "src": "/images/catalog/b5009-2/3.webp",
-        "alt": "เตียงนอน 5 ฟุต ข้างลอย ขาเหล็ก เบาะพิงหัวเตียง รุ่น B5009-2 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B5009-2 - ภาพ 3"
+        "alt": "เตียงนอน 5 ฟุต ข้างลอย ขาเหล็ก เบาะพิงหัวเตียง รุ่น B5009-2 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B5009-2",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B5009-2",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -469,28 +469,28 @@ export const rawProducts = [
     "model": "B5011",
     "name": "NARN-NARN - เตียง 5 ฟุต ข้างลอย ขาเหล็ก รุ่น B5011",
     "shortName": "NARN-NARN - เตียง 5 ฟุต ข้างลอย ขาเหล็ก รุ่น B5011",
-    "description": "NARN-NARN - เตียง 5 ฟุต ข้างลอย ขาเหล็ก รุ่น B5011 รุ่น B5011 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN - เตียง 5 ฟุต ข้างลอย ขาเหล็ก รุ่น B5011. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b5011/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b5011/1.webp",
-        "alt": "NARN-NARN - เตียง 5 ฟุต ข้างลอย ขาเหล็ก รุ่น B5011 รุ่น B5011 - ภาพ 1"
+        "alt": "NARN-NARN - เตียง 5 ฟุต ข้างลอย ขาเหล็ก รุ่น B5011 - image 1"
       },
       {
         "src": "/images/catalog/b5011/2.webp",
-        "alt": "NARN-NARN - เตียง 5 ฟุต ข้างลอย ขาเหล็ก รุ่น B5011 รุ่น B5011 - ภาพ 2"
+        "alt": "NARN-NARN - เตียง 5 ฟุต ข้างลอย ขาเหล็ก รุ่น B5011 - image 2"
       },
       {
         "src": "/images/catalog/b5011/3.webp",
-        "alt": "NARN-NARN - เตียง 5 ฟุต ข้างลอย ขาเหล็ก รุ่น B5011 รุ่น B5011 - ภาพ 3"
+        "alt": "NARN-NARN - เตียง 5 ฟุต ข้างลอย ขาเหล็ก รุ่น B5011 - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B5011",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B5011",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -501,28 +501,28 @@ export const rawProducts = [
     "model": "B5012",
     "name": "เตียง 5 ฟุต ขาเหล็ก ข้างลอย โครงเตียงแข็งแรง รุ่น B5012 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
     "shortName": "เตียง 5 ฟุต ขาเหล็ก ข้างลอย โครงเตียงแข็งแรง รุ่น B5012 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
-    "description": "เตียง 5 ฟุต ขาเหล็ก ข้างลอย โครงเตียงแข็งแรง รุ่น B5012 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B5012 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "เตียง 5 ฟุต ขาเหล็ก ข้างลอย โครงเตียงแข็งแรง รุ่น B5012 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b5012/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b5012/1.webp",
-        "alt": "เตียง 5 ฟุต ขาเหล็ก ข้างลอย โครงเตียงแข็งแรง รุ่น B5012 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B5012 - ภาพ 1"
+        "alt": "เตียง 5 ฟุต ขาเหล็ก ข้างลอย โครงเตียงแข็งแรง รุ่น B5012 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 1"
       },
       {
         "src": "/images/catalog/b5012/2.webp",
-        "alt": "เตียง 5 ฟุต ขาเหล็ก ข้างลอย โครงเตียงแข็งแรง รุ่น B5012 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B5012 - ภาพ 2"
+        "alt": "เตียง 5 ฟุต ขาเหล็ก ข้างลอย โครงเตียงแข็งแรง รุ่น B5012 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 2"
       },
       {
         "src": "/images/catalog/b5012/3.webp",
-        "alt": "เตียง 5 ฟุต ขาเหล็ก ข้างลอย โครงเตียงแข็งแรง รุ่น B5012 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B5012 - ภาพ 3"
+        "alt": "เตียง 5 ฟุต ขาเหล็ก ข้างลอย โครงเตียงแข็งแรง รุ่น B5012 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B5012",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B5012",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -531,30 +531,30 @@ export const rawProducts = [
   {
     "slug": "b5055",
     "model": "B5055",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น B5055",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น B5055",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น B5055 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model B5055",
+    "shortName": "Sunny Furniture model B5055",
+    "description": "Sunny Furniture model B5055. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/b5055/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b5055/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น B5055 รุ่น B5055 - ภาพ 1"
+        "alt": "Sunny Furniture model B5055 - image 1"
       },
       {
         "src": "/images/catalog/b5055/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น B5055 รุ่น B5055 - ภาพ 2"
+        "alt": "Sunny Furniture model B5055 - image 2"
       },
       {
         "src": "/images/catalog/b5055/3.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น B5055 รุ่น B5055 - ภาพ 3"
+        "alt": "Sunny Furniture model B5055 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B5055",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B5055",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -563,22 +563,22 @@ export const rawProducts = [
   {
     "slug": "b5058",
     "model": "B5058",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น B5058",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น B5058",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น B5058 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model B5058",
+    "shortName": "Sunny Furniture model B5058",
+    "description": "Sunny Furniture model B5058. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/b5058/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b5058/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น B5058 รุ่น B5058 - ภาพ 1"
+        "alt": "Sunny Furniture model B5058 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B5058",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B5058",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -587,22 +587,22 @@ export const rawProducts = [
   {
     "slug": "b5111",
     "model": "B5111",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น B5111",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น B5111",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น B5111 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model B5111",
+    "shortName": "Sunny Furniture model B5111",
+    "description": "Sunny Furniture model B5111. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/b5111/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b5111/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น B5111 รุ่น B5111 - ภาพ 1"
+        "alt": "Sunny Furniture model B5111 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B5111",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B5111",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -611,22 +611,22 @@ export const rawProducts = [
   {
     "slug": "b5112",
     "model": "B5112",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น B5112",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น B5112",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น B5112 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model B5112",
+    "shortName": "Sunny Furniture model B5112",
+    "description": "Sunny Furniture model B5112. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/b5112/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b5112/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น B5112 รุ่น B5112 - ภาพ 1"
+        "alt": "Sunny Furniture model B5112 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B5112",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B5112",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -635,22 +635,22 @@ export const rawProducts = [
   {
     "slug": "b5114",
     "model": "B5114",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น B5114",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น B5114",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น B5114 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model B5114",
+    "shortName": "Sunny Furniture model B5114",
+    "description": "Sunny Furniture model B5114. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/b5114/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b5114/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น B5114 รุ่น B5114 - ภาพ 1"
+        "alt": "Sunny Furniture model B5114 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B5114",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B5114",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -661,28 +661,28 @@ export const rawProducts = [
     "model": "B6013",
     "name": "NARN-NARN เตียงไม้ ขาเหล็ก ข้างลอย หัวเตียงบานเลื่อน รุ่น B5013/B6013",
     "shortName": "NARN-NARN เตียงไม้ ขาเหล็ก ข้างลอย หัวเตียงบานเลื่อน รุ่น B5013/B6013",
-    "description": "NARN-NARN เตียงไม้ ขาเหล็ก ข้างลอย หัวเตียงบานเลื่อน รุ่น B5013/B6013 รุ่น B6013 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN เตียงไม้ ขาเหล็ก ข้างลอย หัวเตียงบานเลื่อน รุ่น B5013/B6013. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b6013/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b6013/1.webp",
-        "alt": "NARN-NARN เตียงไม้ ขาเหล็ก ข้างลอย หัวเตียงบานเลื่อน รุ่น B5013/B6013 รุ่น B6013 - ภาพ 1"
+        "alt": "NARN-NARN เตียงไม้ ขาเหล็ก ข้างลอย หัวเตียงบานเลื่อน รุ่น B5013/B6013 - image 1"
       },
       {
         "src": "/images/catalog/b6013/2.webp",
-        "alt": "NARN-NARN เตียงไม้ ขาเหล็ก ข้างลอย หัวเตียงบานเลื่อน รุ่น B5013/B6013 รุ่น B6013 - ภาพ 2"
+        "alt": "NARN-NARN เตียงไม้ ขาเหล็ก ข้างลอย หัวเตียงบานเลื่อน รุ่น B5013/B6013 - image 2"
       },
       {
         "src": "/images/catalog/b6013/3.webp",
-        "alt": "NARN-NARN เตียงไม้ ขาเหล็ก ข้างลอย หัวเตียงบานเลื่อน รุ่น B5013/B6013 รุ่น B6013 - ภาพ 3"
+        "alt": "NARN-NARN เตียงไม้ ขาเหล็ก ข้างลอย หัวเตียงบานเลื่อน รุ่น B5013/B6013 - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B6013",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B6013",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -691,22 +691,22 @@ export const rawProducts = [
   {
     "slug": "b6016",
     "model": "B6016",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น B6016",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น B6016",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น B6016 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model B6016",
+    "shortName": "Sunny Furniture model B6016",
+    "description": "Sunny Furniture model B6016. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/b6016/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b6016/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น B6016 รุ่น B6016 - ภาพ 1"
+        "alt": "Sunny Furniture model B6016 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B6016",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B6016",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -717,28 +717,28 @@ export const rawProducts = [
     "model": "B6055",
     "name": "NARN-NARN เตียง 6 ฟุต ข้างลอย มีช่องเก็บของด้านบน รุ่น B6055 (กรุณาอ่านรายละเอียดสินค้า)",
     "shortName": "NARN-NARN เตียง 6 ฟุต ข้างลอย มีช่องเก็บของด้านบน รุ่น B6055 (กรุณาอ่านรายละเอียดสินค้า)",
-    "description": "NARN-NARN เตียง 6 ฟุต ข้างลอย มีช่องเก็บของด้านบน รุ่น B6055 (กรุณาอ่านรายละเอียดสินค้า) รุ่น B6055 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN เตียง 6 ฟุต ข้างลอย มีช่องเก็บของด้านบน รุ่น B6055 (กรุณาอ่านรายละเอียดสินค้า). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b6055/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b6055/1.webp",
-        "alt": "NARN-NARN เตียง 6 ฟุต ข้างลอย มีช่องเก็บของด้านบน รุ่น B6055 (กรุณาอ่านรายละเอียดสินค้า) รุ่น B6055 - ภาพ 1"
+        "alt": "NARN-NARN เตียง 6 ฟุต ข้างลอย มีช่องเก็บของด้านบน รุ่น B6055 (กรุณาอ่านรายละเอียดสินค้า) - image 1"
       },
       {
         "src": "/images/catalog/b6055/2.webp",
-        "alt": "NARN-NARN เตียง 6 ฟุต ข้างลอย มีช่องเก็บของด้านบน รุ่น B6055 (กรุณาอ่านรายละเอียดสินค้า) รุ่น B6055 - ภาพ 2"
+        "alt": "NARN-NARN เตียง 6 ฟุต ข้างลอย มีช่องเก็บของด้านบน รุ่น B6055 (กรุณาอ่านรายละเอียดสินค้า) - image 2"
       },
       {
         "src": "/images/catalog/b6055/3.webp",
-        "alt": "NARN-NARN เตียง 6 ฟุต ข้างลอย มีช่องเก็บของด้านบน รุ่น B6055 (กรุณาอ่านรายละเอียดสินค้า) รุ่น B6055 - ภาพ 3"
+        "alt": "NARN-NARN เตียง 6 ฟุต ข้างลอย มีช่องเก็บของด้านบน รุ่น B6055 (กรุณาอ่านรายละเอียดสินค้า) - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B6055",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B6055",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -749,28 +749,28 @@ export const rawProducts = [
     "model": "B6057",
     "name": "NARN-NARN เตียงไม้ 6 ฟุต สไตล์วินเทจ ข้างลอย หัวเตียงมีช่องวางของ รุ่น B6057 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
     "shortName": "NARN-NARN เตียงไม้ 6 ฟุต สไตล์วินเทจ ข้างลอย หัวเตียงมีช่องวางของ รุ่น B6057 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
-    "description": "NARN-NARN เตียงไม้ 6 ฟุต สไตล์วินเทจ ข้างลอย หัวเตียงมีช่องวางของ รุ่น B6057 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B6057 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN เตียงไม้ 6 ฟุต สไตล์วินเทจ ข้างลอย หัวเตียงมีช่องวางของ รุ่น B6057 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b6057/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b6057/1.webp",
-        "alt": "NARN-NARN เตียงไม้ 6 ฟุต สไตล์วินเทจ ข้างลอย หัวเตียงมีช่องวางของ รุ่น B6057 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B6057 - ภาพ 1"
+        "alt": "NARN-NARN เตียงไม้ 6 ฟุต สไตล์วินเทจ ข้างลอย หัวเตียงมีช่องวางของ รุ่น B6057 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 1"
       },
       {
         "src": "/images/catalog/b6057/2.webp",
-        "alt": "NARN-NARN เตียงไม้ 6 ฟุต สไตล์วินเทจ ข้างลอย หัวเตียงมีช่องวางของ รุ่น B6057 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B6057 - ภาพ 2"
+        "alt": "NARN-NARN เตียงไม้ 6 ฟุต สไตล์วินเทจ ข้างลอย หัวเตียงมีช่องวางของ รุ่น B6057 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 2"
       },
       {
         "src": "/images/catalog/b6057/3.webp",
-        "alt": "NARN-NARN เตียงไม้ 6 ฟุต สไตล์วินเทจ ข้างลอย หัวเตียงมีช่องวางของ รุ่น B6057 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น B6057 - ภาพ 3"
+        "alt": "NARN-NARN เตียงไม้ 6 ฟุต สไตล์วินเทจ ข้างลอย หัวเตียงมีช่องวางของ รุ่น B6057 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B6057",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B6057",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -781,28 +781,28 @@ export const rawProducts = [
     "model": "B6058",
     "name": "NARN-NARN เตียง 6 ฟุต รุ่น B6058",
     "shortName": "NARN-NARN เตียง 6 ฟุต รุ่น B6058",
-    "description": "NARN-NARN เตียง 6 ฟุต รุ่น B6058 รุ่น B6058 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN เตียง 6 ฟุต รุ่น B6058. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/b6058/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/b6058/1.webp",
-        "alt": "NARN-NARN เตียง 6 ฟุต รุ่น B6058 รุ่น B6058 - ภาพ 1"
+        "alt": "NARN-NARN เตียง 6 ฟุต รุ่น B6058 - image 1"
       },
       {
         "src": "/images/catalog/b6058/2.webp",
-        "alt": "NARN-NARN เตียง 6 ฟุต รุ่น B6058 รุ่น B6058 - ภาพ 2"
+        "alt": "NARN-NARN เตียง 6 ฟุต รุ่น B6058 - image 2"
       },
       {
         "src": "/images/catalog/b6058/3.webp",
-        "alt": "NARN-NARN เตียง 6 ฟุต รุ่น B6058 รุ่น B6058 - ภาพ 3"
+        "alt": "NARN-NARN เตียง 6 ฟุต รุ่น B6058 - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น B6058",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model B6058",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -811,22 +811,22 @@ export const rawProducts = [
   {
     "slug": "bs6705",
     "model": "BS6705",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น BS6705",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น BS6705",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น BS6705 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model BS6705",
+    "shortName": "Sunny Furniture model BS6705",
+    "description": "Sunny Furniture model BS6705. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/bs6705/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/bs6705/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น BS6705 รุ่น BS6705 - ภาพ 1"
+        "alt": "Sunny Furniture model BS6705 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น BS6705",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model BS6705",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -837,28 +837,28 @@ export const rawProducts = [
     "model": "BS6710",
     "name": "เตียง 6 ฟุต มีบานเลื่อนเปิด-ปิด หัวเตียง รุ่น BS6710 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
     "shortName": "เตียง 6 ฟุต มีบานเลื่อนเปิด-ปิด หัวเตียง รุ่น BS6710 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
-    "description": "เตียง 6 ฟุต มีบานเลื่อนเปิด-ปิด หัวเตียง รุ่น BS6710 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น BS6710 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "เตียง 6 ฟุต มีบานเลื่อนเปิด-ปิด หัวเตียง รุ่น BS6710 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/bs6710/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/bs6710/1.webp",
-        "alt": "เตียง 6 ฟุต มีบานเลื่อนเปิด-ปิด หัวเตียง รุ่น BS6710 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น BS6710 - ภาพ 1"
+        "alt": "เตียง 6 ฟุต มีบานเลื่อนเปิด-ปิด หัวเตียง รุ่น BS6710 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 1"
       },
       {
         "src": "/images/catalog/bs6710/2.webp",
-        "alt": "เตียง 6 ฟุต มีบานเลื่อนเปิด-ปิด หัวเตียง รุ่น BS6710 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น BS6710 - ภาพ 2"
+        "alt": "เตียง 6 ฟุต มีบานเลื่อนเปิด-ปิด หัวเตียง รุ่น BS6710 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 2"
       },
       {
         "src": "/images/catalog/bs6710/3.webp",
-        "alt": "เตียง 6 ฟุต มีบานเลื่อนเปิด-ปิด หัวเตียง รุ่น BS6710 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น BS6710 - ภาพ 3"
+        "alt": "เตียง 6 ฟุต มีบานเลื่อนเปิด-ปิด หัวเตียง รุ่น BS6710 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น BS6710",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model BS6710",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -869,28 +869,28 @@ export const rawProducts = [
     "model": "BW5016",
     "name": "NARN-NARN เตียง 5 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW5016",
     "shortName": "NARN-NARN เตียง 5 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW5016",
-    "description": "NARN-NARN เตียง 5 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW5016 รุ่น BW5016 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN เตียง 5 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW5016. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/bw5016/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/bw5016/1.webp",
-        "alt": "NARN-NARN เตียง 5 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW5016 รุ่น BW5016 - ภาพ 1"
+        "alt": "NARN-NARN เตียง 5 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW5016 - image 1"
       },
       {
         "src": "/images/catalog/bw5016/2.webp",
-        "alt": "NARN-NARN เตียง 5 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW5016 รุ่น BW5016 - ภาพ 2"
+        "alt": "NARN-NARN เตียง 5 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW5016 - image 2"
       },
       {
         "src": "/images/catalog/bw5016/3.webp",
-        "alt": "NARN-NARN เตียง 5 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW5016 รุ่น BW5016 - ภาพ 3"
+        "alt": "NARN-NARN เตียง 5 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW5016 - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น BW5016",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model BW5016",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -901,28 +901,28 @@ export const rawProducts = [
     "model": "BW6016",
     "name": "NARN-NARN เตียง 6 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW6016",
     "shortName": "NARN-NARN เตียง 6 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW6016",
-    "description": "NARN-NARN เตียง 6 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW6016 รุ่น BW6016 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN เตียง 6 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW6016. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/bw6016/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/bw6016/1.webp",
-        "alt": "NARN-NARN เตียง 6 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW6016 รุ่น BW6016 - ภาพ 1"
+        "alt": "NARN-NARN เตียง 6 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW6016 - image 1"
       },
       {
         "src": "/images/catalog/bw6016/2.webp",
-        "alt": "NARN-NARN เตียง 6 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW6016 รุ่น BW6016 - ภาพ 2"
+        "alt": "NARN-NARN เตียง 6 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW6016 - image 2"
       },
       {
         "src": "/images/catalog/bw6016/3.webp",
-        "alt": "NARN-NARN เตียง 6 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW6016 รุ่น BW6016 - ภาพ 3"
+        "alt": "NARN-NARN เตียง 6 ฟุต ลิ้นชักใต้เตียง พร้อมช่องเก็บของหัวเตียง รุ่น BW6016 - image 3"
       }
     ],
-    "category": "เตียงและชุดห้องนอน",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น BW6016",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model BW6016",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -933,28 +933,28 @@ export const rawProducts = [
     "model": "C262",
     "name": "NARN-NARN โต๊ะเครื่องแป้ง รุ่น C262",
     "shortName": "NARN-NARN โต๊ะเครื่องแป้ง รุ่น C262",
-    "description": "NARN-NARN โต๊ะเครื่องแป้ง รุ่น C262 รุ่น C262 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN โต๊ะเครื่องแป้ง รุ่น C262. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/c262/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/c262/1.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง รุ่น C262 รุ่น C262 - ภาพ 1"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง รุ่น C262 - image 1"
       },
       {
         "src": "/images/catalog/c262/2.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง รุ่น C262 รุ่น C262 - ภาพ 2"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง รุ่น C262 - image 2"
       },
       {
         "src": "/images/catalog/c262/3.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง รุ่น C262 รุ่น C262 - ภาพ 3"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง รุ่น C262 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น C262",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model C262",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -965,28 +965,28 @@ export const rawProducts = [
     "model": "C284",
     "name": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชักและชั้นวางของ พร้อมสูตนั่ง รุ่น C284",
     "shortName": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชักและชั้นวางของ พร้อมสูตนั่ง รุ่น C284",
-    "description": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชักและชั้นวางของ พร้อมสูตนั่ง รุ่น C284 รุ่น C284 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชักและชั้นวางของ พร้อมสูตนั่ง รุ่น C284. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/c284/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/c284/1.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชักและชั้นวางของ พร้อมสูตนั่ง รุ่น C284 รุ่น C284 - ภาพ 1"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชักและชั้นวางของ พร้อมสูตนั่ง รุ่น C284 - image 1"
       },
       {
         "src": "/images/catalog/c284/2.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชักและชั้นวางของ พร้อมสูตนั่ง รุ่น C284 รุ่น C284 - ภาพ 2"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชักและชั้นวางของ พร้อมสูตนั่ง รุ่น C284 - image 2"
       },
       {
         "src": "/images/catalog/c284/3.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชักและชั้นวางของ พร้อมสูตนั่ง รุ่น C284 รุ่น C284 - ภาพ 3"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชักและชั้นวางของ พร้อมสูตนั่ง รุ่น C284 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น C284",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model C284",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -997,28 +997,28 @@ export const rawProducts = [
     "model": "C290",
     "name": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง พร้อมสตูนั่ง กระจกบานใหญ่ และ1ลิ้นชัก รุ่น C290 (ส่งเฉพาะกทม)",
     "shortName": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง พร้อมสตูนั่ง กระจกบานใหญ่ และ1ลิ้นชัก รุ่น C290 (ส่งเฉพาะกทม)",
-    "description": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง พร้อมสตูนั่ง กระจกบานใหญ่ และ1ลิ้นชัก รุ่น C290 (ส่งเฉพาะกทม) รุ่น C290 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง พร้อมสตูนั่ง กระจกบานใหญ่ และ1ลิ้นชัก รุ่น C290 (ส่งเฉพาะกทม). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/c290/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/c290/1.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง พร้อมสตูนั่ง กระจกบานใหญ่ และ1ลิ้นชัก รุ่น C290 (ส่งเฉพาะกทม) รุ่น C290 - ภาพ 1"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง พร้อมสตูนั่ง กระจกบานใหญ่ และ1ลิ้นชัก รุ่น C290 (ส่งเฉพาะกทม) - image 1"
       },
       {
         "src": "/images/catalog/c290/2.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง พร้อมสตูนั่ง กระจกบานใหญ่ และ1ลิ้นชัก รุ่น C290 (ส่งเฉพาะกทม) รุ่น C290 - ภาพ 2"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง พร้อมสตูนั่ง กระจกบานใหญ่ และ1ลิ้นชัก รุ่น C290 (ส่งเฉพาะกทม) - image 2"
       },
       {
         "src": "/images/catalog/c290/3.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง พร้อมสตูนั่ง กระจกบานใหญ่ และ1ลิ้นชัก รุ่น C290 (ส่งเฉพาะกทม) รุ่น C290 - ภาพ 3"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง พร้อมสตูนั่ง กระจกบานใหญ่ และ1ลิ้นชัก รุ่น C290 (ส่งเฉพาะกทม) - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น C290",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model C290",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1029,28 +1029,28 @@ export const rawProducts = [
     "model": "C293",
     "name": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง ขนาด กว้าง 83.5 ซม. พร้อมสตูลนั่ง รุ่น C293",
     "shortName": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง ขนาด กว้าง 83.5 ซม. พร้อมสตูลนั่ง รุ่น C293",
-    "description": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง ขนาด กว้าง 83.5 ซม. พร้อมสตูลนั่ง รุ่น C293 รุ่น C293 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง ขนาด กว้าง 83.5 ซม. พร้อมสตูลนั่ง รุ่น C293. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/c293/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/c293/1.webp",
-        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง ขนาด กว้าง 83.5 ซม. พร้อมสตูลนั่ง รุ่น C293 รุ่น C293 - ภาพ 1"
+        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง ขนาด กว้าง 83.5 ซม. พร้อมสตูลนั่ง รุ่น C293 - image 1"
       },
       {
         "src": "/images/catalog/c293/2.webp",
-        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง ขนาด กว้าง 83.5 ซม. พร้อมสตูลนั่ง รุ่น C293 รุ่น C293 - ภาพ 2"
+        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง ขนาด กว้าง 83.5 ซม. พร้อมสตูลนั่ง รุ่น C293 - image 2"
       },
       {
         "src": "/images/catalog/c293/3.webp",
-        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง ขนาด กว้าง 83.5 ซม. พร้อมสตูลนั่ง รุ่น C293 รุ่น C293 - ภาพ 3"
+        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง ขนาด กว้าง 83.5 ซม. พร้อมสตูลนั่ง รุ่น C293 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น C293",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model C293",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1061,28 +1061,28 @@ export const rawProducts = [
     "model": "C297",
     "name": "NARN-NARN โต๊ะเครื่องแป้ง + สตูนั่ง รุ่น C297",
     "shortName": "NARN-NARN โต๊ะเครื่องแป้ง + สตูนั่ง รุ่น C297",
-    "description": "NARN-NARN โต๊ะเครื่องแป้ง + สตูนั่ง รุ่น C297 รุ่น C297 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN โต๊ะเครื่องแป้ง + สตูนั่ง รุ่น C297. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/c297/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/c297/1.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง + สตูนั่ง รุ่น C297 รุ่น C297 - ภาพ 1"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง + สตูนั่ง รุ่น C297 - image 1"
       },
       {
         "src": "/images/catalog/c297/2.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง + สตูนั่ง รุ่น C297 รุ่น C297 - ภาพ 2"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง + สตูนั่ง รุ่น C297 - image 2"
       },
       {
         "src": "/images/catalog/c297/3.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง + สตูนั่ง รุ่น C297 รุ่น C297 - ภาพ 3"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง + สตูนั่ง รุ่น C297 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น C297",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model C297",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1093,28 +1093,28 @@ export const rawProducts = [
     "model": "C299",
     "name": "NARN-NARN โต๊ะเครื่องแป้ง แต่งหน้า กระจกบานใหญ่ + สตูนั่ง รุ่น C299",
     "shortName": "NARN-NARN โต๊ะเครื่องแป้ง แต่งหน้า กระจกบานใหญ่ + สตูนั่ง รุ่น C299",
-    "description": "NARN-NARN โต๊ะเครื่องแป้ง แต่งหน้า กระจกบานใหญ่ + สตูนั่ง รุ่น C299 รุ่น C299 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN โต๊ะเครื่องแป้ง แต่งหน้า กระจกบานใหญ่ + สตูนั่ง รุ่น C299. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/c299/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/c299/1.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง แต่งหน้า กระจกบานใหญ่ + สตูนั่ง รุ่น C299 รุ่น C299 - ภาพ 1"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง แต่งหน้า กระจกบานใหญ่ + สตูนั่ง รุ่น C299 - image 1"
       },
       {
         "src": "/images/catalog/c299/2.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง แต่งหน้า กระจกบานใหญ่ + สตูนั่ง รุ่น C299 รุ่น C299 - ภาพ 2"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง แต่งหน้า กระจกบานใหญ่ + สตูนั่ง รุ่น C299 - image 2"
       },
       {
         "src": "/images/catalog/c299/3.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง แต่งหน้า กระจกบานใหญ่ + สตูนั่ง รุ่น C299 รุ่น C299 - ภาพ 3"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง แต่งหน้า กระจกบานใหญ่ + สตูนั่ง รุ่น C299 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น C299",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model C299",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1125,28 +1125,28 @@ export const rawProducts = [
     "model": "C518",
     "name": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีบานประตูเปิด-ปิด และช่องใส่ของ รุ่น C518",
     "shortName": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีบานประตูเปิด-ปิด และช่องใส่ของ รุ่น C518",
-    "description": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีบานประตูเปิด-ปิด และช่องใส่ของ รุ่น C518 รุ่น C518 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีบานประตูเปิด-ปิด และช่องใส่ของ รุ่น C518. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/c518/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/c518/1.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีบานประตูเปิด-ปิด และช่องใส่ของ รุ่น C518 รุ่น C518 - ภาพ 1"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีบานประตูเปิด-ปิด และช่องใส่ของ รุ่น C518 - image 1"
       },
       {
         "src": "/images/catalog/c518/2.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีบานประตูเปิด-ปิด และช่องใส่ของ รุ่น C518 รุ่น C518 - ภาพ 2"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีบานประตูเปิด-ปิด และช่องใส่ของ รุ่น C518 - image 2"
       },
       {
         "src": "/images/catalog/c518/3.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีบานประตูเปิด-ปิด และช่องใส่ของ รุ่น C518 รุ่น C518 - ภาพ 3"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง โต๊ะแป้ง มีบานประตูเปิด-ปิด และช่องใส่ของ รุ่น C518 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น C518",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model C518",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1157,28 +1157,28 @@ export const rawProducts = [
     "model": "CF294",
     "name": "ส่งฟรี! โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชัก+ชั้นเก็บของ รุ่น CF294",
     "shortName": "ส่งฟรี! โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชัก+ชั้นเก็บของ รุ่น CF294",
-    "description": "ส่งฟรี! โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชัก+ชั้นเก็บของ รุ่น CF294 รุ่น CF294 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ส่งฟรี! โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชัก+ชั้นเก็บของ รุ่น CF294. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/cf294/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/cf294/1.webp",
-        "alt": "ส่งฟรี! โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชัก+ชั้นเก็บของ รุ่น CF294 รุ่น CF294 - ภาพ 1"
+        "alt": "ส่งฟรี! โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชัก+ชั้นเก็บของ รุ่น CF294 - image 1"
       },
       {
         "src": "/images/catalog/cf294/2.webp",
-        "alt": "ส่งฟรี! โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชัก+ชั้นเก็บของ รุ่น CF294 รุ่น CF294 - ภาพ 2"
+        "alt": "ส่งฟรี! โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชัก+ชั้นเก็บของ รุ่น CF294 - image 2"
       },
       {
         "src": "/images/catalog/cf294/3.webp",
-        "alt": "ส่งฟรี! โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชัก+ชั้นเก็บของ รุ่น CF294 รุ่น CF294 - ภาพ 3"
+        "alt": "ส่งฟรี! โต๊ะเครื่องแป้ง โต๊ะแป้ง มีลิ้นชัก+ชั้นเก็บของ รุ่น CF294 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น CF294",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model CF294",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1189,28 +1189,28 @@ export const rawProducts = [
     "model": "CF296",
     "name": "NARN-NARN โต๊ะเครื่องแป้ง กระจกเงายาว ส่องเต็มตัว พร้อมชั้นวาง รุ่น CF296",
     "shortName": "NARN-NARN โต๊ะเครื่องแป้ง กระจกเงายาว ส่องเต็มตัว พร้อมชั้นวาง รุ่น CF296",
-    "description": "NARN-NARN โต๊ะเครื่องแป้ง กระจกเงายาว ส่องเต็มตัว พร้อมชั้นวาง รุ่น CF296 รุ่น CF296 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN โต๊ะเครื่องแป้ง กระจกเงายาว ส่องเต็มตัว พร้อมชั้นวาง รุ่น CF296. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/cf296/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/cf296/1.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง กระจกเงายาว ส่องเต็มตัว พร้อมชั้นวาง รุ่น CF296 รุ่น CF296 - ภาพ 1"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง กระจกเงายาว ส่องเต็มตัว พร้อมชั้นวาง รุ่น CF296 - image 1"
       },
       {
         "src": "/images/catalog/cf296/2.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง กระจกเงายาว ส่องเต็มตัว พร้อมชั้นวาง รุ่น CF296 รุ่น CF296 - ภาพ 2"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง กระจกเงายาว ส่องเต็มตัว พร้อมชั้นวาง รุ่น CF296 - image 2"
       },
       {
         "src": "/images/catalog/cf296/3.webp",
-        "alt": "NARN-NARN โต๊ะเครื่องแป้ง กระจกเงายาว ส่องเต็มตัว พร้อมชั้นวาง รุ่น CF296 รุ่น CF296 - ภาพ 3"
+        "alt": "NARN-NARN โต๊ะเครื่องแป้ง กระจกเงายาว ส่องเต็มตัว พร้อมชั้นวาง รุ่น CF296 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น CF296",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model CF296",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1221,28 +1221,28 @@ export const rawProducts = [
     "model": "CS292",
     "name": "ส่งฟรี!! โต๊ะเครื่อง โต๊ะแป้ง กระจกบานเลื่อน CS292",
     "shortName": "ส่งฟรี!! โต๊ะเครื่อง โต๊ะแป้ง กระจกบานเลื่อน CS292",
-    "description": "ส่งฟรี!! โต๊ะเครื่อง โต๊ะแป้ง กระจกบานเลื่อน CS292 รุ่น CS292 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ส่งฟรี!! โต๊ะเครื่อง โต๊ะแป้ง กระจกบานเลื่อน CS292. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/cs292/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/cs292/1.webp",
-        "alt": "ส่งฟรี!! โต๊ะเครื่อง โต๊ะแป้ง กระจกบานเลื่อน CS292 รุ่น CS292 - ภาพ 1"
+        "alt": "ส่งฟรี!! โต๊ะเครื่อง โต๊ะแป้ง กระจกบานเลื่อน CS292 - image 1"
       },
       {
         "src": "/images/catalog/cs292/2.webp",
-        "alt": "ส่งฟรี!! โต๊ะเครื่อง โต๊ะแป้ง กระจกบานเลื่อน CS292 รุ่น CS292 - ภาพ 2"
+        "alt": "ส่งฟรี!! โต๊ะเครื่อง โต๊ะแป้ง กระจกบานเลื่อน CS292 - image 2"
       },
       {
         "src": "/images/catalog/cs292/3.webp",
-        "alt": "ส่งฟรี!! โต๊ะเครื่อง โต๊ะแป้ง กระจกบานเลื่อน CS292 รุ่น CS292 - ภาพ 3"
+        "alt": "ส่งฟรี!! โต๊ะเครื่อง โต๊ะแป้ง กระจกบานเลื่อน CS292 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น CS292",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model CS292",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1253,28 +1253,28 @@ export const rawProducts = [
     "model": "CS295",
     "name": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง กระจกบานเลื่อน พร้อมสูตนั่ง รุ่น CS295",
     "shortName": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง กระจกบานเลื่อน พร้อมสูตนั่ง รุ่น CS295",
-    "description": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง กระจกบานเลื่อน พร้อมสูตนั่ง รุ่น CS295 รุ่น CS295 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง กระจกบานเลื่อน พร้อมสูตนั่ง รุ่น CS295. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/cs295/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/cs295/1.webp",
-        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง กระจกบานเลื่อน พร้อมสูตนั่ง รุ่น CS295 รุ่น CS295 - ภาพ 1"
+        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง กระจกบานเลื่อน พร้อมสูตนั่ง รุ่น CS295 - image 1"
       },
       {
         "src": "/images/catalog/cs295/2.webp",
-        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง กระจกบานเลื่อน พร้อมสูตนั่ง รุ่น CS295 รุ่น CS295 - ภาพ 2"
+        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง กระจกบานเลื่อน พร้อมสูตนั่ง รุ่น CS295 - image 2"
       },
       {
         "src": "/images/catalog/cs295/3.webp",
-        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง กระจกบานเลื่อน พร้อมสูตนั่ง รุ่น CS295 รุ่น CS295 - ภาพ 3"
+        "alt": "NARN-NARN โต๊ะแป้ง โต๊ะเครื่องแป้ง กระจกบานเลื่อน พร้อมสูตนั่ง รุ่น CS295 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น CS295",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model CS295",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1285,28 +1285,28 @@ export const rawProducts = [
     "model": "D222",
     "name": "ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D222",
     "shortName": "ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D222",
-    "description": "ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D222 รุ่น D222 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D222. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d222/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d222/1.webp",
-        "alt": "ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D222 รุ่น D222 - ภาพ 1"
+        "alt": "ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D222 - image 1"
       },
       {
         "src": "/images/catalog/d222/2.webp",
-        "alt": "ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D222 รุ่น D222 - ภาพ 2"
+        "alt": "ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D222 - image 2"
       },
       {
         "src": "/images/catalog/d222/3.webp",
-        "alt": "ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D222 รุ่น D222 - ภาพ 3"
+        "alt": "ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D222 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D222",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D222",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1317,28 +1317,28 @@ export const rawProducts = [
     "model": "D322",
     "name": "ตู้เสื้อผ้า กว้าง 90 ซม. ประตูกระจกเงา 2 บาน 2 ลิ้นชักด้านใน รุ่น D322",
     "shortName": "ตู้เสื้อผ้า กว้าง 90 ซม. ประตูกระจกเงา 2 บาน 2 ลิ้นชักด้านใน รุ่น D322",
-    "description": "ตู้เสื้อผ้า กว้าง 90 ซม. ประตูกระจกเงา 2 บาน 2 ลิ้นชักด้านใน รุ่น D322 รุ่น D322 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้เสื้อผ้า กว้าง 90 ซม. ประตูกระจกเงา 2 บาน 2 ลิ้นชักด้านใน รุ่น D322. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d322/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d322/1.webp",
-        "alt": "ตู้เสื้อผ้า กว้าง 90 ซม. ประตูกระจกเงา 2 บาน 2 ลิ้นชักด้านใน รุ่น D322 รุ่น D322 - ภาพ 1"
+        "alt": "ตู้เสื้อผ้า กว้าง 90 ซม. ประตูกระจกเงา 2 บาน 2 ลิ้นชักด้านใน รุ่น D322 - image 1"
       },
       {
         "src": "/images/catalog/d322/2.webp",
-        "alt": "ตู้เสื้อผ้า กว้าง 90 ซม. ประตูกระจกเงา 2 บาน 2 ลิ้นชักด้านใน รุ่น D322 รุ่น D322 - ภาพ 2"
+        "alt": "ตู้เสื้อผ้า กว้าง 90 ซม. ประตูกระจกเงา 2 บาน 2 ลิ้นชักด้านใน รุ่น D322 - image 2"
       },
       {
         "src": "/images/catalog/d322/3.webp",
-        "alt": "ตู้เสื้อผ้า กว้าง 90 ซม. ประตูกระจกเงา 2 บาน 2 ลิ้นชักด้านใน รุ่น D322 รุ่น D322 - ภาพ 3"
+        "alt": "ตู้เสื้อผ้า กว้าง 90 ซม. ประตูกระจกเงา 2 บาน 2 ลิ้นชักด้านใน รุ่น D322 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D322",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D322",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1347,22 +1347,22 @@ export const rawProducts = [
   {
     "slug": "d333",
     "model": "D333",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น D333",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น D333",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น D333 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model D333",
+    "shortName": "Sunny Furniture model D333",
+    "description": "Sunny Furniture model D333. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/d333/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d333/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D333 รุ่น D333 - ภาพ 1"
+        "alt": "Sunny Furniture model D333 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D333",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D333",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -1373,24 +1373,24 @@ export const rawProducts = [
     "model": "D644",
     "name": "NARN-NARN ตู้เสื้อผ้า 4 ประตู กว้าง 180 ซม. +2 ลิ้นชัก รุ่น D644-9 (กรุณาอ่านเงื่อนไขการติดตั้งก่อนสั่งซื้อ)",
     "shortName": "NARN-NARN ตู้เสื้อผ้า 4 ประตู กว้าง 180 ซม. +2 ลิ้นชัก รุ่น D644-9 (กรุณาอ่านเงื่อนไขการติดตั้งก่อนสั่งซื้อ)",
-    "description": "NARN-NARN ตู้เสื้อผ้า 4 ประตู กว้าง 180 ซม. +2 ลิ้นชัก รุ่น D644-9 (กรุณาอ่านเงื่อนไขการติดตั้งก่อนสั่งซื้อ) รุ่น D644 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้า 4 ประตู กว้าง 180 ซม. +2 ลิ้นชัก รุ่น D644-9 (กรุณาอ่านเงื่อนไขการติดตั้งก่อนสั่งซื้อ). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d644/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d644/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ประตู กว้าง 180 ซม. +2 ลิ้นชัก รุ่น D644-9 (กรุณาอ่านเงื่อนไขการติดตั้งก่อนสั่งซื้อ) รุ่น D644 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ประตู กว้าง 180 ซม. +2 ลิ้นชัก รุ่น D644-9 (กรุณาอ่านเงื่อนไขการติดตั้งก่อนสั่งซื้อ) - image 1"
       },
       {
         "src": "/images/catalog/d644/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ประตู กว้าง 180 ซม. +2 ลิ้นชัก รุ่น D644-9 (กรุณาอ่านเงื่อนไขการติดตั้งก่อนสั่งซื้อ) รุ่น D644 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ประตู กว้าง 180 ซม. +2 ลิ้นชัก รุ่น D644-9 (กรุณาอ่านเงื่อนไขการติดตั้งก่อนสั่งซื้อ) - image 2"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D644",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D644",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1399,26 +1399,26 @@ export const rawProducts = [
   {
     "slug": "d645",
     "model": "D645",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น D645",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น D645",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น D645 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model D645",
+    "shortName": "Sunny Furniture model D645",
+    "description": "Sunny Furniture model D645. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/d645/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d645/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D645 รุ่น D645 - ภาพ 1"
+        "alt": "Sunny Furniture model D645 - image 1"
       },
       {
         "src": "/images/catalog/d645/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D645 รุ่น D645 - ภาพ 2"
+        "alt": "Sunny Furniture model D645 - image 2"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D645",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D645",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -1427,26 +1427,26 @@ export const rawProducts = [
   {
     "slug": "d945",
     "model": "D945",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น D945",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น D945",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น D945 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model D945",
+    "shortName": "Sunny Furniture model D945",
+    "description": "Sunny Furniture model D945. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/d945/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d945/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D945 รุ่น D945 - ภาพ 1"
+        "alt": "Sunny Furniture model D945 - image 1"
       },
       {
         "src": "/images/catalog/d945/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D945 รุ่น D945 - ภาพ 2"
+        "alt": "Sunny Furniture model D945 - image 2"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D945",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D945",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -1457,28 +1457,28 @@ export const rawProducts = [
     "model": "D999",
     "name": "NARN-NARN ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D999",
     "shortName": "NARN-NARN ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D999",
-    "description": "NARN-NARN ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D999 รุ่น D999 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D999. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d999/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d999/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D999 รุ่น D999 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D999 - image 1"
       },
       {
         "src": "/images/catalog/d999/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D999 รุ่น D999 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D999 - image 2"
       },
       {
         "src": "/images/catalog/d999/3.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D999 รุ่น D999 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ฟุต 2 ลิ้นชัก พร้อมกุญแจล๊อค เรียบง่าย ทนทาน รุ่น D999 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D999",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D999",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1489,28 +1489,28 @@ export const rawProducts = [
     "model": "D1044",
     "name": "NARN-NARN ตู้เสื้อผ้า 2 ประตู 2 ลิ้นชัก บานกระจกเงา กว้าง 1 เมตร รุ่น D1044",
     "shortName": "NARN-NARN ตู้เสื้อผ้า 2 ประตู 2 ลิ้นชัก บานกระจกเงา กว้าง 1 เมตร รุ่น D1044",
-    "description": "NARN-NARN ตู้เสื้อผ้า 2 ประตู 2 ลิ้นชัก บานกระจกเงา กว้าง 1 เมตร รุ่น D1044 รุ่น D1044 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้า 2 ประตู 2 ลิ้นชัก บานกระจกเงา กว้าง 1 เมตร รุ่น D1044. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d1044/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d1044/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 2 ประตู 2 ลิ้นชัก บานกระจกเงา กว้าง 1 เมตร รุ่น D1044 รุ่น D1044 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 2 ประตู 2 ลิ้นชัก บานกระจกเงา กว้าง 1 เมตร รุ่น D1044 - image 1"
       },
       {
         "src": "/images/catalog/d1044/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 2 ประตู 2 ลิ้นชัก บานกระจกเงา กว้าง 1 เมตร รุ่น D1044 รุ่น D1044 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 2 ประตู 2 ลิ้นชัก บานกระจกเงา กว้าง 1 เมตร รุ่น D1044 - image 2"
       },
       {
         "src": "/images/catalog/d1044/3.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 2 ประตู 2 ลิ้นชัก บานกระจกเงา กว้าง 1 เมตร รุ่น D1044 รุ่น D1044 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 2 ประตู 2 ลิ้นชัก บานกระจกเงา กว้าง 1 เมตร รุ่น D1044 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D1044",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D1044",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1519,26 +1519,26 @@ export const rawProducts = [
   {
     "slug": "d2800",
     "model": "D2800",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น D2800",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น D2800",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น D2800 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model D2800",
+    "shortName": "Sunny Furniture model D2800",
+    "description": "Sunny Furniture model D2800. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/d2800/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d2800/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D2800 รุ่น D2800 - ภาพ 1"
+        "alt": "Sunny Furniture model D2800 - image 1"
       },
       {
         "src": "/images/catalog/d2800/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D2800 รุ่น D2800 - ภาพ 2"
+        "alt": "Sunny Furniture model D2800 - image 2"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D2800",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D2800",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -1549,28 +1549,28 @@ export const rawProducts = [
     "model": "D4201",
     "name": "NARN-NARN ตู้เสือผ้า 4 ฟุต 2 ประตู + 2 ลิ้นชัก รุ่น D4201",
     "shortName": "NARN-NARN ตู้เสือผ้า 4 ฟุต 2 ประตู + 2 ลิ้นชัก รุ่น D4201",
-    "description": "NARN-NARN ตู้เสือผ้า 4 ฟุต 2 ประตู + 2 ลิ้นชัก รุ่น D4201 รุ่น D4201 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสือผ้า 4 ฟุต 2 ประตู + 2 ลิ้นชัก รุ่น D4201. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d4201/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4201/1.webp",
-        "alt": "NARN-NARN ตู้เสือผ้า 4 ฟุต 2 ประตู + 2 ลิ้นชัก รุ่น D4201 รุ่น D4201 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสือผ้า 4 ฟุต 2 ประตู + 2 ลิ้นชัก รุ่น D4201 - image 1"
       },
       {
         "src": "/images/catalog/d4201/2.webp",
-        "alt": "NARN-NARN ตู้เสือผ้า 4 ฟุต 2 ประตู + 2 ลิ้นชัก รุ่น D4201 รุ่น D4201 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสือผ้า 4 ฟุต 2 ประตู + 2 ลิ้นชัก รุ่น D4201 - image 2"
       },
       {
         "src": "/images/catalog/d4201/3.webp",
-        "alt": "NARN-NARN ตู้เสือผ้า 4 ฟุต 2 ประตู + 2 ลิ้นชัก รุ่น D4201 รุ่น D4201 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสือผ้า 4 ฟุต 2 ประตู + 2 ลิ้นชัก รุ่น D4201 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4201",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4201",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1579,30 +1579,30 @@ export const rawProducts = [
   {
     "slug": "d4224",
     "model": "D4224",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น D4224",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น D4224",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น D4224 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model D4224",
+    "shortName": "Sunny Furniture model D4224",
+    "description": "Sunny Furniture model D4224. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/d4224/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4224/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D4224 รุ่น D4224 - ภาพ 1"
+        "alt": "Sunny Furniture model D4224 - image 1"
       },
       {
         "src": "/images/catalog/d4224/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D4224 รุ่น D4224 - ภาพ 2"
+        "alt": "Sunny Furniture model D4224 - image 2"
       },
       {
         "src": "/images/catalog/d4224/3.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D4224 รุ่น D4224 - ภาพ 3"
+        "alt": "Sunny Furniture model D4224 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4224",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4224",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -1613,28 +1613,28 @@ export const rawProducts = [
     "model": "D4234",
     "name": "ตู้เสื้อผ้า 4ฟุต 3 ประตู +1ลิ้นชักด้านใน แข็งแรง ทนทาน รุ่น D4234",
     "shortName": "ตู้เสื้อผ้า 4ฟุต 3 ประตู +1ลิ้นชักด้านใน แข็งแรง ทนทาน รุ่น D4234",
-    "description": "ตู้เสื้อผ้า 4ฟุต 3 ประตู +1ลิ้นชักด้านใน แข็งแรง ทนทาน รุ่น D4234 รุ่น D4234 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้เสื้อผ้า 4ฟุต 3 ประตู +1ลิ้นชักด้านใน แข็งแรง ทนทาน รุ่น D4234. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d4234/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4234/1.webp",
-        "alt": "ตู้เสื้อผ้า 4ฟุต 3 ประตู +1ลิ้นชักด้านใน แข็งแรง ทนทาน รุ่น D4234 รุ่น D4234 - ภาพ 1"
+        "alt": "ตู้เสื้อผ้า 4ฟุต 3 ประตู +1ลิ้นชักด้านใน แข็งแรง ทนทาน รุ่น D4234 - image 1"
       },
       {
         "src": "/images/catalog/d4234/2.webp",
-        "alt": "ตู้เสื้อผ้า 4ฟุต 3 ประตู +1ลิ้นชักด้านใน แข็งแรง ทนทาน รุ่น D4234 รุ่น D4234 - ภาพ 2"
+        "alt": "ตู้เสื้อผ้า 4ฟุต 3 ประตู +1ลิ้นชักด้านใน แข็งแรง ทนทาน รุ่น D4234 - image 2"
       },
       {
         "src": "/images/catalog/d4234/3.webp",
-        "alt": "ตู้เสื้อผ้า 4ฟุต 3 ประตู +1ลิ้นชักด้านใน แข็งแรง ทนทาน รุ่น D4234 รุ่น D4234 - ภาพ 3"
+        "alt": "ตู้เสื้อผ้า 4ฟุต 3 ประตู +1ลิ้นชักด้านใน แข็งแรง ทนทาน รุ่น D4234 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4234",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4234",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1643,26 +1643,26 @@ export const rawProducts = [
   {
     "slug": "d4244",
     "model": "D4244",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น D4244",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น D4244",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น D4244 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model D4244",
+    "shortName": "Sunny Furniture model D4244",
+    "description": "Sunny Furniture model D4244. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/d4244/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4244/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D4244 รุ่น D4244 - ภาพ 1"
+        "alt": "Sunny Furniture model D4244 - image 1"
       },
       {
         "src": "/images/catalog/d4244/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D4244 รุ่น D4244 - ภาพ 2"
+        "alt": "Sunny Furniture model D4244 - image 2"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4244",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4244",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -1671,22 +1671,22 @@ export const rawProducts = [
   {
     "slug": "d4245",
     "model": "D4245",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น D4245",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น D4245",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น D4245 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model D4245",
+    "shortName": "Sunny Furniture model D4245",
+    "description": "Sunny Furniture model D4245. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/d4245/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4245/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D4245 รุ่น D4245 - ภาพ 1"
+        "alt": "Sunny Furniture model D4245 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4245",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4245",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -1697,28 +1697,28 @@ export const rawProducts = [
     "model": "D4335",
     "name": "NARN-NARN ตู้เสื้อผ้า 3 ประตู กระจกเงาบานกลาง+3 ลิ้นชัก กว้าง 135 ซม. รุ่น D4335",
     "shortName": "NARN-NARN ตู้เสื้อผ้า 3 ประตู กระจกเงาบานกลาง+3 ลิ้นชัก กว้าง 135 ซม. รุ่น D4335",
-    "description": "NARN-NARN ตู้เสื้อผ้า 3 ประตู กระจกเงาบานกลาง+3 ลิ้นชัก กว้าง 135 ซม. รุ่น D4335 รุ่น D4335 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้า 3 ประตู กระจกเงาบานกลาง+3 ลิ้นชัก กว้าง 135 ซม. รุ่น D4335. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d4335/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4335/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู กระจกเงาบานกลาง+3 ลิ้นชัก กว้าง 135 ซม. รุ่น D4335 รุ่น D4335 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู กระจกเงาบานกลาง+3 ลิ้นชัก กว้าง 135 ซม. รุ่น D4335 - image 1"
       },
       {
         "src": "/images/catalog/d4335/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู กระจกเงาบานกลาง+3 ลิ้นชัก กว้าง 135 ซม. รุ่น D4335 รุ่น D4335 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู กระจกเงาบานกลาง+3 ลิ้นชัก กว้าง 135 ซม. รุ่น D4335 - image 2"
       },
       {
         "src": "/images/catalog/d4335/3.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู กระจกเงาบานกลาง+3 ลิ้นชัก กว้าง 135 ซม. รุ่น D4335 รุ่น D4335 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู กระจกเงาบานกลาง+3 ลิ้นชัก กว้าง 135 ซม. รุ่น D4335 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4335",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4335",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1729,28 +1729,28 @@ export const rawProducts = [
     "model": "D4530",
     "name": "NARN-NARN ตู้เสื้อผ้า 3 ประตู พร้อม 2 ลิ้นชัก สูง 210 ซม. รุ่น D4530",
     "shortName": "NARN-NARN ตู้เสื้อผ้า 3 ประตู พร้อม 2 ลิ้นชัก สูง 210 ซม. รุ่น D4530",
-    "description": "NARN-NARN ตู้เสื้อผ้า 3 ประตู พร้อม 2 ลิ้นชัก สูง 210 ซม. รุ่น D4530 รุ่น D4530 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้า 3 ประตู พร้อม 2 ลิ้นชัก สูง 210 ซม. รุ่น D4530. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d4530/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4530/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู พร้อม 2 ลิ้นชัก สูง 210 ซม. รุ่น D4530 รุ่น D4530 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู พร้อม 2 ลิ้นชัก สูง 210 ซม. รุ่น D4530 - image 1"
       },
       {
         "src": "/images/catalog/d4530/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู พร้อม 2 ลิ้นชัก สูง 210 ซม. รุ่น D4530 รุ่น D4530 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู พร้อม 2 ลิ้นชัก สูง 210 ซม. รุ่น D4530 - image 2"
       },
       {
         "src": "/images/catalog/d4530/3.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู พร้อม 2 ลิ้นชัก สูง 210 ซม. รุ่น D4530 รุ่น D4530 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู พร้อม 2 ลิ้นชัก สูง 210 ซม. รุ่น D4530 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4530",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4530",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1761,28 +1761,28 @@ export const rawProducts = [
     "model": "D4901",
     "name": "ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4901",
     "shortName": "ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4901",
-    "description": "ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4901 รุ่น D4901 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4901. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d4901/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4901/1.webp",
-        "alt": "ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4901 รุ่น D4901 - ภาพ 1"
+        "alt": "ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4901 - image 1"
       },
       {
         "src": "/images/catalog/d4901/2.webp",
-        "alt": "ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4901 รุ่น D4901 - ภาพ 2"
+        "alt": "ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4901 - image 2"
       },
       {
         "src": "/images/catalog/d4901/3.webp",
-        "alt": "ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4901 รุ่น D4901 - ภาพ 3"
+        "alt": "ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4901 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4901",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4901",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1793,28 +1793,28 @@ export const rawProducts = [
     "model": "D4902",
     "name": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4902",
     "shortName": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4902",
-    "description": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4902 รุ่น D4902 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4902. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d4902/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4902/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4902 รุ่น D4902 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4902 - image 1"
       },
       {
         "src": "/images/catalog/d4902/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4902 รุ่น D4902 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4902 - image 2"
       },
       {
         "src": "/images/catalog/d4902/3.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4902 รุ่น D4902 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4902 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4902",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4902",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1825,28 +1825,28 @@ export const rawProducts = [
     "model": "D4911",
     "name": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4911",
     "shortName": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4911",
-    "description": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4911 รุ่น D4911 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4911. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d4911/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4911/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4911 รุ่น D4911 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4911 - image 1"
       },
       {
         "src": "/images/catalog/d4911/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4911 รุ่น D4911 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4911 - image 2"
       },
       {
         "src": "/images/catalog/d4911/3.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4911 รุ่น D4911 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4911 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4911",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4911",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1857,28 +1857,28 @@ export const rawProducts = [
     "model": "D4933",
     "name": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4933",
     "shortName": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4933",
-    "description": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4933 รุ่น D4933 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4933. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d4933/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4933/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4933 รุ่น D4933 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4933 - image 1"
       },
       {
         "src": "/images/catalog/d4933/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4933 รุ่น D4933 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4933 - image 2"
       },
       {
         "src": "/images/catalog/d4933/3.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4933 รุ่น D4933 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 2 ประตู มี2ลิ้นชัก+กุญแจล๊อค รุ่น D4933 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4933",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4933",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1889,28 +1889,28 @@ export const rawProducts = [
     "model": "D4955",
     "name": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 3 ประตู 3 ลิ้นชัก+กุญแจล๊อค รุ่น D4955",
     "shortName": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 3 ประตู 3 ลิ้นชัก+กุญแจล๊อค รุ่น D4955",
-    "description": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 3 ประตู 3 ลิ้นชัก+กุญแจล๊อค รุ่น D4955 รุ่น D4955 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 3 ประตู 3 ลิ้นชัก+กุญแจล๊อค รุ่น D4955. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d4955/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d4955/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 3 ประตู 3 ลิ้นชัก+กุญแจล๊อค รุ่น D4955 รุ่น D4955 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 3 ประตู 3 ลิ้นชัก+กุญแจล๊อค รุ่น D4955 - image 1"
       },
       {
         "src": "/images/catalog/d4955/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 3 ประตู 3 ลิ้นชัก+กุญแจล๊อค รุ่น D4955 รุ่น D4955 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 3 ประตู 3 ลิ้นชัก+กุญแจล๊อค รุ่น D4955 - image 2"
       },
       {
         "src": "/images/catalog/d4955/3.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 3 ประตู 3 ลิ้นชัก+กุญแจล๊อค รุ่น D4955 รุ่น D4955 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 4 ฟุต 3 ประตู 3 ลิ้นชัก+กุญแจล๊อค รุ่น D4955 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D4955",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D4955",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -1919,26 +1919,26 @@ export const rawProducts = [
   {
     "slug": "d5444",
     "model": "D5444",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น D5444",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น D5444",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น D5444 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model D5444",
+    "shortName": "Sunny Furniture model D5444",
+    "description": "Sunny Furniture model D5444. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/d5444/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d5444/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D5444 รุ่น D5444 - ภาพ 1"
+        "alt": "Sunny Furniture model D5444 - image 1"
       },
       {
         "src": "/images/catalog/d5444/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D5444 รุ่น D5444 - ภาพ 2"
+        "alt": "Sunny Furniture model D5444 - image 2"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D5444",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D5444",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -1947,30 +1947,30 @@ export const rawProducts = [
   {
     "slug": "d6122",
     "model": "D6122",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น D6122",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น D6122",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น D6122 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model D6122",
+    "shortName": "Sunny Furniture model D6122",
+    "description": "Sunny Furniture model D6122. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/d6122/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d6122/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D6122 รุ่น D6122 - ภาพ 1"
+        "alt": "Sunny Furniture model D6122 - image 1"
       },
       {
         "src": "/images/catalog/d6122/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D6122 รุ่น D6122 - ภาพ 2"
+        "alt": "Sunny Furniture model D6122 - image 2"
       },
       {
         "src": "/images/catalog/d6122/3.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น D6122 รุ่น D6122 - ภาพ 3"
+        "alt": "Sunny Furniture model D6122 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D6122",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D6122",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -1981,28 +1981,28 @@ export const rawProducts = [
     "model": "D6123",
     "name": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม (ส่งและติดตั้งฟรี เฉพาะ กทม. / ตจว. ส่งแบบยังไม่ประกอบ) รุ่น D6123",
     "shortName": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม (ส่งและติดตั้งฟรี เฉพาะ กทม. / ตจว. ส่งแบบยังไม่ประกอบ) รุ่น D6123",
-    "description": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม (ส่งและติดตั้งฟรี เฉพาะ กทม. / ตจว. ส่งแบบยังไม่ประกอบ) รุ่น D6123 รุ่น D6123 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม (ส่งและติดตั้งฟรี เฉพาะ กทม. / ตจว. ส่งแบบยังไม่ประกอบ) รุ่น D6123. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d6123/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d6123/1.webp",
-        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม (ส่งและติดตั้งฟรี เฉพาะ กทม. / ตจว. ส่งแบบยังไม่ประกอบ) รุ่น D6123 รุ่น D6123 - ภาพ 1"
+        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม (ส่งและติดตั้งฟรี เฉพาะ กทม. / ตจว. ส่งแบบยังไม่ประกอบ) รุ่น D6123 - image 1"
       },
       {
         "src": "/images/catalog/d6123/2.webp",
-        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม (ส่งและติดตั้งฟรี เฉพาะ กทม. / ตจว. ส่งแบบยังไม่ประกอบ) รุ่น D6123 รุ่น D6123 - ภาพ 2"
+        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม (ส่งและติดตั้งฟรี เฉพาะ กทม. / ตจว. ส่งแบบยังไม่ประกอบ) รุ่น D6123 - image 2"
       },
       {
         "src": "/images/catalog/d6123/3.webp",
-        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม (ส่งและติดตั้งฟรี เฉพาะ กทม. / ตจว. ส่งแบบยังไม่ประกอบ) รุ่น D6123 รุ่น D6123 - ภาพ 3"
+        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม (ส่งและติดตั้งฟรี เฉพาะ กทม. / ตจว. ส่งแบบยังไม่ประกอบ) รุ่น D6123 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D6123",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D6123",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2013,28 +2013,28 @@ export const rawProducts = [
     "model": "D6124",
     "name": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม รุ่น D6124",
     "shortName": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม รุ่น D6124",
-    "description": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม รุ่น D6124 รุ่น D6124 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม รุ่น D6124. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/d6124/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/d6124/1.webp",
-        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม รุ่น D6124 รุ่น D6124 - ภาพ 1"
+        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม รุ่น D6124 - image 1"
       },
       {
         "src": "/images/catalog/d6124/2.webp",
-        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม รุ่น D6124 รุ่น D6124 - ภาพ 2"
+        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม รุ่น D6124 - image 2"
       },
       {
         "src": "/images/catalog/d6124/3.webp",
-        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม รุ่น D6124 รุ่น D6124 - ภาพ 3"
+        "alt": "ตู้เสื้อผ้า 6 ฟุต 4 ประตู ขนาดใหญ่ กว้าง 180 ซม รุ่น D6124 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น D6124",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model D6124",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2043,30 +2043,30 @@ export const rawProducts = [
   {
     "slug": "df9051",
     "model": "DF9051",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น DF9051",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น DF9051",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น DF9051 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model DF9051",
+    "shortName": "Sunny Furniture model DF9051",
+    "description": "Sunny Furniture model DF9051. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/df9051/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/df9051/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DF9051 รุ่น DF9051 - ภาพ 1"
+        "alt": "Sunny Furniture model DF9051 - image 1"
       },
       {
         "src": "/images/catalog/df9051/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DF9051 รุ่น DF9051 - ภาพ 2"
+        "alt": "Sunny Furniture model DF9051 - image 2"
       },
       {
         "src": "/images/catalog/df9051/3.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DF9051 รุ่น DF9051 - ภาพ 3"
+        "alt": "Sunny Furniture model DF9051 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DF9051",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DF9051",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -2077,28 +2077,28 @@ export const rawProducts = [
     "model": "DG4203",
     "name": "NARN-NARN ตู้เสื้อผ้า 3 ประตู บานกระจกเงาตรงกลาง สูง 200 ซม. (ส่งเฉพาะ กทม) รุ่น DG4203",
     "shortName": "NARN-NARN ตู้เสื้อผ้า 3 ประตู บานกระจกเงาตรงกลาง สูง 200 ซม. (ส่งเฉพาะ กทม) รุ่น DG4203",
-    "description": "NARN-NARN ตู้เสื้อผ้า 3 ประตู บานกระจกเงาตรงกลาง สูง 200 ซม. (ส่งเฉพาะ กทม) รุ่น DG4203 รุ่น DG4203 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้า 3 ประตู บานกระจกเงาตรงกลาง สูง 200 ซม. (ส่งเฉพาะ กทม) รุ่น DG4203. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/dg4203/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/dg4203/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู บานกระจกเงาตรงกลาง สูง 200 ซม. (ส่งเฉพาะ กทม) รุ่น DG4203 รุ่น DG4203 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู บานกระจกเงาตรงกลาง สูง 200 ซม. (ส่งเฉพาะ กทม) รุ่น DG4203 - image 1"
       },
       {
         "src": "/images/catalog/dg4203/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู บานกระจกเงาตรงกลาง สูง 200 ซม. (ส่งเฉพาะ กทม) รุ่น DG4203 รุ่น DG4203 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู บานกระจกเงาตรงกลาง สูง 200 ซม. (ส่งเฉพาะ กทม) รุ่น DG4203 - image 2"
       },
       {
         "src": "/images/catalog/dg4203/3.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู บานกระจกเงาตรงกลาง สูง 200 ซม. (ส่งเฉพาะ กทม) รุ่น DG4203 รุ่น DG4203 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสื้อผ้า 3 ประตู บานกระจกเงาตรงกลาง สูง 200 ซม. (ส่งเฉพาะ กทม) รุ่น DG4203 - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DG4203",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DG4203",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2107,30 +2107,30 @@ export const rawProducts = [
   {
     "slug": "dg4204",
     "model": "DG4204",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น DG4204",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น DG4204",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น DG4204 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model DG4204",
+    "shortName": "Sunny Furniture model DG4204",
+    "description": "Sunny Furniture model DG4204. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/dg4204/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/dg4204/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DG4204 รุ่น DG4204 - ภาพ 1"
+        "alt": "Sunny Furniture model DG4204 - image 1"
       },
       {
         "src": "/images/catalog/dg4204/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DG4204 รุ่น DG4204 - ภาพ 2"
+        "alt": "Sunny Furniture model DG4204 - image 2"
       },
       {
         "src": "/images/catalog/dg4204/3.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DG4204 รุ่น DG4204 - ภาพ 3"
+        "alt": "Sunny Furniture model DG4204 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DG4204",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DG4204",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -2139,22 +2139,22 @@ export const rawProducts = [
   {
     "slug": "dm4331",
     "model": "DM4331",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น DM4331",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น DM4331",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น DM4331 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model DM4331",
+    "shortName": "Sunny Furniture model DM4331",
+    "description": "Sunny Furniture model DM4331. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/dm4331/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/dm4331/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DM4331 รุ่น DM4331 - ภาพ 1"
+        "alt": "Sunny Furniture model DM4331 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DM4331",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DM4331",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -2163,30 +2163,30 @@ export const rawProducts = [
   {
     "slug": "dm4332",
     "model": "DM4332",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น DM4332",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น DM4332",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น DM4332 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model DM4332",
+    "shortName": "Sunny Furniture model DM4332",
+    "description": "Sunny Furniture model DM4332. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/dm4332/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/dm4332/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DM4332 รุ่น DM4332 - ภาพ 1"
+        "alt": "Sunny Furniture model DM4332 - image 1"
       },
       {
         "src": "/images/catalog/dm4332/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DM4332 รุ่น DM4332 - ภาพ 2"
+        "alt": "Sunny Furniture model DM4332 - image 2"
       },
       {
         "src": "/images/catalog/dm4332/3.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DM4332 รุ่น DM4332 - ภาพ 3"
+        "alt": "Sunny Furniture model DM4332 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DM4332",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DM4332",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -2195,22 +2195,22 @@ export const rawProducts = [
   {
     "slug": "dm5321",
     "model": "DM5321",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น DM5321",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น DM5321",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น DM5321 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model DM5321",
+    "shortName": "Sunny Furniture model DM5321",
+    "description": "Sunny Furniture model DM5321. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/dm5321/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/dm5321/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DM5321 รุ่น DM5321 - ภาพ 1"
+        "alt": "Sunny Furniture model DM5321 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DM5321",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DM5321",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -2219,22 +2219,22 @@ export const rawProducts = [
   {
     "slug": "dm5332",
     "model": "DM5332",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น DM5332",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น DM5332",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น DM5332 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model DM5332",
+    "shortName": "Sunny Furniture model DM5332",
+    "description": "Sunny Furniture model DM5332. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/dm5332/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/dm5332/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DM5332 รุ่น DM5332 - ภาพ 1"
+        "alt": "Sunny Furniture model DM5332 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DM5332",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DM5332",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -2243,22 +2243,22 @@ export const rawProducts = [
   {
     "slug": "dm5342",
     "model": "DM5342",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น DM5342",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น DM5342",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น DM5342 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model DM5342",
+    "shortName": "Sunny Furniture model DM5342",
+    "description": "Sunny Furniture model DM5342. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/dm5342/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/dm5342/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DM5342 รุ่น DM5342 - ภาพ 1"
+        "alt": "Sunny Furniture model DM5342 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DM5342",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DM5342",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -2269,28 +2269,28 @@ export const rawProducts = [
     "model": "DS1220",
     "name": "ตู้เสื้อผ้าบานเลื่อน ตู้เสื้อผ้า บานกระจก พร้อมลิ้นชัก รุ่น DS1220 - ส่งฟรี(กรุณาอ่านรายละเอียดก่อนสั่งซื้อ)",
     "shortName": "ตู้เสื้อผ้าบานเลื่อน ตู้เสื้อผ้า บานกระจก พร้อมลิ้นชัก รุ่น DS1220 - ส่งฟรี(กรุณาอ่านรายละเอียดก่อนสั่งซื้อ)",
-    "description": "ตู้เสื้อผ้าบานเลื่อน ตู้เสื้อผ้า บานกระจก พร้อมลิ้นชัก รุ่น DS1220 - ส่งฟรี(กรุณาอ่านรายละเอียดก่อนสั่งซื้อ) รุ่น DS1220 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้เสื้อผ้าบานเลื่อน ตู้เสื้อผ้า บานกระจก พร้อมลิ้นชัก รุ่น DS1220 - ส่งฟรี(กรุณาอ่านรายละเอียดก่อนสั่งซื้อ). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/ds1220/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/ds1220/1.webp",
-        "alt": "ตู้เสื้อผ้าบานเลื่อน ตู้เสื้อผ้า บานกระจก พร้อมลิ้นชัก รุ่น DS1220 - ส่งฟรี(กรุณาอ่านรายละเอียดก่อนสั่งซื้อ) รุ่น DS1220 - ภาพ 1"
+        "alt": "ตู้เสื้อผ้าบานเลื่อน ตู้เสื้อผ้า บานกระจก พร้อมลิ้นชัก รุ่น DS1220 - ส่งฟรี(กรุณาอ่านรายละเอียดก่อนสั่งซื้อ) - image 1"
       },
       {
         "src": "/images/catalog/ds1220/2.webp",
-        "alt": "ตู้เสื้อผ้าบานเลื่อน ตู้เสื้อผ้า บานกระจก พร้อมลิ้นชัก รุ่น DS1220 - ส่งฟรี(กรุณาอ่านรายละเอียดก่อนสั่งซื้อ) รุ่น DS1220 - ภาพ 2"
+        "alt": "ตู้เสื้อผ้าบานเลื่อน ตู้เสื้อผ้า บานกระจก พร้อมลิ้นชัก รุ่น DS1220 - ส่งฟรี(กรุณาอ่านรายละเอียดก่อนสั่งซื้อ) - image 2"
       },
       {
         "src": "/images/catalog/ds1220/3.webp",
-        "alt": "ตู้เสื้อผ้าบานเลื่อน ตู้เสื้อผ้า บานกระจก พร้อมลิ้นชัก รุ่น DS1220 - ส่งฟรี(กรุณาอ่านรายละเอียดก่อนสั่งซื้อ) รุ่น DS1220 - ภาพ 3"
+        "alt": "ตู้เสื้อผ้าบานเลื่อน ตู้เสื้อผ้า บานกระจก พร้อมลิ้นชัก รุ่น DS1220 - ส่งฟรี(กรุณาอ่านรายละเอียดก่อนสั่งซื้อ) - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DS1220",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DS1220",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2299,30 +2299,30 @@ export const rawProducts = [
   {
     "slug": "ds4326",
     "model": "DS4326",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น DS4326",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น DS4326",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น DS4326 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model DS4326",
+    "shortName": "Sunny Furniture model DS4326",
+    "description": "Sunny Furniture model DS4326. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/ds4326/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/ds4326/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DS4326 รุ่น DS4326 - ภาพ 1"
+        "alt": "Sunny Furniture model DS4326 - image 1"
       },
       {
         "src": "/images/catalog/ds4326/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DS4326 รุ่น DS4326 - ภาพ 2"
+        "alt": "Sunny Furniture model DS4326 - image 2"
       },
       {
         "src": "/images/catalog/ds4326/3.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DS4326 รุ่น DS4326 - ภาพ 3"
+        "alt": "Sunny Furniture model DS4326 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DS4326",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DS4326",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -2331,22 +2331,22 @@ export const rawProducts = [
   {
     "slug": "ds4521",
     "model": "DS4521",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น DS4521",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น DS4521",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น DS4521 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model DS4521",
+    "shortName": "Sunny Furniture model DS4521",
+    "description": "Sunny Furniture model DS4521. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/ds4521/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/ds4521/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น DS4521 รุ่น DS4521 - ภาพ 1"
+        "alt": "Sunny Furniture model DS4521 - image 1"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DS4521",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DS4521",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -2357,28 +2357,28 @@ export const rawProducts = [
     "model": "DS4560",
     "name": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4560 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
     "shortName": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4560 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
-    "description": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4560 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น DS4560 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4560 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/ds4560/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/ds4560/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4560 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น DS4560 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4560 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 1"
       },
       {
         "src": "/images/catalog/ds4560/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4560 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น DS4560 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4560 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 2"
       },
       {
         "src": "/images/catalog/ds4560/3.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4560 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น DS4560 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4560 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DS4560",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DS4560",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2389,28 +2389,28 @@ export const rawProducts = [
     "model": "DS4561",
     "name": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4561 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
     "shortName": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4561 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ)",
-    "description": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4561 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น DS4561 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4561 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/ds4561/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/ds4561/1.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4561 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น DS4561 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4561 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 1"
       },
       {
         "src": "/images/catalog/ds4561/2.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4561 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น DS4561 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4561 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 2"
       },
       {
         "src": "/images/catalog/ds4561/3.webp",
-        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4561 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) รุ่น DS4561 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เสื้อผ้าบานเลื่อน ขนาดใหญ่ กว้าง 135 ซม. รุ่น DS4561 (กรุณาอ่านรายละเอียด ก่อนสั่งซื้อ) - image 3"
       }
     ],
-    "category": "ตู้เสื้อผ้าและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น DS4561",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model DS4561",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2421,28 +2421,28 @@ export const rawProducts = [
     "model": "E530",
     "name": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ ทรงสูง มีช่องและชั้นวางเยอะ รุ่น E530",
     "shortName": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ ทรงสูง มีช่องและชั้นวางเยอะ รุ่น E530",
-    "description": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ ทรงสูง มีช่องและชั้นวางเยอะ รุ่น E530 รุ่น E530 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ ทรงสูง มีช่องและชั้นวางเยอะ รุ่น E530. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/e530/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/e530/1.webp",
-        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ ทรงสูง มีช่องและชั้นวางเยอะ รุ่น E530 รุ่น E530 - ภาพ 1"
+        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ ทรงสูง มีช่องและชั้นวางเยอะ รุ่น E530 - image 1"
       },
       {
         "src": "/images/catalog/e530/2.webp",
-        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ ทรงสูง มีช่องและชั้นวางเยอะ รุ่น E530 รุ่น E530 - ภาพ 2"
+        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ ทรงสูง มีช่องและชั้นวางเยอะ รุ่น E530 - image 2"
       },
       {
         "src": "/images/catalog/e530/3.webp",
-        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ ทรงสูง มีช่องและชั้นวางเยอะ รุ่น E530 รุ่น E530 - ภาพ 3"
+        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ ทรงสูง มีช่องและชั้นวางเยอะ รุ่น E530 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น E530",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model E530",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2453,28 +2453,28 @@ export const rawProducts = [
     "model": "E2001",
     "name": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ กว้าง 2 เมตร วางทีวี 60 นิ้ว ได้ รุ่น E2001",
     "shortName": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ กว้าง 2 เมตร วางทีวี 60 นิ้ว ได้ รุ่น E2001",
-    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ กว้าง 2 เมตร วางทีวี 60 นิ้ว ได้ รุ่น E2001 รุ่น E2001 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ กว้าง 2 เมตร วางทีวี 60 นิ้ว ได้ รุ่น E2001. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/e2001/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/e2001/1.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ กว้าง 2 เมตร วางทีวี 60 นิ้ว ได้ รุ่น E2001 รุ่น E2001 - ภาพ 1"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ กว้าง 2 เมตร วางทีวี 60 นิ้ว ได้ รุ่น E2001 - image 1"
       },
       {
         "src": "/images/catalog/e2001/2.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ กว้าง 2 เมตร วางทีวี 60 นิ้ว ได้ รุ่น E2001 รุ่น E2001 - ภาพ 2"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ กว้าง 2 เมตร วางทีวี 60 นิ้ว ได้ รุ่น E2001 - image 2"
       },
       {
         "src": "/images/catalog/e2001/3.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ กว้าง 2 เมตร วางทีวี 60 นิ้ว ได้ รุ่น E2001 รุ่น E2001 - ภาพ 3"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ กว้าง 2 เมตร วางทีวี 60 นิ้ว ได้ รุ่น E2001 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น E2001",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model E2001",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2485,28 +2485,28 @@ export const rawProducts = [
     "model": "E4012",
     "name": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4012",
     "shortName": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4012",
-    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4012 รุ่น E4012 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4012. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/e4012/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/e4012/1.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4012 รุ่น E4012 - ภาพ 1"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4012 - image 1"
       },
       {
         "src": "/images/catalog/e4012/2.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4012 รุ่น E4012 - ภาพ 2"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4012 - image 2"
       },
       {
         "src": "/images/catalog/e4012/3.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4012 รุ่น E4012 - ภาพ 3"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4012 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "TV stands",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น E4012",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model E4012",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2517,28 +2517,28 @@ export const rawProducts = [
     "model": "E4409",
     "name": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4409",
     "shortName": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4409",
-    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4409 รุ่น E4409 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4409. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/e4409/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/e4409/1.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4409 รุ่น E4409 - ภาพ 1"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4409 - image 1"
       },
       {
         "src": "/images/catalog/e4409/2.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4409 รุ่น E4409 - ภาพ 2"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4409 - image 2"
       },
       {
         "src": "/images/catalog/e4409/3.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4409 รุ่น E4409 - ภาพ 3"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 120 ซม. วางทีวี 50 นิ้วได้ TV stand cabinet รุ่น E4409 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "TV stands",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น E4409",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model E4409",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2549,28 +2549,28 @@ export const rawProducts = [
     "model": "E6182",
     "name": "ตู้วางทีวี ชั้นวางทีวี ขนาด กว้าง 182 ซม. วางทีวีขนาด 80 นิ้ว ได้ รุ่น E6182-B",
     "shortName": "ตู้วางทีวี ชั้นวางทีวี ขนาด กว้าง 182 ซม. วางทีวีขนาด 80 นิ้ว ได้ รุ่น E6182-B",
-    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาด กว้าง 182 ซม. วางทีวีขนาด 80 นิ้ว ได้ รุ่น E6182-B รุ่น E6182 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาด กว้าง 182 ซม. วางทีวีขนาด 80 นิ้ว ได้ รุ่น E6182-B. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/e6182/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/e6182/1.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด กว้าง 182 ซม. วางทีวีขนาด 80 นิ้ว ได้ รุ่น E6182-B รุ่น E6182 - ภาพ 1"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด กว้าง 182 ซม. วางทีวีขนาด 80 นิ้ว ได้ รุ่น E6182-B - image 1"
       },
       {
         "src": "/images/catalog/e6182/2.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด กว้าง 182 ซม. วางทีวีขนาด 80 นิ้ว ได้ รุ่น E6182-B รุ่น E6182 - ภาพ 2"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด กว้าง 182 ซม. วางทีวีขนาด 80 นิ้ว ได้ รุ่น E6182-B - image 2"
       },
       {
         "src": "/images/catalog/e6182/3.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด กว้าง 182 ซม. วางทีวีขนาด 80 นิ้ว ได้ รุ่น E6182-B รุ่น E6182 - ภาพ 3"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด กว้าง 182 ซม. วางทีวีขนาด 80 นิ้ว ได้ รุ่น E6182-B - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น E6182",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model E6182",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2581,28 +2581,28 @@ export const rawProducts = [
     "model": "E6201",
     "name": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวี 80 นิ้วได้ TV stand cabinet รุ่น E6201",
     "shortName": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวี 80 นิ้วได้ TV stand cabinet รุ่น E6201",
-    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวี 80 นิ้วได้ TV stand cabinet รุ่น E6201 รุ่น E6201 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวี 80 นิ้วได้ TV stand cabinet รุ่น E6201. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/e6201/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/e6201/1.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวี 80 นิ้วได้ TV stand cabinet รุ่น E6201 รุ่น E6201 - ภาพ 1"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวี 80 นิ้วได้ TV stand cabinet รุ่น E6201 - image 1"
       },
       {
         "src": "/images/catalog/e6201/2.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวี 80 นิ้วได้ TV stand cabinet รุ่น E6201 รุ่น E6201 - ภาพ 2"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวี 80 นิ้วได้ TV stand cabinet รุ่น E6201 - image 2"
       },
       {
         "src": "/images/catalog/e6201/3.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวี 80 นิ้วได้ TV stand cabinet รุ่น E6201 รุ่น E6201 - ภาพ 3"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวี 80 นิ้วได้ TV stand cabinet รุ่น E6201 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "TV stands",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น E6201",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model E6201",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2613,28 +2613,28 @@ export const rawProducts = [
     "model": "EG4233",
     "name": "NARN-NARN ตู้ไซด์บอร์ด ชั้นวางของ มีกระจก และกุญแจล๊อค ทุกบาน รุ่นEG4233-B",
     "shortName": "NARN-NARN ตู้ไซด์บอร์ด ชั้นวางของ มีกระจก และกุญแจล๊อค ทุกบาน รุ่นEG4233-B",
-    "description": "NARN-NARN ตู้ไซด์บอร์ด ชั้นวางของ มีกระจก และกุญแจล๊อค ทุกบาน รุ่นEG4233-B รุ่น EG4233 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้ไซด์บอร์ด ชั้นวางของ มีกระจก และกุญแจล๊อค ทุกบาน รุ่นEG4233-B. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/eg4233/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/eg4233/1.webp",
-        "alt": "NARN-NARN ตู้ไซด์บอร์ด ชั้นวางของ มีกระจก และกุญแจล๊อค ทุกบาน รุ่นEG4233-B รุ่น EG4233 - ภาพ 1"
+        "alt": "NARN-NARN ตู้ไซด์บอร์ด ชั้นวางของ มีกระจก และกุญแจล๊อค ทุกบาน รุ่นEG4233-B - image 1"
       },
       {
         "src": "/images/catalog/eg4233/2.webp",
-        "alt": "NARN-NARN ตู้ไซด์บอร์ด ชั้นวางของ มีกระจก และกุญแจล๊อค ทุกบาน รุ่นEG4233-B รุ่น EG4233 - ภาพ 2"
+        "alt": "NARN-NARN ตู้ไซด์บอร์ด ชั้นวางของ มีกระจก และกุญแจล๊อค ทุกบาน รุ่นEG4233-B - image 2"
       },
       {
         "src": "/images/catalog/eg4233/3.webp",
-        "alt": "NARN-NARN ตู้ไซด์บอร์ด ชั้นวางของ มีกระจก และกุญแจล๊อค ทุกบาน รุ่นEG4233-B รุ่น EG4233 - ภาพ 3"
+        "alt": "NARN-NARN ตู้ไซด์บอร์ด ชั้นวางของ มีกระจก และกุญแจล๊อค ทุกบาน รุ่นEG4233-B - image 3"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น EG4233",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model EG4233",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2645,28 +2645,28 @@ export const rawProducts = [
     "model": "EG5245",
     "name": "NARN-NARN ตู้โชว์บานกระจก-เปิดปิด กว้าง 159 ซม. มีกุญแจล๊อคทุกบาน รุ่น EG5245",
     "shortName": "NARN-NARN ตู้โชว์บานกระจก-เปิดปิด กว้าง 159 ซม. มีกุญแจล๊อคทุกบาน รุ่น EG5245",
-    "description": "NARN-NARN ตู้โชว์บานกระจก-เปิดปิด กว้าง 159 ซม. มีกุญแจล๊อคทุกบาน รุ่น EG5245 รุ่น EG5245 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้โชว์บานกระจก-เปิดปิด กว้าง 159 ซม. มีกุญแจล๊อคทุกบาน รุ่น EG5245. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/eg5245/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/eg5245/1.webp",
-        "alt": "NARN-NARN ตู้โชว์บานกระจก-เปิดปิด กว้าง 159 ซม. มีกุญแจล๊อคทุกบาน รุ่น EG5245 รุ่น EG5245 - ภาพ 1"
+        "alt": "NARN-NARN ตู้โชว์บานกระจก-เปิดปิด กว้าง 159 ซม. มีกุญแจล๊อคทุกบาน รุ่น EG5245 - image 1"
       },
       {
         "src": "/images/catalog/eg5245/2.webp",
-        "alt": "NARN-NARN ตู้โชว์บานกระจก-เปิดปิด กว้าง 159 ซม. มีกุญแจล๊อคทุกบาน รุ่น EG5245 รุ่น EG5245 - ภาพ 2"
+        "alt": "NARN-NARN ตู้โชว์บานกระจก-เปิดปิด กว้าง 159 ซม. มีกุญแจล๊อคทุกบาน รุ่น EG5245 - image 2"
       },
       {
         "src": "/images/catalog/eg5245/3.webp",
-        "alt": "NARN-NARN ตู้โชว์บานกระจก-เปิดปิด กว้าง 159 ซม. มีกุญแจล๊อคทุกบาน รุ่น EG5245 รุ่น EG5245 - ภาพ 3"
+        "alt": "NARN-NARN ตู้โชว์บานกระจก-เปิดปิด กว้าง 159 ซม. มีกุญแจล๊อคทุกบาน รุ่น EG5245 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น EG5245",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model EG5245",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2677,28 +2677,28 @@ export const rawProducts = [
     "model": "EM5512",
     "name": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ สูง 200 ซม. มีช่องและชั้นวางเยอะ รุ่น EM5512",
     "shortName": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ สูง 200 ซม. มีช่องและชั้นวางเยอะ รุ่น EM5512",
-    "description": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ สูง 200 ซม. มีช่องและชั้นวางเยอะ รุ่น EM5512 รุ่น EM5512 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ สูง 200 ซม. มีช่องและชั้นวางเยอะ รุ่น EM5512. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/em5512/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/em5512/1.webp",
-        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ สูง 200 ซม. มีช่องและชั้นวางเยอะ รุ่น EM5512 รุ่น EM5512 - ภาพ 1"
+        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ สูง 200 ซม. มีช่องและชั้นวางเยอะ รุ่น EM5512 - image 1"
       },
       {
         "src": "/images/catalog/em5512/2.webp",
-        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ สูง 200 ซม. มีช่องและชั้นวางเยอะ รุ่น EM5512 รุ่น EM5512 - ภาพ 2"
+        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ สูง 200 ซม. มีช่องและชั้นวางเยอะ รุ่น EM5512 - image 2"
       },
       {
         "src": "/images/catalog/em5512/3.webp",
-        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ สูง 200 ซม. มีช่องและชั้นวางเยอะ รุ่น EM5512 รุ่น EM5512 - ภาพ 3"
+        "alt": "NARN-NARN ตู้วางทีวี โต๊ะวางทีวี แนววินเทจ สูง 200 ซม. มีช่องและชั้นวางเยอะ รุ่น EM5512 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น EM5512",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model EM5512",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2709,28 +2709,28 @@ export const rawProducts = [
     "model": "ES5152",
     "name": "ตู้วางทีวี ชั้นวางทีวี กว้าง 150 ซม. วางทีวี 65 นิ้วได้ รุ่น ES5152",
     "shortName": "ตู้วางทีวี ชั้นวางทีวี กว้าง 150 ซม. วางทีวี 65 นิ้วได้ รุ่น ES5152",
-    "description": "ตู้วางทีวี ชั้นวางทีวี กว้าง 150 ซม. วางทีวี 65 นิ้วได้ รุ่น ES5152 รุ่น ES5152 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้วางทีวี ชั้นวางทีวี กว้าง 150 ซม. วางทีวี 65 นิ้วได้ รุ่น ES5152. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/es5152/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/es5152/1.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี กว้าง 150 ซม. วางทีวี 65 นิ้วได้ รุ่น ES5152 รุ่น ES5152 - ภาพ 1"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี กว้าง 150 ซม. วางทีวี 65 นิ้วได้ รุ่น ES5152 - image 1"
       },
       {
         "src": "/images/catalog/es5152/2.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี กว้าง 150 ซม. วางทีวี 65 นิ้วได้ รุ่น ES5152 รุ่น ES5152 - ภาพ 2"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี กว้าง 150 ซม. วางทีวี 65 นิ้วได้ รุ่น ES5152 - image 2"
       },
       {
         "src": "/images/catalog/es5152/3.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี กว้าง 150 ซม. วางทีวี 65 นิ้วได้ รุ่น ES5152 รุ่น ES5152 - ภาพ 3"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี กว้าง 150 ซม. วางทีวี 65 นิ้วได้ รุ่น ES5152 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น ES5152",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model ES5152",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2741,28 +2741,28 @@ export const rawProducts = [
     "model": "F88",
     "name": "ส่งฟรี!! ชั้นวางของ พร้อมบานกระจก เปิดปิด ขาเหล็ก รุ่น F88",
     "shortName": "ส่งฟรี!! ชั้นวางของ พร้อมบานกระจก เปิดปิด ขาเหล็ก รุ่น F88",
-    "description": "ส่งฟรี!! ชั้นวางของ พร้อมบานกระจก เปิดปิด ขาเหล็ก รุ่น F88 รุ่น F88 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ส่งฟรี!! ชั้นวางของ พร้อมบานกระจก เปิดปิด ขาเหล็ก รุ่น F88. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/f88/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/f88/1.webp",
-        "alt": "ส่งฟรี!! ชั้นวางของ พร้อมบานกระจก เปิดปิด ขาเหล็ก รุ่น F88 รุ่น F88 - ภาพ 1"
+        "alt": "ส่งฟรี!! ชั้นวางของ พร้อมบานกระจก เปิดปิด ขาเหล็ก รุ่น F88 - image 1"
       },
       {
         "src": "/images/catalog/f88/2.webp",
-        "alt": "ส่งฟรี!! ชั้นวางของ พร้อมบานกระจก เปิดปิด ขาเหล็ก รุ่น F88 รุ่น F88 - ภาพ 2"
+        "alt": "ส่งฟรี!! ชั้นวางของ พร้อมบานกระจก เปิดปิด ขาเหล็ก รุ่น F88 - image 2"
       },
       {
         "src": "/images/catalog/f88/3.webp",
-        "alt": "ส่งฟรี!! ชั้นวางของ พร้อมบานกระจก เปิดปิด ขาเหล็ก รุ่น F88 รุ่น F88 - ภาพ 3"
+        "alt": "ส่งฟรี!! ชั้นวางของ พร้อมบานกระจก เปิดปิด ขาเหล็ก รุ่น F88 - image 3"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น F88",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model F88",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2773,24 +2773,24 @@ export const rawProducts = [
     "model": "F108",
     "name": "NARN-NARN ชั้นวางของ ชั้นวางหนังสือ กว้าง 89 x สูง 180 ซม. รุ่น F108",
     "shortName": "NARN-NARN ชั้นวางของ ชั้นวางหนังสือ กว้าง 89 x สูง 180 ซม. รุ่น F108",
-    "description": "NARN-NARN ชั้นวางของ ชั้นวางหนังสือ กว้าง 89 x สูง 180 ซม. รุ่น F108 รุ่น F108 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ชั้นวางของ ชั้นวางหนังสือ กว้าง 89 x สูง 180 ซม. รุ่น F108. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/f108/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/f108/1.webp",
-        "alt": "NARN-NARN ชั้นวางของ ชั้นวางหนังสือ กว้าง 89 x สูง 180 ซม. รุ่น F108 รุ่น F108 - ภาพ 1"
+        "alt": "NARN-NARN ชั้นวางของ ชั้นวางหนังสือ กว้าง 89 x สูง 180 ซม. รุ่น F108 - image 1"
       },
       {
         "src": "/images/catalog/f108/2.webp",
-        "alt": "NARN-NARN ชั้นวางของ ชั้นวางหนังสือ กว้าง 89 x สูง 180 ซม. รุ่น F108 รุ่น F108 - ภาพ 2"
+        "alt": "NARN-NARN ชั้นวางของ ชั้นวางหนังสือ กว้าง 89 x สูง 180 ซม. รุ่น F108 - image 2"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น F108",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model F108",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2801,28 +2801,28 @@ export const rawProducts = [
     "model": "F302",
     "name": "ส่งฟรี!! ชั้นวางของ ชั้นวางหนังสือ ขนาดใหญ่ สูง 180 ซม. รุ่น F302 Bookshelf",
     "shortName": "ส่งฟรี!! ชั้นวางของ ชั้นวางหนังสือ ขนาดใหญ่ สูง 180 ซม. รุ่น F302 Bookshelf",
-    "description": "ส่งฟรี!! ชั้นวางของ ชั้นวางหนังสือ ขนาดใหญ่ สูง 180 ซม. รุ่น F302 Bookshelf รุ่น F302 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ส่งฟรี!! ชั้นวางของ ชั้นวางหนังสือ ขนาดใหญ่ สูง 180 ซม. รุ่น F302 Bookshelf. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/f302/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/f302/1.webp",
-        "alt": "ส่งฟรี!! ชั้นวางของ ชั้นวางหนังสือ ขนาดใหญ่ สูง 180 ซม. รุ่น F302 Bookshelf รุ่น F302 - ภาพ 1"
+        "alt": "ส่งฟรี!! ชั้นวางของ ชั้นวางหนังสือ ขนาดใหญ่ สูง 180 ซม. รุ่น F302 Bookshelf - image 1"
       },
       {
         "src": "/images/catalog/f302/2.webp",
-        "alt": "ส่งฟรี!! ชั้นวางของ ชั้นวางหนังสือ ขนาดใหญ่ สูง 180 ซม. รุ่น F302 Bookshelf รุ่น F302 - ภาพ 2"
+        "alt": "ส่งฟรี!! ชั้นวางของ ชั้นวางหนังสือ ขนาดใหญ่ สูง 180 ซม. รุ่น F302 Bookshelf - image 2"
       },
       {
         "src": "/images/catalog/f302/3.webp",
-        "alt": "ส่งฟรี!! ชั้นวางของ ชั้นวางหนังสือ ขนาดใหญ่ สูง 180 ซม. รุ่น F302 Bookshelf รุ่น F302 - ภาพ 3"
+        "alt": "ส่งฟรี!! ชั้นวางของ ชั้นวางหนังสือ ขนาดใหญ่ สูง 180 ซม. รุ่น F302 Bookshelf - image 3"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Storage furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น F302",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model F302",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2833,28 +2833,28 @@ export const rawProducts = [
     "model": "F702",
     "name": "ตู้โชว์ ตู้กระจก บานเปิด-ปิด สไตล์วินเทจ มีชั้นวางของ F702",
     "shortName": "ตู้โชว์ ตู้กระจก บานเปิด-ปิด สไตล์วินเทจ มีชั้นวางของ F702",
-    "description": "ตู้โชว์ ตู้กระจก บานเปิด-ปิด สไตล์วินเทจ มีชั้นวางของ F702 รุ่น F702 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้โชว์ ตู้กระจก บานเปิด-ปิด สไตล์วินเทจ มีชั้นวางของ F702. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/f702/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/f702/1.webp",
-        "alt": "ตู้โชว์ ตู้กระจก บานเปิด-ปิด สไตล์วินเทจ มีชั้นวางของ F702 รุ่น F702 - ภาพ 1"
+        "alt": "ตู้โชว์ ตู้กระจก บานเปิด-ปิด สไตล์วินเทจ มีชั้นวางของ F702 - image 1"
       },
       {
         "src": "/images/catalog/f702/2.webp",
-        "alt": "ตู้โชว์ ตู้กระจก บานเปิด-ปิด สไตล์วินเทจ มีชั้นวางของ F702 รุ่น F702 - ภาพ 2"
+        "alt": "ตู้โชว์ ตู้กระจก บานเปิด-ปิด สไตล์วินเทจ มีชั้นวางของ F702 - image 2"
       },
       {
         "src": "/images/catalog/f702/3.webp",
-        "alt": "ตู้โชว์ ตู้กระจก บานเปิด-ปิด สไตล์วินเทจ มีชั้นวางของ F702 รุ่น F702 - ภาพ 3"
+        "alt": "ตู้โชว์ ตู้กระจก บานเปิด-ปิด สไตล์วินเทจ มีชั้นวางของ F702 - image 3"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น F702",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model F702",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2865,28 +2865,28 @@ export const rawProducts = [
     "model": "F752",
     "name": "NARN-NARN ชั้นวางของ วางหนังสือ+เอกสาร มีบานกระจกเปิดปิด และกุญแจล๊อค รุ่น F752 (80x38x203 ซม.)",
     "shortName": "NARN-NARN ชั้นวางของ วางหนังสือ+เอกสาร มีบานกระจกเปิดปิด และกุญแจล๊อค รุ่น F752 (80x38x203 ซม.)",
-    "description": "NARN-NARN ชั้นวางของ วางหนังสือ+เอกสาร มีบานกระจกเปิดปิด และกุญแจล๊อค รุ่น F752 (80x38x203 ซม.) รุ่น F752 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ชั้นวางของ วางหนังสือ+เอกสาร มีบานกระจกเปิดปิด และกุญแจล๊อค รุ่น F752 (80x38x203 ซม.). Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/f752/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/f752/1.webp",
-        "alt": "NARN-NARN ชั้นวางของ วางหนังสือ+เอกสาร มีบานกระจกเปิดปิด และกุญแจล๊อค รุ่น F752 (80x38x203 ซม.) รุ่น F752 - ภาพ 1"
+        "alt": "NARN-NARN ชั้นวางของ วางหนังสือ+เอกสาร มีบานกระจกเปิดปิด และกุญแจล๊อค รุ่น F752 (80x38x203 ซม.) - image 1"
       },
       {
         "src": "/images/catalog/f752/2.webp",
-        "alt": "NARN-NARN ชั้นวางของ วางหนังสือ+เอกสาร มีบานกระจกเปิดปิด และกุญแจล๊อค รุ่น F752 (80x38x203 ซม.) รุ่น F752 - ภาพ 2"
+        "alt": "NARN-NARN ชั้นวางของ วางหนังสือ+เอกสาร มีบานกระจกเปิดปิด และกุญแจล๊อค รุ่น F752 (80x38x203 ซม.) - image 2"
       },
       {
         "src": "/images/catalog/f752/3.webp",
-        "alt": "NARN-NARN ชั้นวางของ วางหนังสือ+เอกสาร มีบานกระจกเปิดปิด และกุญแจล๊อค รุ่น F752 (80x38x203 ซม.) รุ่น F752 - ภาพ 3"
+        "alt": "NARN-NARN ชั้นวางของ วางหนังสือ+เอกสาร มีบานกระจกเปิดปิด และกุญแจล๊อค รุ่น F752 (80x38x203 ซม.) - image 3"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น F752",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model F752",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2897,28 +2897,28 @@ export const rawProducts = [
     "model": "F804",
     "name": "ตู้เก็บของ ตู้4ลิ้นชัก พร้อม 1 กุญแจล๊อค 4 บาน ขาเหล็ก รุ่น F804",
     "shortName": "ตู้เก็บของ ตู้4ลิ้นชัก พร้อม 1 กุญแจล๊อค 4 บาน ขาเหล็ก รุ่น F804",
-    "description": "ตู้เก็บของ ตู้4ลิ้นชัก พร้อม 1 กุญแจล๊อค 4 บาน ขาเหล็ก รุ่น F804 รุ่น F804 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้เก็บของ ตู้4ลิ้นชัก พร้อม 1 กุญแจล๊อค 4 บาน ขาเหล็ก รุ่น F804. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/f804/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/f804/1.webp",
-        "alt": "ตู้เก็บของ ตู้4ลิ้นชัก พร้อม 1 กุญแจล๊อค 4 บาน ขาเหล็ก รุ่น F804 รุ่น F804 - ภาพ 1"
+        "alt": "ตู้เก็บของ ตู้4ลิ้นชัก พร้อม 1 กุญแจล๊อค 4 บาน ขาเหล็ก รุ่น F804 - image 1"
       },
       {
         "src": "/images/catalog/f804/2.webp",
-        "alt": "ตู้เก็บของ ตู้4ลิ้นชัก พร้อม 1 กุญแจล๊อค 4 บาน ขาเหล็ก รุ่น F804 รุ่น F804 - ภาพ 2"
+        "alt": "ตู้เก็บของ ตู้4ลิ้นชัก พร้อม 1 กุญแจล๊อค 4 บาน ขาเหล็ก รุ่น F804 - image 2"
       },
       {
         "src": "/images/catalog/f804/3.webp",
-        "alt": "ตู้เก็บของ ตู้4ลิ้นชัก พร้อม 1 กุญแจล๊อค 4 บาน ขาเหล็ก รุ่น F804 รุ่น F804 - ภาพ 3"
+        "alt": "ตู้เก็บของ ตู้4ลิ้นชัก พร้อม 1 กุญแจล๊อค 4 บาน ขาเหล็ก รุ่น F804 - image 3"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น F804",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model F804",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2929,28 +2929,28 @@ export const rawProducts = [
     "model": "F805",
     "name": "ตู้เก็บของ 4 ลิ้นชัก และ 1 บานเปิดกระจกใส พร้อมกุญแจล๊อค 2 ตัว ขาเหล็ก รุ่น F805",
     "shortName": "ตู้เก็บของ 4 ลิ้นชัก และ 1 บานเปิดกระจกใส พร้อมกุญแจล๊อค 2 ตัว ขาเหล็ก รุ่น F805",
-    "description": "ตู้เก็บของ 4 ลิ้นชัก และ 1 บานเปิดกระจกใส พร้อมกุญแจล๊อค 2 ตัว ขาเหล็ก รุ่น F805 รุ่น F805 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้เก็บของ 4 ลิ้นชัก และ 1 บานเปิดกระจกใส พร้อมกุญแจล๊อค 2 ตัว ขาเหล็ก รุ่น F805. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/f805/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/f805/1.webp",
-        "alt": "ตู้เก็บของ 4 ลิ้นชัก และ 1 บานเปิดกระจกใส พร้อมกุญแจล๊อค 2 ตัว ขาเหล็ก รุ่น F805 รุ่น F805 - ภาพ 1"
+        "alt": "ตู้เก็บของ 4 ลิ้นชัก และ 1 บานเปิดกระจกใส พร้อมกุญแจล๊อค 2 ตัว ขาเหล็ก รุ่น F805 - image 1"
       },
       {
         "src": "/images/catalog/f805/2.webp",
-        "alt": "ตู้เก็บของ 4 ลิ้นชัก และ 1 บานเปิดกระจกใส พร้อมกุญแจล๊อค 2 ตัว ขาเหล็ก รุ่น F805 รุ่น F805 - ภาพ 2"
+        "alt": "ตู้เก็บของ 4 ลิ้นชัก และ 1 บานเปิดกระจกใส พร้อมกุญแจล๊อค 2 ตัว ขาเหล็ก รุ่น F805 - image 2"
       },
       {
         "src": "/images/catalog/f805/3.webp",
-        "alt": "ตู้เก็บของ 4 ลิ้นชัก และ 1 บานเปิดกระจกใส พร้อมกุญแจล๊อค 2 ตัว ขาเหล็ก รุ่น F805 รุ่น F805 - ภาพ 3"
+        "alt": "ตู้เก็บของ 4 ลิ้นชัก และ 1 บานเปิดกระจกใส พร้อมกุญแจล๊อค 2 ตัว ขาเหล็ก รุ่น F805 - image 3"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น F805",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model F805",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2961,28 +2961,28 @@ export const rawProducts = [
     "model": "F806",
     "name": "NARN-NARN ตู้เอนกประสงค์ บานเปิด-ปิด มีกุญแจล๊อค ขาเหล็ก F806",
     "shortName": "NARN-NARN ตู้เอนกประสงค์ บานเปิด-ปิด มีกุญแจล๊อค ขาเหล็ก F806",
-    "description": "NARN-NARN ตู้เอนกประสงค์ บานเปิด-ปิด มีกุญแจล๊อค ขาเหล็ก F806 รุ่น F806 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เอนกประสงค์ บานเปิด-ปิด มีกุญแจล๊อค ขาเหล็ก F806. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/f806/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/f806/1.webp",
-        "alt": "NARN-NARN ตู้เอนกประสงค์ บานเปิด-ปิด มีกุญแจล๊อค ขาเหล็ก F806 รุ่น F806 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เอนกประสงค์ บานเปิด-ปิด มีกุญแจล๊อค ขาเหล็ก F806 - image 1"
       },
       {
         "src": "/images/catalog/f806/2.webp",
-        "alt": "NARN-NARN ตู้เอนกประสงค์ บานเปิด-ปิด มีกุญแจล๊อค ขาเหล็ก F806 รุ่น F806 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เอนกประสงค์ บานเปิด-ปิด มีกุญแจล๊อค ขาเหล็ก F806 - image 2"
       },
       {
         "src": "/images/catalog/f806/3.webp",
-        "alt": "NARN-NARN ตู้เอนกประสงค์ บานเปิด-ปิด มีกุญแจล๊อค ขาเหล็ก F806 รุ่น F806 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เอนกประสงค์ บานเปิด-ปิด มีกุญแจล๊อค ขาเหล็ก F806 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น F806",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model F806",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -2993,28 +2993,28 @@ export const rawProducts = [
     "model": "F814",
     "name": "NARN-NARN ตู้เก็บของ ตู้4ลิ้นชัก รุ่น F814",
     "shortName": "NARN-NARN ตู้เก็บของ ตู้4ลิ้นชัก รุ่น F814",
-    "description": "NARN-NARN ตู้เก็บของ ตู้4ลิ้นชัก รุ่น F814 รุ่น F814 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เก็บของ ตู้4ลิ้นชัก รุ่น F814. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/f814/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/f814/1.webp",
-        "alt": "NARN-NARN ตู้เก็บของ ตู้4ลิ้นชัก รุ่น F814 รุ่น F814 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เก็บของ ตู้4ลิ้นชัก รุ่น F814 - image 1"
       },
       {
         "src": "/images/catalog/f814/2.webp",
-        "alt": "NARN-NARN ตู้เก็บของ ตู้4ลิ้นชัก รุ่น F814 รุ่น F814 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เก็บของ ตู้4ลิ้นชัก รุ่น F814 - image 2"
       },
       {
         "src": "/images/catalog/f814/3.webp",
-        "alt": "NARN-NARN ตู้เก็บของ ตู้4ลิ้นชัก รุ่น F814 รุ่น F814 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เก็บของ ตู้4ลิ้นชัก รุ่น F814 - image 3"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น F814",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model F814",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3025,28 +3025,28 @@ export const rawProducts = [
     "model": "F8844",
     "name": "NARN-NARN ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8844",
     "shortName": "NARN-NARN ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8844",
-    "description": "NARN-NARN ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8844 รุ่น F8844 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8844. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/f8844/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/f8844/1.webp",
-        "alt": "NARN-NARN ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8844 รุ่น F8844 - ภาพ 1"
+        "alt": "NARN-NARN ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8844 - image 1"
       },
       {
         "src": "/images/catalog/f8844/2.webp",
-        "alt": "NARN-NARN ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8844 รุ่น F8844 - ภาพ 2"
+        "alt": "NARN-NARN ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8844 - image 2"
       },
       {
         "src": "/images/catalog/f8844/3.webp",
-        "alt": "NARN-NARN ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8844 รุ่น F8844 - ภาพ 3"
+        "alt": "NARN-NARN ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8844 - image 3"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น F8844",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model F8844",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3057,28 +3057,28 @@ export const rawProducts = [
     "model": "F8845",
     "name": "ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8845",
     "shortName": "ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8845",
-    "description": "ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8845 รุ่น F8845 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8845. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/f8845/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/f8845/1.webp",
-        "alt": "ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8845 รุ่น F8845 - ภาพ 1"
+        "alt": "ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8845 - image 1"
       },
       {
         "src": "/images/catalog/f8845/2.webp",
-        "alt": "ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8845 รุ่น F8845 - ภาพ 2"
+        "alt": "ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8845 - image 2"
       },
       {
         "src": "/images/catalog/f8845/3.webp",
-        "alt": "ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8845 รุ่น F8845 - ภาพ 3"
+        "alt": "ชั้นวางหนังสือ ชั้นวางของ ตู้เก็บของ กระจกใสบานเลื่อน และบานล๊อคด้านล่าง รุ่น F8845 - image 3"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น F8845",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model F8845",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3089,28 +3089,28 @@ export const rawProducts = [
     "model": "FL3",
     "name": "(ส่งฟรี) ตู้เก็บของ ตู้ล็อคเกอร์ มีกุญแจล๊อค ทุกบาน รุ่น FL3",
     "shortName": "(ส่งฟรี) ตู้เก็บของ ตู้ล็อคเกอร์ มีกุญแจล๊อค ทุกบาน รุ่น FL3",
-    "description": "(ส่งฟรี) ตู้เก็บของ ตู้ล็อคเกอร์ มีกุญแจล๊อค ทุกบาน รุ่น FL3 รุ่น FL3 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "(ส่งฟรี) ตู้เก็บของ ตู้ล็อคเกอร์ มีกุญแจล๊อค ทุกบาน รุ่น FL3. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/fl3/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/fl3/1.webp",
-        "alt": "(ส่งฟรี) ตู้เก็บของ ตู้ล็อคเกอร์ มีกุญแจล๊อค ทุกบาน รุ่น FL3 รุ่น FL3 - ภาพ 1"
+        "alt": "(ส่งฟรี) ตู้เก็บของ ตู้ล็อคเกอร์ มีกุญแจล๊อค ทุกบาน รุ่น FL3 - image 1"
       },
       {
         "src": "/images/catalog/fl3/2.webp",
-        "alt": "(ส่งฟรี) ตู้เก็บของ ตู้ล็อคเกอร์ มีกุญแจล๊อค ทุกบาน รุ่น FL3 รุ่น FL3 - ภาพ 2"
+        "alt": "(ส่งฟรี) ตู้เก็บของ ตู้ล็อคเกอร์ มีกุญแจล๊อค ทุกบาน รุ่น FL3 - image 2"
       },
       {
         "src": "/images/catalog/fl3/3.webp",
-        "alt": "(ส่งฟรี) ตู้เก็บของ ตู้ล็อคเกอร์ มีกุญแจล๊อค ทุกบาน รุ่น FL3 รุ่น FL3 - ภาพ 3"
+        "alt": "(ส่งฟรี) ตู้เก็บของ ตู้ล็อคเกอร์ มีกุญแจล๊อค ทุกบาน รุ่น FL3 - image 3"
       }
     ],
-    "category": "ชั้นวางและตู้เก็บของ",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น FL3",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model FL3",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3119,30 +3119,30 @@ export const rawProducts = [
   {
     "slug": "fl4",
     "model": "FL4",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น FL4",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น FL4",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น FL4 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model FL4",
+    "shortName": "Sunny Furniture model FL4",
+    "description": "Sunny Furniture model FL4. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/fl4/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/fl4/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น FL4 รุ่น FL4 - ภาพ 1"
+        "alt": "Sunny Furniture model FL4 - image 1"
       },
       {
         "src": "/images/catalog/fl4/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น FL4 รุ่น FL4 - ภาพ 2"
+        "alt": "Sunny Furniture model FL4 - image 2"
       },
       {
         "src": "/images/catalog/fl4/3.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น FL4 รุ่น FL4 - ภาพ 3"
+        "alt": "Sunny Furniture model FL4 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น FL4",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model FL4",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -3151,30 +3151,30 @@ export const rawProducts = [
   {
     "slug": "fm104",
     "model": "FM104",
-    "name": "สินค้าเฟอร์นิเจอร์ รุ่น FM104",
-    "shortName": "สินค้าเฟอร์นิเจอร์ รุ่น FM104",
-    "description": "เฟอร์นิเจอร์ Sunny Furniture รุ่น FM104 พร้อมภาพสินค้า โปรดสอบถามทีมขายเพื่อยืนยันรายละเอียด",
+    "name": "Sunny Furniture model FM104",
+    "shortName": "Sunny Furniture model FM104",
+    "description": "Sunny Furniture model FM104. Please contact the sales team to confirm specifications and availability.",
     "image": "/images/catalog/fm104/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/fm104/1.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น FM104 รุ่น FM104 - ภาพ 1"
+        "alt": "Sunny Furniture model FM104 - image 1"
       },
       {
         "src": "/images/catalog/fm104/2.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น FM104 รุ่น FM104 - ภาพ 2"
+        "alt": "Sunny Furniture model FM104 - image 2"
       },
       {
         "src": "/images/catalog/fm104/3.webp",
-        "alt": "สินค้าเฟอร์นิเจอร์ รุ่น FM104 รุ่น FM104 - ภาพ 3"
+        "alt": "Sunny Furniture model FM104 - image 3"
       }
     ],
-    "category": "เฟอร์นิเจอร์ Sunny Furniture",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น FM104",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model FM104",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": false,
@@ -3185,28 +3185,28 @@ export const rawProducts = [
     "model": "G357",
     "name": "NARN-NARN ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ มี 2 ลิ้นชัก Shoe cabinet รุ่น G357",
     "shortName": "NARN-NARN ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ มี 2 ลิ้นชัก Shoe cabinet รุ่น G357",
-    "description": "NARN-NARN ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ มี 2 ลิ้นชัก Shoe cabinet รุ่น G357 รุ่น G357 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ มี 2 ลิ้นชัก Shoe cabinet รุ่น G357. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/g357/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/g357/1.webp",
-        "alt": "NARN-NARN ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ มี 2 ลิ้นชัก Shoe cabinet รุ่น G357 รุ่น G357 - ภาพ 1"
+        "alt": "NARN-NARN ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ มี 2 ลิ้นชัก Shoe cabinet รุ่น G357 - image 1"
       },
       {
         "src": "/images/catalog/g357/2.webp",
-        "alt": "NARN-NARN ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ มี 2 ลิ้นชัก Shoe cabinet รุ่น G357 รุ่น G357 - ภาพ 2"
+        "alt": "NARN-NARN ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ มี 2 ลิ้นชัก Shoe cabinet รุ่น G357 - image 2"
       },
       {
         "src": "/images/catalog/g357/3.webp",
-        "alt": "NARN-NARN ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ มี 2 ลิ้นชัก Shoe cabinet รุ่น G357 รุ่น G357 - ภาพ 3"
+        "alt": "NARN-NARN ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ มี 2 ลิ้นชัก Shoe cabinet รุ่น G357 - image 3"
       }
     ],
-    "category": "ตู้รองเท้า",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Shoe cabinets",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น G357",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model G357",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3217,28 +3217,28 @@ export const rawProducts = [
     "model": "G358",
     "name": "ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ Shoe cabinet รุ่น G358",
     "shortName": "ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ Shoe cabinet รุ่น G358",
-    "description": "ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ Shoe cabinet รุ่น G358 รุ่น G358 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ Shoe cabinet รุ่น G358. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/g358/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/g358/1.webp",
-        "alt": "ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ Shoe cabinet รุ่น G358 รุ่น G358 - ภาพ 1"
+        "alt": "ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ Shoe cabinet รุ่น G358 - image 1"
       },
       {
         "src": "/images/catalog/g358/2.webp",
-        "alt": "ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ Shoe cabinet รุ่น G358 รุ่น G358 - ภาพ 2"
+        "alt": "ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ Shoe cabinet รุ่น G358 - image 2"
       },
       {
         "src": "/images/catalog/g358/3.webp",
-        "alt": "ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ Shoe cabinet รุ่น G358 รุ่น G358 - ภาพ 3"
+        "alt": "ตู้รองเท้า ชั้นวางรองท้า เก็บรองเท้าได้เยอะ Shoe cabinet รุ่น G358 - image 3"
       }
     ],
-    "category": "ตู้รองเท้า",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Shoe cabinets",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น G358",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model G358",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3249,28 +3249,28 @@ export const rawProducts = [
     "model": "GS424",
     "name": "SUNNY ตู้เก็บรองเท้า บานเลื่อน พร้อมเบาะนั่ง ใส่รองเท้าได้ประมาณ 10-12คู่ รุ่น GS424",
     "shortName": "SUNNY ตู้เก็บรองเท้า บานเลื่อน พร้อมเบาะนั่ง ใส่รองเท้าได้ประมาณ 10-12คู่ รุ่น GS424",
-    "description": "SUNNY ตู้เก็บรองเท้า บานเลื่อน พร้อมเบาะนั่ง ใส่รองเท้าได้ประมาณ 10-12คู่ รุ่น GS424 รุ่น GS424 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "SUNNY ตู้เก็บรองเท้า บานเลื่อน พร้อมเบาะนั่ง ใส่รองเท้าได้ประมาณ 10-12คู่ รุ่น GS424. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/gs424/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/gs424/1.webp",
-        "alt": "SUNNY ตู้เก็บรองเท้า บานเลื่อน พร้อมเบาะนั่ง ใส่รองเท้าได้ประมาณ 10-12คู่ รุ่น GS424 รุ่น GS424 - ภาพ 1"
+        "alt": "SUNNY ตู้เก็บรองเท้า บานเลื่อน พร้อมเบาะนั่ง ใส่รองเท้าได้ประมาณ 10-12คู่ รุ่น GS424 - image 1"
       },
       {
         "src": "/images/catalog/gs424/2.webp",
-        "alt": "SUNNY ตู้เก็บรองเท้า บานเลื่อน พร้อมเบาะนั่ง ใส่รองเท้าได้ประมาณ 10-12คู่ รุ่น GS424 รุ่น GS424 - ภาพ 2"
+        "alt": "SUNNY ตู้เก็บรองเท้า บานเลื่อน พร้อมเบาะนั่ง ใส่รองเท้าได้ประมาณ 10-12คู่ รุ่น GS424 - image 2"
       },
       {
         "src": "/images/catalog/gs424/3.webp",
-        "alt": "SUNNY ตู้เก็บรองเท้า บานเลื่อน พร้อมเบาะนั่ง ใส่รองเท้าได้ประมาณ 10-12คู่ รุ่น GS424 รุ่น GS424 - ภาพ 3"
+        "alt": "SUNNY ตู้เก็บรองเท้า บานเลื่อน พร้อมเบาะนั่ง ใส่รองเท้าได้ประมาณ 10-12คู่ รุ่น GS424 - image 3"
       }
     ],
-    "category": "ตู้รองเท้า",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น GS424",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model GS424",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3281,28 +3281,28 @@ export const rawProducts = [
     "model": "GS457",
     "name": "NARN-NARN ตู้เก็บรองเท้า ตู้วางรองเท้า บานสไลด์เปิดปิดได้ รุ่น GS457",
     "shortName": "NARN-NARN ตู้เก็บรองเท้า ตู้วางรองเท้า บานสไลด์เปิดปิดได้ รุ่น GS457",
-    "description": "NARN-NARN ตู้เก็บรองเท้า ตู้วางรองเท้า บานสไลด์เปิดปิดได้ รุ่น GS457 รุ่น GS457 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้เก็บรองเท้า ตู้วางรองเท้า บานสไลด์เปิดปิดได้ รุ่น GS457. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/gs457/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/gs457/1.webp",
-        "alt": "NARN-NARN ตู้เก็บรองเท้า ตู้วางรองเท้า บานสไลด์เปิดปิดได้ รุ่น GS457 รุ่น GS457 - ภาพ 1"
+        "alt": "NARN-NARN ตู้เก็บรองเท้า ตู้วางรองเท้า บานสไลด์เปิดปิดได้ รุ่น GS457 - image 1"
       },
       {
         "src": "/images/catalog/gs457/2.webp",
-        "alt": "NARN-NARN ตู้เก็บรองเท้า ตู้วางรองเท้า บานสไลด์เปิดปิดได้ รุ่น GS457 รุ่น GS457 - ภาพ 2"
+        "alt": "NARN-NARN ตู้เก็บรองเท้า ตู้วางรองเท้า บานสไลด์เปิดปิดได้ รุ่น GS457 - image 2"
       },
       {
         "src": "/images/catalog/gs457/3.webp",
-        "alt": "NARN-NARN ตู้เก็บรองเท้า ตู้วางรองเท้า บานสไลด์เปิดปิดได้ รุ่น GS457 รุ่น GS457 - ภาพ 3"
+        "alt": "NARN-NARN ตู้เก็บรองเท้า ตู้วางรองเท้า บานสไลด์เปิดปิดได้ รุ่น GS457 - image 3"
       }
     ],
-    "category": "ตู้รองเท้า",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น GS457",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model GS457",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3313,28 +3313,28 @@ export const rawProducts = [
     "model": "HT1202",
     "name": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 120 ซม. วางทีวี 50 นิ้วได้ - ไม้ปาร์ติเกิ้ล รุ่น HT1202",
     "shortName": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 120 ซม. วางทีวี 50 นิ้วได้ - ไม้ปาร์ติเกิ้ล รุ่น HT1202",
-    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 120 ซม. วางทีวี 50 นิ้วได้ - ไม้ปาร์ติเกิ้ล รุ่น HT1202 รุ่น HT1202 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 120 ซม. วางทีวี 50 นิ้วได้ - ไม้ปาร์ติเกิ้ล รุ่น HT1202. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/ht1202/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/ht1202/1.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 120 ซม. วางทีวี 50 นิ้วได้ - ไม้ปาร์ติเกิ้ล รุ่น HT1202 รุ่น HT1202 - ภาพ 1"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 120 ซม. วางทีวี 50 นิ้วได้ - ไม้ปาร์ติเกิ้ล รุ่น HT1202 - image 1"
       },
       {
         "src": "/images/catalog/ht1202/2.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 120 ซม. วางทีวี 50 นิ้วได้ - ไม้ปาร์ติเกิ้ล รุ่น HT1202 รุ่น HT1202 - ภาพ 2"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 120 ซม. วางทีวี 50 นิ้วได้ - ไม้ปาร์ติเกิ้ล รุ่น HT1202 - image 2"
       },
       {
         "src": "/images/catalog/ht1202/3.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 120 ซม. วางทีวี 50 นิ้วได้ - ไม้ปาร์ติเกิ้ล รุ่น HT1202 รุ่น HT1202 - ภาพ 3"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 120 ซม. วางทีวี 50 นิ้วได้ - ไม้ปาร์ติเกิ้ล รุ่น HT1202 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น HT1202",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model HT1202",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3345,28 +3345,28 @@ export const rawProducts = [
     "model": "HT1501",
     "name": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1501",
     "shortName": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1501",
-    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1501 รุ่น HT1501 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1501. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/ht1501/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/ht1501/1.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1501 รุ่น HT1501 - ภาพ 1"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1501 - image 1"
       },
       {
         "src": "/images/catalog/ht1501/2.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1501 รุ่น HT1501 - ภาพ 2"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1501 - image 2"
       },
       {
         "src": "/images/catalog/ht1501/3.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1501 รุ่น HT1501 - ภาพ 3"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1501 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "TV stands",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น HT1501",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model HT1501",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3377,28 +3377,28 @@ export const rawProducts = [
     "model": "HT1502",
     "name": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1502",
     "shortName": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1502",
-    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1502 รุ่น HT1502 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1502. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/ht1502/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/ht1502/1.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1502 รุ่น HT1502 - ภาพ 1"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1502 - image 1"
       },
       {
         "src": "/images/catalog/ht1502/2.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1502 รุ่น HT1502 - ภาพ 2"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1502 - image 2"
       },
       {
         "src": "/images/catalog/ht1502/3.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1502 รุ่น HT1502 - ภาพ 3"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาดใหญ่ 150 ซม. วางทีวี 65 นิ้วได้ TV stand cabinet รุ่น HT1502 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "TV stands",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น HT1502",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model HT1502",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3409,28 +3409,28 @@ export const rawProducts = [
     "model": "HT1802",
     "name": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวีขนาด 80 นิ้วได้ - HT1802",
     "shortName": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวีขนาด 80 นิ้วได้ - HT1802",
-    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวีขนาด 80 นิ้วได้ - HT1802 รุ่น HT1802 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวีขนาด 80 นิ้วได้ - HT1802. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/ht1802/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/ht1802/1.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวีขนาด 80 นิ้วได้ - HT1802 รุ่น HT1802 - ภาพ 1"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวีขนาด 80 นิ้วได้ - HT1802 - image 1"
       },
       {
         "src": "/images/catalog/ht1802/2.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวีขนาด 80 นิ้วได้ - HT1802 รุ่น HT1802 - ภาพ 2"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวีขนาด 80 นิ้วได้ - HT1802 - image 2"
       },
       {
         "src": "/images/catalog/ht1802/3.webp",
-        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวีขนาด 80 นิ้วได้ - HT1802 รุ่น HT1802 - ภาพ 3"
+        "alt": "ตู้วางทีวี ชั้นวางทีวี ขนาด 180 ซม. วางทีวีขนาด 80 นิ้วได้ - HT1802 - image 3"
       }
     ],
-    "category": "ตู้วางทีวีและชั้นวางทีวี",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น HT1802",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model HT1802",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3441,28 +3441,28 @@ export const rawProducts = [
     "model": "SH08",
     "name": "ตู้รองเท้า ชั้นวางรองเท้า วางของ ขนาดเล็ก รุ่น SH08",
     "shortName": "ตู้รองเท้า ชั้นวางรองเท้า วางของ ขนาดเล็ก รุ่น SH08",
-    "description": "ตู้รองเท้า ชั้นวางรองเท้า วางของ ขนาดเล็ก รุ่น SH08 รุ่น SH08 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้รองเท้า ชั้นวางรองเท้า วางของ ขนาดเล็ก รุ่น SH08. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/sh08/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/sh08/1.webp",
-        "alt": "ตู้รองเท้า ชั้นวางรองเท้า วางของ ขนาดเล็ก รุ่น SH08 รุ่น SH08 - ภาพ 1"
+        "alt": "ตู้รองเท้า ชั้นวางรองเท้า วางของ ขนาดเล็ก รุ่น SH08 - image 1"
       },
       {
         "src": "/images/catalog/sh08/2.webp",
-        "alt": "ตู้รองเท้า ชั้นวางรองเท้า วางของ ขนาดเล็ก รุ่น SH08 รุ่น SH08 - ภาพ 2"
+        "alt": "ตู้รองเท้า ชั้นวางรองเท้า วางของ ขนาดเล็ก รุ่น SH08 - image 2"
       },
       {
         "src": "/images/catalog/sh08/3.webp",
-        "alt": "ตู้รองเท้า ชั้นวางรองเท้า วางของ ขนาดเล็ก รุ่น SH08 รุ่น SH08 - ภาพ 3"
+        "alt": "ตู้รองเท้า ชั้นวางรองเท้า วางของ ขนาดเล็ก รุ่น SH08 - image 3"
       }
     ],
-    "category": "ตู้รองเท้า",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น SH08",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model SH08",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3473,28 +3473,28 @@ export const rawProducts = [
     "model": "SH12",
     "name": "NARN-NARN ตู้วางรองเท้า จำนวน 12 ช่อง ใส่รองเท้าได้ 12-15 คู่ รุ่น SH12",
     "shortName": "NARN-NARN ตู้วางรองเท้า จำนวน 12 ช่อง ใส่รองเท้าได้ 12-15 คู่ รุ่น SH12",
-    "description": "NARN-NARN ตู้วางรองเท้า จำนวน 12 ช่อง ใส่รองเท้าได้ 12-15 คู่ รุ่น SH12 รุ่น SH12 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN ตู้วางรองเท้า จำนวน 12 ช่อง ใส่รองเท้าได้ 12-15 คู่ รุ่น SH12. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/sh12/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/sh12/1.webp",
-        "alt": "NARN-NARN ตู้วางรองเท้า จำนวน 12 ช่อง ใส่รองเท้าได้ 12-15 คู่ รุ่น SH12 รุ่น SH12 - ภาพ 1"
+        "alt": "NARN-NARN ตู้วางรองเท้า จำนวน 12 ช่อง ใส่รองเท้าได้ 12-15 คู่ รุ่น SH12 - image 1"
       },
       {
         "src": "/images/catalog/sh12/2.webp",
-        "alt": "NARN-NARN ตู้วางรองเท้า จำนวน 12 ช่อง ใส่รองเท้าได้ 12-15 คู่ รุ่น SH12 รุ่น SH12 - ภาพ 2"
+        "alt": "NARN-NARN ตู้วางรองเท้า จำนวน 12 ช่อง ใส่รองเท้าได้ 12-15 คู่ รุ่น SH12 - image 2"
       },
       {
         "src": "/images/catalog/sh12/3.webp",
-        "alt": "NARN-NARN ตู้วางรองเท้า จำนวน 12 ช่อง ใส่รองเท้าได้ 12-15 คู่ รุ่น SH12 รุ่น SH12 - ภาพ 3"
+        "alt": "NARN-NARN ตู้วางรองเท้า จำนวน 12 ช่อง ใส่รองเท้าได้ 12-15 คู่ รุ่น SH12 - image 3"
       }
     ],
-    "category": "ตู้รองเท้า",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น SH12",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model SH12",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3505,28 +3505,28 @@ export const rawProducts = [
     "model": "SH20",
     "name": "ตู้รองเท้า ชั้นวางรองเท้า ขนาดใหญ่ จำนวน 20 ช่อง ใส่ได้หลายคู่ รุ่น SH20",
     "shortName": "ตู้รองเท้า ชั้นวางรองเท้า ขนาดใหญ่ จำนวน 20 ช่อง ใส่ได้หลายคู่ รุ่น SH20",
-    "description": "ตู้รองเท้า ชั้นวางรองเท้า ขนาดใหญ่ จำนวน 20 ช่อง ใส่ได้หลายคู่ รุ่น SH20 รุ่น SH20 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ตู้รองเท้า ชั้นวางรองเท้า ขนาดใหญ่ จำนวน 20 ช่อง ใส่ได้หลายคู่ รุ่น SH20. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/sh20/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/sh20/1.webp",
-        "alt": "ตู้รองเท้า ชั้นวางรองเท้า ขนาดใหญ่ จำนวน 20 ช่อง ใส่ได้หลายคู่ รุ่น SH20 รุ่น SH20 - ภาพ 1"
+        "alt": "ตู้รองเท้า ชั้นวางรองเท้า ขนาดใหญ่ จำนวน 20 ช่อง ใส่ได้หลายคู่ รุ่น SH20 - image 1"
       },
       {
         "src": "/images/catalog/sh20/2.webp",
-        "alt": "ตู้รองเท้า ชั้นวางรองเท้า ขนาดใหญ่ จำนวน 20 ช่อง ใส่ได้หลายคู่ รุ่น SH20 รุ่น SH20 - ภาพ 2"
+        "alt": "ตู้รองเท้า ชั้นวางรองเท้า ขนาดใหญ่ จำนวน 20 ช่อง ใส่ได้หลายคู่ รุ่น SH20 - image 2"
       },
       {
         "src": "/images/catalog/sh20/3.webp",
-        "alt": "ตู้รองเท้า ชั้นวางรองเท้า ขนาดใหญ่ จำนวน 20 ช่อง ใส่ได้หลายคู่ รุ่น SH20 รุ่น SH20 - ภาพ 3"
+        "alt": "ตู้รองเท้า ชั้นวางรองเท้า ขนาดใหญ่ จำนวน 20 ช่อง ใส่ได้หลายคู่ รุ่น SH20 - image 3"
       }
     ],
-    "category": "ตู้รองเท้า",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น SH20",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model SH20",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3537,28 +3537,28 @@ export const rawProducts = [
     "model": "SH980",
     "name": "SUNNY ตู้เก็บรองเท้า ใส่รองเท้าได้ประมาณ 16 คู่ พร้อมบานเปิด-ปิด รุ่น SH980",
     "shortName": "SUNNY ตู้เก็บรองเท้า ใส่รองเท้าได้ประมาณ 16 คู่ พร้อมบานเปิด-ปิด รุ่น SH980",
-    "description": "SUNNY ตู้เก็บรองเท้า ใส่รองเท้าได้ประมาณ 16 คู่ พร้อมบานเปิด-ปิด รุ่น SH980 รุ่น SH980 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "SUNNY ตู้เก็บรองเท้า ใส่รองเท้าได้ประมาณ 16 คู่ พร้อมบานเปิด-ปิด รุ่น SH980. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/sh980/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/sh980/1.webp",
-        "alt": "SUNNY ตู้เก็บรองเท้า ใส่รองเท้าได้ประมาณ 16 คู่ พร้อมบานเปิด-ปิด รุ่น SH980 รุ่น SH980 - ภาพ 1"
+        "alt": "SUNNY ตู้เก็บรองเท้า ใส่รองเท้าได้ประมาณ 16 คู่ พร้อมบานเปิด-ปิด รุ่น SH980 - image 1"
       },
       {
         "src": "/images/catalog/sh980/2.webp",
-        "alt": "SUNNY ตู้เก็บรองเท้า ใส่รองเท้าได้ประมาณ 16 คู่ พร้อมบานเปิด-ปิด รุ่น SH980 รุ่น SH980 - ภาพ 2"
+        "alt": "SUNNY ตู้เก็บรองเท้า ใส่รองเท้าได้ประมาณ 16 คู่ พร้อมบานเปิด-ปิด รุ่น SH980 - image 2"
       },
       {
         "src": "/images/catalog/sh980/3.webp",
-        "alt": "SUNNY ตู้เก็บรองเท้า ใส่รองเท้าได้ประมาณ 16 คู่ พร้อมบานเปิด-ปิด รุ่น SH980 รุ่น SH980 - ภาพ 3"
+        "alt": "SUNNY ตู้เก็บรองเท้า ใส่รองเท้าได้ประมาณ 16 คู่ พร้อมบานเปิด-ปิด รุ่น SH980 - image 3"
       }
     ],
-    "category": "ตู้รองเท้า",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น SH980",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model SH980",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3569,28 +3569,28 @@ export const rawProducts = [
     "model": "TC110",
     "name": "ส่งฟรี!! โต๊ะทำงาน โต๊ะเขียนหนังสือ กว้าง 110 ซม. รุ่น TC110",
     "shortName": "ส่งฟรี!! โต๊ะทำงาน โต๊ะเขียนหนังสือ กว้าง 110 ซม. รุ่น TC110",
-    "description": "ส่งฟรี!! โต๊ะทำงาน โต๊ะเขียนหนังสือ กว้าง 110 ซม. รุ่น TC110 รุ่น TC110 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ส่งฟรี!! โต๊ะทำงาน โต๊ะเขียนหนังสือ กว้าง 110 ซม. รุ่น TC110. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/tc110/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/tc110/1.webp",
-        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะเขียนหนังสือ กว้าง 110 ซม. รุ่น TC110 รุ่น TC110 - ภาพ 1"
+        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะเขียนหนังสือ กว้าง 110 ซม. รุ่น TC110 - image 1"
       },
       {
         "src": "/images/catalog/tc110/2.webp",
-        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะเขียนหนังสือ กว้าง 110 ซม. รุ่น TC110 รุ่น TC110 - ภาพ 2"
+        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะเขียนหนังสือ กว้าง 110 ซม. รุ่น TC110 - image 2"
       },
       {
         "src": "/images/catalog/tc110/3.webp",
-        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะเขียนหนังสือ กว้าง 110 ซม. รุ่น TC110 รุ่น TC110 - ภาพ 3"
+        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะเขียนหนังสือ กว้าง 110 ซม. รุ่น TC110 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น TC110",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model TC110",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3601,28 +3601,28 @@ export const rawProducts = [
     "model": "TC111",
     "name": "ส่งฟรี!! โต๊ะทำงาน โต๊ะหนังสือ + 4 ลิ้นชัก กว้าง 120 ซม. รุ่น TC111",
     "shortName": "ส่งฟรี!! โต๊ะทำงาน โต๊ะหนังสือ + 4 ลิ้นชัก กว้าง 120 ซม. รุ่น TC111",
-    "description": "ส่งฟรี!! โต๊ะทำงาน โต๊ะหนังสือ + 4 ลิ้นชัก กว้าง 120 ซม. รุ่น TC111 รุ่น TC111 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "ส่งฟรี!! โต๊ะทำงาน โต๊ะหนังสือ + 4 ลิ้นชัก กว้าง 120 ซม. รุ่น TC111. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/tc111/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/tc111/1.webp",
-        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะหนังสือ + 4 ลิ้นชัก กว้าง 120 ซม. รุ่น TC111 รุ่น TC111 - ภาพ 1"
+        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะหนังสือ + 4 ลิ้นชัก กว้าง 120 ซม. รุ่น TC111 - image 1"
       },
       {
         "src": "/images/catalog/tc111/2.webp",
-        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะหนังสือ + 4 ลิ้นชัก กว้าง 120 ซม. รุ่น TC111 รุ่น TC111 - ภาพ 2"
+        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะหนังสือ + 4 ลิ้นชัก กว้าง 120 ซม. รุ่น TC111 - image 2"
       },
       {
         "src": "/images/catalog/tc111/3.webp",
-        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะหนังสือ + 4 ลิ้นชัก กว้าง 120 ซม. รุ่น TC111 รุ่น TC111 - ภาพ 3"
+        "alt": "ส่งฟรี!! โต๊ะทำงาน โต๊ะหนังสือ + 4 ลิ้นชัก กว้าง 120 ซม. รุ่น TC111 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น TC111",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model TC111",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
@@ -3633,28 +3633,28 @@ export const rawProducts = [
     "model": "TC150",
     "name": "NARN-NARN โต๊ะทำงาน กว้าง 150 ซม. ท๊อปด้วยเมลามีนขาว รุ่น TC150",
     "shortName": "NARN-NARN โต๊ะทำงาน กว้าง 150 ซม. ท๊อปด้วยเมลามีนขาว รุ่น TC150",
-    "description": "NARN-NARN โต๊ะทำงาน กว้าง 150 ซม. ท๊อปด้วยเมลามีนขาว รุ่น TC150 รุ่น TC150 พร้อมภาพสินค้าและรายละเอียดเบื้องต้นจาก Sunny Furniture",
+    "description": "NARN-NARN โต๊ะทำงาน กว้าง 150 ซม. ท๊อปด้วยเมลามีนขาว รุ่น TC150. Product images and available details from Sunny Furniture.",
     "image": "/images/catalog/tc150/1.webp",
     "gallery": [
       {
         "src": "/images/catalog/tc150/1.webp",
-        "alt": "NARN-NARN โต๊ะทำงาน กว้าง 150 ซม. ท๊อปด้วยเมลามีนขาว รุ่น TC150 รุ่น TC150 - ภาพ 1"
+        "alt": "NARN-NARN โต๊ะทำงาน กว้าง 150 ซม. ท๊อปด้วยเมลามีนขาว รุ่น TC150 - image 1"
       },
       {
         "src": "/images/catalog/tc150/2.webp",
-        "alt": "NARN-NARN โต๊ะทำงาน กว้าง 150 ซม. ท๊อปด้วยเมลามีนขาว รุ่น TC150 รุ่น TC150 - ภาพ 2"
+        "alt": "NARN-NARN โต๊ะทำงาน กว้าง 150 ซม. ท๊อปด้วยเมลามีนขาว รุ่น TC150 - image 2"
       },
       {
         "src": "/images/catalog/tc150/3.webp",
-        "alt": "NARN-NARN โต๊ะทำงาน กว้าง 150 ซม. ท๊อปด้วยเมลามีนขาว รุ่น TC150 รุ่น TC150 - ภาพ 3"
+        "alt": "NARN-NARN โต๊ะทำงาน กว้าง 150 ซม. ท๊อปด้วยเมลามีนขาว รุ่น TC150 - image 3"
       }
     ],
-    "category": "โต๊ะและโต๊ะเครื่องแป้ง",
-    "material": "สอบถามทีมขายเพื่อยืนยันวัสดุ สี และรายละเอียดของรุ่นก่อนสั่งซื้อ",
+    "category": "Sunny Furniture",
+    "material": "Please contact the sales team to confirm materials, colour, and dimensions before ordering.",
     "features": [
-      "รุ่น TC150",
-      "มีภาพสินค้าจากแคตตาล็อก",
-      "ติดต่อทีมขายเพื่อยืนยันรายละเอียดก่อนสั่งซื้อ"
+      "Model TC150",
+      "Product photos from the local catalogue",
+      "Contact sales to confirm details before ordering"
     ],
     "availability": "https://schema.org/InStock",
     "indexable": true,
