@@ -7,6 +7,8 @@ import { catalogProducts } from '../../data/catalog';
 const title = 'แคตตาล็อกเฟอร์นิเจอร์ | Sunny Furniture';
 const description = 'เลือกดูตู้เสื้อผ้า เตียง โต๊ะเครื่องแป้ง ตู้วางทีวี ตู้เก็บของ ตู้รองเท้า และโต๊ะทำงานจาก Sunny Furniture พร้อมรายละเอียดสินค้าแต่ละรุ่น';
 const categories = [...new Set(catalogProducts.map((product) => product.category))];
+const searchTitle = 'ตู้เสื้อผ้า เตียงนอน และเฟอร์นิเจอร์ ราคาโรงงาน | Sunny Furniture';
+const searchDescription = 'เลือกตู้เสื้อผ้า เตียงนอน ตู้เก็บของ และเฟอร์นิเจอร์ราคาโรงงานจาก Sunny Furniture สำหรับบ้าน หอพัก อพาร์ตเมนต์ ร้านค้า และโครงการ';
 const categoryLinks = [
 	{ href: '/categories/wardrobes', label: 'ตู้เสื้อผ้าและตู้เก็บของ' },
 	{ href: '/categories/beds', label: 'เตียงและชุดห้องนอน' },
@@ -31,7 +33,7 @@ const itemListSchema = {
 <!doctype html>
 <html lang="th">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={searchTitle} description={searchDescription} />
 		<script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} />
 	</head>
 	<body>
