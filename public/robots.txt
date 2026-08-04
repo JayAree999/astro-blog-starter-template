@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://v2.sunny.co.th/sitemap-index.xml
+Sitemap: https://catalog.sunny.co.th/sitemap-index.xml

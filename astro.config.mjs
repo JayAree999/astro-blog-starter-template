@@ -5,13 +5,13 @@ import sitemap from '@astrojs/sitemap';
 import cloudflare from '@astrojs/cloudflare';
 
 export default defineConfig({
-	site: 'https://v2.sunny.co.th',
+	site: 'https://catalog.sunny.co.th',
 	integrations: [
 		mdx(),
 		sitemap({
 			filter: (page) => {
 				const path = new URL(page).pathname;
-				return !path.startsWith('/blog/') && path !== '/about/';
+			return !path.startsWith('/blog/') && path !== '/about/' && path !== '/updates/';
 			},
 		}),
 	],

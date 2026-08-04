@@ -1,0 +1,41 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { categoryGuides } from '../../data/categories';
+import { products } from '../../data/products';
+
+export function getStaticPaths() {
+	return categoryGuides.map((guide) => ({ params: { slug: guide.slug }, props: { guide } }));
+}
+
+const { guide } = Astro.props;
+const featuredProducts = guide.productSlugs
+	.map((slug: string) => products.find((product) => product.slug === slug))
+	.filter(Boolean);
+const imagePath = (path: string) => path.replace(/\.png$/, '.webp');
+const collectionSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'CollectionPage',
+	name: guide.title,
+	description: guide.description,
+	mainEntity: { '@type': 'ItemList', itemListElement: featuredProducts.map((product, position) => ({ '@type': 'ListItem', position: position + 1, url: new URL(`/products/${product.slug}`, Astro.site).toString(), name: product.name })) },
+};
+---
+
+<!doctype html>
+<html lang="th">
+	<head><BaseHead title={`${guide.title} | Sunny Furniture`} description={guide.description} /><script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} /></head>
+	<body>
+		<Header />
+		<main>
+			<section class="guide-hero wrap"><p class="eyebrow">SUNNY FURNITURE GUIDE</p><h1>{guide.title}</h1><p class="lead">{guide.intro}</p><a class="button" href="#models">ดูรุ่นสินค้าในหมวดนี้</a></section>
+			<section class="guide-points wrap"><div><p class="eyebrow">BEFORE YOU BUY</p><h2>เลือกให้เหมาะกับพื้นที่และการใช้งาน</h2></div><ul class="feature-list">{guide.buyingPoints.map((point) => <li>{point}</li>)}</ul></section>
+			<section id="models" class="section wrap"><p class="eyebrow">SELECTED MODELS</p><h2>รุ่นแนะนำ</h2><div class="product-grid">{featuredProducts.map((product) => <article class="product-card"><img src={imagePath(product.image)} width="800" height="800" loading="lazy" alt={product.gallery[0].alt} /><div><p class="card-label">รุ่น {product.model}</p><h3>{product.shortName}</h3><p>{product.description}</p><a href={`/products/${product.slug}`}>ดูรายละเอียดสินค้า →</a></div></article>)}</div></section>
+			<section class="guide-contact"><div class="wrap"><h2>ต้องการสั่งซื้อหลายรายการหรือสั่งผลิตสำหรับโครงการ?</h2><p>แจ้งรุ่นสินค้า จำนวนที่ต้องการ และสถานที่จัดส่ง เพื่อให้ทีมขายช่วยแนะนำสินค้าและจัดทำใบเสนอราคาได้ตรงความต้องการ</p><a class="button button-light" href="/#contact">ขอใบเสนอราคา</a></div></section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>.guide-hero{padding:5.5rem 0 3rem}.guide-hero .lead{max-width:72ch}.guide-points{display:grid;grid-template-columns:1fr 1fr;gap:3rem;padding:2.5rem 0 4rem;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}.guide-points h2{max-width:18ch}.guide-points .feature-list{margin:0}.guide-contact{padding:4.5rem 0;background:var(--brand-dark);color:#fff}.guide-contact h2{max-width:28ch}.guide-contact p{max-width:60ch;color:#d4e0d8}@media(max-width:760px){.guide-hero{padding:3.5rem 0 2rem}.guide-points{grid-template-columns:1fr;gap:1rem;padding:2.5rem 0}.guide-contact{padding:3.5rem 0}}</style>

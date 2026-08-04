@@ -1,0 +1,15 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+
+const updates = [{ date: '4 สิงหาคม 2026', title: 'ย้ายแคตตาล็อกไปยัง catalog.sunny.co.th', items: ['อัปเดต canonical URL, องค์กร schema, robots.txt และ sitemap ให้ใช้โดเมนใหม่', 'ส่ง sitemap ให้ Google Search Console แล้ว', 'เพิ่มหน้าหมวดสินค้า: ตู้เสื้อผ้า เตียง ตู้วางทีวี และตู้เก็บของ/ตู้รองเท้า'] }];
+---
+
+<!doctype html>
+<html lang="th">
+	<head><BaseHead title="บันทึกการอัปเดตเว็บไซต์ | Sunny Furniture" description="บันทึกการอัปเดตเนื้อหาและ SEO ของ Sunny Furniture" robots="noindex,follow" /></head>
+	<body><Header /><main class="updates-page wrap"><p class="eyebrow">SITE UPDATE LOG</p><h1>บันทึกการอัปเดตเว็บไซต์</h1><p class="lead">หน้านี้รวบรวมสิ่งที่เพิ่มหรือปรับปรุงในแต่ละครั้ง เพื่อให้ติดตามเนื้อหาและการทำ SEO ได้ง่ายขึ้น</p>{updates.map((update) => <article class="update-entry"><p class="card-label">{update.date}</p><h2>{update.title}</h2><ul>{update.items.map((item) => <li>{item}</li>)}</ul></article>)}</main><Footer /></body>
+</html>
+
+<style>.updates-page{padding:5rem 0}.updates-page .lead{max-width:65ch}.update-entry{max-width:760px;margin-top:2.5rem;padding:2rem;background:var(--surface);border:1px solid var(--line);border-radius:12px}.update-entry ul{padding-left:1.2rem}.update-entry li{margin:.65rem 0}@media(max-width:760px){.updates-page{padding:3.5rem 0}}</style>
