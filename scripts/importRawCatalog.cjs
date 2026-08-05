@@ -50,7 +50,8 @@ async function main() {
   for (const folderEntry of modelFolders) {
     const model = folderEntry.name;
     const folder = path.join(SOURCE_ROOT, model);
-    const sourceImages = listImages(folder).slice(0, 3);
+    // Keep the complete model gallery in sync with the local source folder.
+    const sourceImages = listImages(folder);
     if (!sourceImages.length) continue;
     const safeModel = model.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     const outputFolder = path.join(ASSET_ROOT, safeModel);
