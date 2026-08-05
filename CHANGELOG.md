@@ -1,5 +1,9 @@
 # Sunny Furniture Catalog - Change Log
 
+## 2026-08-05
+
+- Removed glow-like backgrounds and reduced shadows, preview-image shadows, and hover lift effects throughout the catalog.
+
 ## 2026-08-04
 
 - Replaced the Why Sunny block with Thai wholesale search content covering factory pricing, furniture wholesale, wardrobes, beds, shops, and projects. Removed export wording and updated the stated typical OEM minimum to 60–70+ pieces per design.
