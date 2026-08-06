@@ -4,8 +4,8 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { catalogProducts } from '../../data/catalog';
 
-const title = 'ตู้เสื้อผ้า เตียงนอน และเฟอร์นิเจอร์ ราคาโรงงาน | Sunny Furniture';
-const description = 'เลือกตู้เสื้อผ้า เตียงนอน ตู้วางทีวี ตู้รองเท้า และเฟอร์นิเจอร์ราคาโรงงานจาก Sunny Furniture สำหรับบ้าน หอพัก อพาร์ตเมนต์ ร้านค้า และโครงการ';
+const title = 'แคตตาล็อก SUNNY Furniture | ตู้เสื้อผ้า เตียงนอน';
+const description = `ดูแคตตาล็อก SUNNY Furniture รวม ${catalogProducts.length} รุ่น ตู้เสื้อผ้า เตียงนอน ตู้ทีวี ตู้รองเท้า และเฟอร์นิเจอร์ราคาโรงงาน สำหรับขายส่ง โครงการ และ OEM`;
 const familyFor = (model: string) => model.startsWith('D') ? 'wardrobe' : model.startsWith('B') ? 'bed' : 'other';
 const labels = { all: 'สินค้าทั้งหมด', wardrobe: 'ตู้เสื้อผ้า', bed: 'เตียงนอน', other: 'เฟอร์นิเจอร์อื่น ๆ' };
 const imagePath = (path: string) => path.replace(/\.png$/, '.webp');
@@ -18,9 +18,9 @@ const imagePath = (path: string) => path.replace(/\.png$/, '.webp');
 		<Header />
 		<main>
 			<section class="catalog-hero wrap">
-				<p class="eyebrow">SUNNY FURNITURE · FACTORY CATALOG</p>
-				<h1>เลือกเฟอร์นิเจอร์ให้ตรงกับพื้นที่และการใช้งาน</h1>
-				<p class="lead">รวมตู้เสื้อผ้า เตียงนอน ตู้วางทีวี ตู้เก็บของ และเฟอร์นิเจอร์สำหรับบ้าน หอพัก อพาร์ตเมนต์ ร้านค้า และงานโครงการ</p>
+				<p class="eyebrow">SUNNY CATALOG · FACTORY DIRECT</p>
+				<h1>แคตตาล็อก SUNNY Furniture รวม {catalogProducts.length} รุ่น</h1>
+				<p class="lead">เลือกตู้เสื้อผ้า เตียงนอน ตู้วางทีวี ตู้เก็บของ และเฟอร์นิเจอร์ราคาโรงงาน สำหรับบ้าน หอพัก อพาร์ตเมนต์ ร้านค้า งานขายส่ง และโครงการ</p>
 				<div class="catalog-trust"><span>รูปสินค้าจากคลังจริง</span><span>สอบถามราคาโรงงานได้</span><span>รองรับงานขายส่งและ OEM</span></div>
 			</section>
 
