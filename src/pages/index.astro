@@ -13,7 +13,7 @@ const organizationSchema = {
 	'@type': 'Organization',
 	name: 'Sunny Furniture by Deelert Woodline',
 	url: 'https://catalog.sunny.co.th',
-	logo: 'https://catalog.sunny.co.th/images/hero/wardrobe-solid-oak.jpg',
+	logo: 'https://catalog.sunny.co.th/images/brand/sunny-furniture-logo.png',
 	email: 'deelert@sunny.co.th',
 	telephone: '+66-34-852-188',
 	address: {
@@ -24,6 +24,14 @@ const organizationSchema = {
 		addressCountry: 'TH',
 	},
 };
+
+const websiteSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'WebSite',
+	name: 'Sunny Furniture',
+	alternateName: ['SUNNY', 'catalog.sunny.co.th'],
+	url: 'https://catalog.sunny.co.th/',
+};
 ---
 
 <!doctype html>
@@ -31,6 +39,7 @@ const organizationSchema = {
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+		<script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
 	</head>
 	<body>
 		<Header />
