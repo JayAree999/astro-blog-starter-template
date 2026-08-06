@@ -8,6 +8,113 @@ import { catalogProducts } from '../data/catalog';
 const featuredModels = ['D6122', 'D6123', 'D6124', 'B5058', 'B5111', 'B5112'];
 const featuredProducts = featuredModels.flatMap((model) => catalogProducts.filter((product) => product.model === model));
 
+const popularSearchGroups = [
+	{
+		title: 'ตู้เสื้อผ้า',
+		items: [
+			['ตู้เสื้อผ้าราคาถูก', '/categories/wardrobes/'],
+			['ตู้เสื้อผ้าราคาโรงงาน', '/categories/wardrobes/'],
+			['ตู้เสื้อผ้า 2 ประตู', '/products?filter=wardrobe'],
+			['ตู้เสื้อผ้า 3 ประตู', '/products?filter=wardrobe'],
+			['ตู้เสื้อผ้า 4 ประตู', '/products?filter=wardrobe'],
+			['ตู้เสื้อผ้ามีกระจก', '/products?filter=wardrobe'],
+			['ตู้เสื้อผ้ามีลิ้นชัก', '/products?filter=wardrobe'],
+			['ตู้เสื้อผ้าสำหรับหอพัก', '/categories/wardrobes/'],
+		],
+	},
+	{
+		title: 'เตียงนอนและชุดห้องนอน',
+		items: [
+			['เตียงนอนราคาถูก', '/categories/beds/'],
+			['เตียงนอนราคาโรงงาน', '/categories/beds/'],
+			['เตียงนอน 3.5 ฟุต', '/products?filter=bed'],
+			['เตียงนอน 5 ฟุต', '/products?filter=bed'],
+			['เตียงนอน 6 ฟุต', '/products?filter=bed'],
+			['เตียงไม้', '/categories/beds/'],
+			['เตียงนอนมินิมอล', '/categories/beds/'],
+			['ชุดห้องนอนราคาถูก', '/categories/beds/'],
+		],
+	},
+	{
+		title: 'ตู้ทีวีและห้องนั่งเล่น',
+		items: [
+			['ตู้วางทีวีราคาถูก', '/categories/tv-stands/'],
+			['ตู้วางทีวีราคาโรงงาน', '/categories/tv-stands/'],
+			['ตู้วางทีวีมินิมอล', '/categories/tv-stands/'],
+			['ตู้วางทีวี 55 นิ้ว', '/categories/tv-stands/'],
+			['ตู้วางทีวี 65 นิ้ว', '/categories/tv-stands/'],
+			['ชั้นวางทีวี', '/categories/tv-stands/'],
+			['เฟอร์นิเจอร์ห้องรับแขก', '/categories/tv-stands/'],
+			['เฟอร์นิเจอร์ห้องนั่งเล่น', '/categories/tv-stands/'],
+		],
+	},
+	{
+		title: 'ตู้เก็บของและตู้รองเท้า',
+		items: [
+			['ตู้รองเท้าราคาถูก', '/categories/storage-and-shoe-cabinets/'],
+			['ตู้รองเท้ามินิมอล', '/categories/storage-and-shoe-cabinets/'],
+			['ตู้เก็บของราคาถูก', '/categories/storage-and-shoe-cabinets/'],
+			['ตู้เก็บของอเนกประสงค์', '/categories/storage-and-shoe-cabinets/'],
+			['ตู้เก็บของขนาดเล็ก', '/categories/storage-and-shoe-cabinets/'],
+			['ตู้เก็บของประหยัดพื้นที่', '/categories/storage-and-shoe-cabinets/'],
+			['ชั้นวางของราคาถูก', '/categories/storage-and-shoe-cabinets/'],
+			['ตู้ลิ้นชัก', '/categories/storage-and-shoe-cabinets/'],
+		],
+	},
+	{
+		title: 'แต่งห้องตามสไตล์',
+		items: [
+			['เฟอร์นิเจอร์มินิมอล', '/products'],
+			['เฟอร์นิเจอร์โมเดิร์น', '/products'],
+			['เฟอร์นิเจอร์สีขาว', '/products'],
+			['เฟอร์นิเจอร์สีไม้', '/products'],
+			['แต่งห้องนอนงบน้อย', '/products'],
+			['เฟอร์นิเจอร์สำหรับห้องเล็ก', '/products'],
+			['เฟอร์นิเจอร์ประหยัดพื้นที่', '/products'],
+			['เฟอร์นิเจอร์แต่งห้องราคาถูก', '/products'],
+		],
+	},
+	{
+		title: 'หอพัก คอนโด และโครงการ',
+		items: [
+			['เฟอร์นิเจอร์หอพัก', '/products'],
+			['ชุดเฟอร์นิเจอร์หอพัก', '/products'],
+			['เฟอร์นิเจอร์อพาร์ตเมนต์', '/products'],
+			['เฟอร์นิเจอร์คอนโด', '/products'],
+			['เฟอร์นิเจอร์ห้องเช่า', '/products'],
+			['เฟอร์นิเจอร์โรงแรม', '/products'],
+			['เฟอร์นิเจอร์งานโครงการ', '/#contact'],
+			['สั่งเฟอร์นิเจอร์ยกโครงการ', '/#contact'],
+		],
+	},
+	{
+		title: 'ราคาโรงงานและขายส่ง',
+		items: [
+			['เฟอร์นิเจอร์ราคาถูก', '/products'],
+			['เฟอร์นิเจอร์ราคาโรงงาน', '/products'],
+			['เฟอร์นิเจอร์ขายส่ง', '/#contact'],
+			['ซื้อเฟอร์นิเจอร์จากโรงงาน', '/products'],
+			['เฟอร์นิเจอร์ราคาส่งสำหรับร้านค้า', '/#contact'],
+			['โรงงานเฟอร์นิเจอร์สมุทรสาคร', '/#contact'],
+			['ขอใบเสนอราคาเฟอร์นิเจอร์', '/#contact'],
+			['แคตตาล็อกเฟอร์นิเจอร์ PDF', '/products'],
+		],
+	},
+	{
+		title: 'รับผลิต OEM',
+		items: [
+			['รับผลิตเฟอร์นิเจอร์', '/#oem'],
+			['รับผลิตเฟอร์นิเจอร์ OEM', '/#oem'],
+			['รับผลิตเฟอร์นิเจอร์ตามแบบ', '/#oem'],
+			['รับผลิตเฟอร์นิเจอร์ไม้ตามแบบ', '/#oem'],
+			['รับผลิตตู้เสื้อผ้าตามแบบ', '/#oem'],
+			['รับผลิตเตียงนอนตามแบบ', '/#oem'],
+			['ผลิตเฟอร์นิเจอร์แบรนด์ลูกค้า', '/#oem'],
+			['โรงงานเฟอร์นิเจอร์ส่งออก', '/#oem'],
+		],
+	},
+] as const;
+
 const organizationSchema = {
 	'@context': 'https://schema.org',
 	'@type': 'Organization',
@@ -47,7 +154,7 @@ const websiteSchema = {
 			<section class="hero wrap">
 				<div class="hero-copy">
 					<p class="eyebrow">SUNNY CATALOG · DEELERT WOODLINE · SINCE 1990</p>
-					<h1>แคตตาล็อกเฟอร์นิเจอร์ SUNNY<wbr /> ราคาโรงงาน</h1>
+					<h1>ตู้เสื้อผ้า เตียงนอน และเฟอร์นิเจอร์ SUNNY<wbr /> ราคาโรงงาน</h1>
 					<p class="lead">เลือกดู SUNNY Catalog จากโรงงานผู้ผลิตเฟอร์นิเจอร์ไม้ปาร์ติเกิลและ MDF รวมตู้เสื้อผ้า เตียงนอน ตู้ทีวี และตู้เก็บของ สำหรับร้านค้า หอพัก อพาร์ตเมนต์ คอนโด และโครงการ พร้อมบริการขายส่ง OEM และส่งออก</p>
 					<div class="actions">
 						<a class="button" href="#contact">ขอใบเสนอราคา</a>
@@ -71,6 +178,22 @@ const websiteSchema = {
 				<a href="/products?filter=wardrobe"><strong>ตู้เสื้อผ้า</strong><span>สำหรับบ้าน หอพัก และอพาร์ตเมนต์</span></a>
 				<a href="/products?filter=bed"><strong>เตียงนอน</strong><span>เตียงไม้และชุดห้องนอนหลายขนาด</span></a>
 				<a href="/products"><strong>เฟอร์นิเจอร์ราคาโรงงาน</strong><span>ตู้วางทีวี ตู้เก็บของ และงานโครงการ</span></a>
+			</section>
+
+			<section class="popular-searches wrap" aria-labelledby="popular-searches-title">
+				<div class="popular-searches-heading">
+					<p class="eyebrow">POPULAR FURNITURE SEARCHES</p>
+					<h2 id="popular-searches-title">เลือกเฟอร์นิเจอร์ตามสินค้า พื้นที่ และงบประมาณ</h2>
+					<p>รวมทางลัดสำหรับค้นหาตู้เสื้อผ้า เตียงนอน ตู้วางทีวี ตู้เก็บของ เฟอร์นิเจอร์หอพัก งานขายส่ง และงานผลิต OEM จากแคตตาล็อก SUNNY Furniture</p>
+				</div>
+				<div class="popular-search-grid">
+					{popularSearchGroups.map((group) => (
+						<article class="popular-search-group">
+							<h3>{group.title}</h3>
+							<ul>{group.items.map(([label, href]) => <li><a href={href}>{label}</a></li>)}</ul>
+						</article>
+					))}
+				</div>
 			</section>
 
 			<section id="products" class="section wrap">
@@ -103,3 +226,7 @@ const websiteSchema = {
 		<Footer />
 	</body>
 </html>
+
+<style>
+	.popular-searches{padding:4.5rem 0}.popular-searches-heading{display:grid;grid-template-columns:.75fr 1.25fr;column-gap:2rem;align-items:start}.popular-searches-heading .eyebrow{grid-column:1/-1}.popular-searches-heading h2{max-width:17ch}.popular-searches-heading>p:last-child{max-width:66ch;color:var(--muted)}.popular-search-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1rem;margin-top:2rem}.popular-search-group{padding:1.25rem;background:var(--surface);border:1px solid var(--line);border-radius:14px}.popular-search-group h3{font-size:1.05rem;margin-bottom:.8rem}.popular-search-group ul{display:flex;flex-wrap:wrap;gap:.45rem;margin:0;padding:0;list-style:none}.popular-search-group a{display:inline-block;padding:.35rem .55rem;border-radius:99px;background:var(--paper);color:var(--ink);font-size:.88rem;text-decoration:none}.popular-search-group a:hover{background:var(--brand);color:#fff}@media(max-width:900px){.popular-search-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:600px){.popular-searches{padding:3.25rem 0}.popular-searches-heading{grid-template-columns:1fr}.popular-search-grid{grid-template-columns:1fr}}
+</style>
